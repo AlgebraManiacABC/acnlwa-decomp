@@ -34,6 +34,7 @@ jobs:
 
       - name: Set up tools and originals
         run: |
+          mkdir -p ${{ matrix.version }}/tools ${{ matrix.version }}/orig
           cp -r /tools ${{ matrix.version }}/tools
           cp -r /orig/. ${{ matrix.version }}/orig/
 
