@@ -1,0 +1,41 @@
+name: Build
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    name: Build (${{ matrix.version }})
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/AlgebraManiacABC/acnlwa-build:main
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+
+    strategy:
+      matrix:
+        version: [CTR-P-EAAE]
+      fail-fast: false
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Checkout pipeline
+        uses: actions/checkout@v4
+        with:
+          repository: AlgebraManiacABC/3DS-Decomp-Pipeline
+          path: pipeline
+
+      - name: Install pipeline dependencies
+        run: pip install pyyaml --break-system-packages
+
+      - name: Set up tools and originals
+        run: |
+          cp -r /tools ${{ matrix.version }}/tools
+          cp -r /orig/. ${{ matrix.version }}/orig/
+
+      - name: Run pipeline
+        run: python pipeline/main.py ${{ matrix.version }}
