@@ -12,8 +12,6 @@ __pycache__/
 .Python
 tools/*
 !tools/.gitkeep
-orig/*
-!orig/.gitkeep
 build/
 develop-eggs/
 dist/
