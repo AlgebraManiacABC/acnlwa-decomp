@@ -41,7 +41,7 @@ jobs:
         run: python pipeline/main.py versions/${{ matrix.version }}
 
       - name: Upload objdiff.json
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: ${{ matrix.version }}_objdiff
           path: versions/${{ matrix.version }}/objdiff.json
@@ -55,7 +55,7 @@ jobs:
             --project versions/${{ matrix.version }}
 
       - name: Upload progress report
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: ${{ matrix.version }}_report
           path: versions/${{ matrix.version }}/build/report.json
