@@ -30,7 +30,7 @@ jobs:
           path: pipeline
 
       - name: Install pipeline dependencies
-        run: pip install pyyaml --break-system-packages
+        run: pip install pyyaml typing_extensions --break-system-packages
 
       - name: Set up tools and originals
         run: |
