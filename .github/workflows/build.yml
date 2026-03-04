@@ -46,6 +46,7 @@ jobs:
       - name: Debug ELF
         run: |
           readelf -h versions/${{ matrix.version }}/build/code.bin/00100000.o
+          readelf -S versions/CTR-P-EAAE/build/code.bin/00100000.o
 
       - name: Generate progress report
         run: |
