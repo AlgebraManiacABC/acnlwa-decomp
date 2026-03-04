@@ -40,6 +40,9 @@ jobs:
       - name: Run pipeline
         run: python pipeline/main.py versions/${{ matrix.version }}
 
+      - name: Debug ELF
+        run: readelf -h versions/${{ matrix.version }}/build/code.bin/00100000.o
+
       - name: Generate progress report
         run: |
           curl -fSL --retry 3 https://github.com/encounter/objdiff/releases/latest/download/objdiff-cli-linux-x86_64 \
