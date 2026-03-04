@@ -49,8 +49,6 @@ jobs:
           readelf -S versions/CTR-P-EAAE/build/code.bin/00100000.o
 
       - name: Generate progress report
-        env:
-          RUST_BACKTRACE: 1
         run: |
           curl -fSL --retry 3 https://github.com/encounter/objdiff/releases/latest/download/objdiff-cli-linux-x86_64 \
             -o /usr/local/bin/objdiff-cli
