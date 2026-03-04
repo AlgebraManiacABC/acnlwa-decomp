@@ -9,7 +9,7 @@ jobs:
     name: Build (${{ matrix.version }})
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/AlgebraManiacABC/acnlwa-build:main
+      image: ghcr.io/algebramaniacabc/acnlwa-build:main
       credentials:
         username: ${{ github.actor }}
         password: ${{ secrets.GITHUB_TOKEN }}
