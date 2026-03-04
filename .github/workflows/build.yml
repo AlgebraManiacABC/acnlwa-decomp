@@ -35,7 +35,7 @@ jobs:
       - name: Set up tools and originals
         run: |
           ln -s /tools ${{ matrix.version }}/tools
-          cp -r /${{ matrix.version }}/orig/. ${{ matrix.version }}/orig/
+          cp -r /versions/${{ matrix.version }}/orig/. ${{ matrix.version }}/orig/
 
       - name: Run pipeline
         run: python pipeline/main.py ${{ matrix.version }}
