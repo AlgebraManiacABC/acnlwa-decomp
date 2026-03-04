@@ -1,0 +1,12 @@
+code.bin:
+    FUN_00536060.c:
+        cc: armcc_4.1_1049
+        flags: []
+    Item_GetID.c:
+        cc: armcc_4.1_1049
+        flags: [-O3]
+
+ModuleIndoor.cro:
+    FUN_00005198.c:
+        cc: armcc_4.1_1049
+        flags: [-O3, --cpu=MPCore, --fpmode=fast, --apcs=/interwork]

@@ -10,6 +10,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+tools/*
+!tools/.gitkeep
+orig/*
+!orig/.gitkeep
 build/
 develop-eggs/
 dist/
