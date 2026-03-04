@@ -40,13 +40,11 @@ jobs:
       - name: Run pipeline
         run: python pipeline/main.py versions/${{ matrix.version }}
 
-      - name: Install binutils for debugging
-        run: apk add binutils
-
-      - name: Debug ELF
-        run: |
-          readelf -h versions/${{ matrix.version }}/build/code.bin/00100000.o
-          readelf -S versions/CTR-P-EAAE/build/code.bin/00100000.o
+      - name: Upload objdiff.json
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.version }}_objdiff
+          path: versions/${{ matrix.version }}/objdiff.json
 
       - name: Generate progress report
         run: |
