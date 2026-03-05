@@ -16,7 +16,11 @@ code.bin:
     cc: armcc_4.1_1049
     flags: [-O3]
 
+  Item_Clear.c:
+    cc: armcc_4.1_1049
+    flags: [-O3, --cpu=MPCore]
+
 ModuleIndoor.cro:
   FUN_00005198.c:
     cc: armcc_4.1_1049
-    flags: [-O3, --cpu=MPCore, --fpmode=fast, --apcs=/interwork]
+    flags: [-O3, --cpu=MPCore]
