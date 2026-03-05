@@ -10,8 +10,12 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-tools/*
-!tools/.gitkeep
+versions/*/orig/*
+versions/*/tools/*
+!*tools/.gitkeep
+versions/*/out/
+versions/*/build/
+objdiff.json
 build/
 develop-eggs/
 dist/

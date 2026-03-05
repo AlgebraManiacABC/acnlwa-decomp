@@ -1,4 +1,7 @@
 code.bin:
+    Item_GetRawID.c:
+        cc: armcc_4.1_1049
+        flags: []
     FUN_00536060.c:
         cc: armcc_4.1_1049
         flags: []
