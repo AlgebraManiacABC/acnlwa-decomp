@@ -3,11 +3,14 @@ default:
   flags: []
 
 code.bin:
-    Item_GetID.c:
-        cc: armcc_4.1_1049
-        flags: [-O3]
+  ignored:
+    - Item_IsNullItem.c
+
+  Item_GetID.c:
+    cc: armcc_4.1_1049
+    flags: [-O3]
 
 ModuleIndoor.cro:
-    FUN_00005198.c:
-        cc: armcc_4.1_1049
-        flags: [-O3, --cpu=MPCore, --fpmode=fast, --apcs=/interwork]
+  FUN_00005198.c:
+    cc: armcc_4.1_1049
+    flags: [-O3, --cpu=MPCore, --fpmode=fast, --apcs=/interwork]
