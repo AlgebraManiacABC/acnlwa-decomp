@@ -7,4 +7,6 @@ typedef struct Item_t
     ushort flags;
 } Item_t;
 
+#define NUM_ITEMS 0x172B
+
 #endif
