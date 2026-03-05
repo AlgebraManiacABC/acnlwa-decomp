@@ -4,12 +4,16 @@ extern int Item_GetID(unsigned short * item);
 #define DAT_0053608c 0x953238
 #define DAT_00536090 0x871AC4
 
-int FUN_00536060(unsigned short * item) {
+int FUN_00536060(unsigned short * item)
+{
     unsigned int item_id = Item_GetID(item);
-    if (item_id == 0xffffffff || item_id >= NUM_ITEMS) {
+    if (item_id == 0xffffffff || item_id >= NUM_ITEMS)
+    {
         int * p = (int*)DAT_0053608c;
         return p[11];
-    } else {
+    }
+    else
+    {
         int * p = (int*)DAT_00536090;
         return p[item_id];
     }
