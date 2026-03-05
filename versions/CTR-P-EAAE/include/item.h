@@ -1,6 +1,8 @@
 #ifndef CTR_P_EAAE_ITEM_H
 #define CTR_P_EAAE_ITEM_H
 
+#include "types.h"
+
 typedef struct Item_t
 {
     ushort id;
