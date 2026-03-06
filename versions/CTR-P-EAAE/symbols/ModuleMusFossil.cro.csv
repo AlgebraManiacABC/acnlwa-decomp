@@ -1,6 +1,4 @@
 Location,Name,Mode,Size
-"00000adc","FUN_00000adc",$a,0000088c
-"00000f20","nnroControlObject_",$a,00000088
 "00000fcc","OnExit",$d,00000001
 "000001e0","FUN_000001e0",$a,00000004
 "00000fd0","OnLoad",$d,00000001
