@@ -48,7 +48,7 @@ jobs:
 
       - name: Generate progress report
         run: |
-          curl -fSL --retry 3 https://github.com/AlgebraManiacABC/objdiff/releases/download/v3.6.1-algebra/objdiff-cli \
+          curl -fSL --retry 3 https://github.com/encounter/objdiff/releases/latest/download/objdiff-cli-linux-x86_64 \
             -o /usr/local/bin/objdiff-cli
           chmod +x /usr/local/bin/objdiff-cli
           objdiff-cli report generate -o versions/${{ matrix.version }}/build/report.json \
