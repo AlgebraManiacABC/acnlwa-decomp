@@ -4,6 +4,7 @@
 typedef unsigned int uint;
 typedef unsigned int undefined4;
 typedef unsigned short ushort;
+typedef unsigned short undefined2;
 typedef unsigned char undefined;
 typedef unsigned char byte;
 typedef _Bool bool;

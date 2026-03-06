@@ -1,0 +1,19 @@
+/**
+ * FUN_003c608c.c
+ * Source line: 534808
+ * Body lines: 7
+ */
+#include "../../../include/types.h"
+
+void FUN_003c608c(undefined4 param_1)
+
+{
+  undefined4 uVar1;
+  undefined1 auStack_18 [12];
+  undefined4 local_c;
+  
+  local_c = 0x10001;
+  uVar1 = FUN_003d3a20(auStack_18,&local_c);
+  FUN_003c5628(param_1,uVar1);
+  return;
+}

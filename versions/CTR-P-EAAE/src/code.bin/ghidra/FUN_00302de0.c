@@ -1,0 +1,18 @@
+/**
+ * FUN_00302de0.c
+ * Source line: 400192
+ * Body lines: 6
+ */
+#include "../../../include/types.h"
+
+void * FUN_00302de0(undefined4 param_1,uint param_2)
+
+{
+  void *pvVar1;
+  
+  if (param_2 < 10) {
+    pvVar1 = GET_DAT_0095bf74();
+    return pvVar1;
+  }
+  return NULL;
+}

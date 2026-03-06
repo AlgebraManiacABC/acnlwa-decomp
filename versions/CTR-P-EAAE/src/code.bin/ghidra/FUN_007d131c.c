@@ -1,0 +1,21 @@
+/**
+ * FUN_007d131c.c
+ * Source line: 1177850
+ * Body lines: 9
+ */
+#include "../../../include/types.h"
+
+void FUN_007d131c(undefined4 param_1,undefined1 *param_2,undefined4 param_3,undefined4 param_4)
+
+{
+  int iVar1;
+  undefined4 local_10;
+  
+  local_10 = param_4;
+  iVar1 = FUN_00300904();
+  if (iVar1 != 0) {
+    local_10._0_2_ = CONCAT11(*param_2,0xf);
+    FUN_006249b0(0x41,param_1,&local_10,2);
+  }
+  return;
+}

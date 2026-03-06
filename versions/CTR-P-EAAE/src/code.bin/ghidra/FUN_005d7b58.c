@@ -1,0 +1,17 @@
+/**
+ * FUN_005d7b58.c
+ * Source line: 885898
+ * Body lines: 7
+ */
+void FUN_005d7b58(int param_1)
+
+{
+  int iVar1;
+  
+  iVar1 = (int)*(char *)(**(int **)(param_1 + 0x11cd0) + 5);
+  if (iVar1 < 0x20) {
+    FUN_00312a4c(DAT_0095debc,param_1 + 0x11d74,"STR_Day",iVar1 + -1);
+  }
+  FUN_005edca8(param_1,param_1 + 0x11d74);
+  return;
+}

@@ -1,0 +1,15 @@
+/**
+ * FUN_0070f648.c
+ * Source line: 1066601
+ * Body lines: 3
+ */
+#include "../../../include/types.h"
+
+bool FUN_0070f648(int *param_1)
+
+{
+  int iVar1;
+  
+  iVar1 = FUN_003193e8(param_1 + 1,0x20,0xffffffff);
+  return *param_1 == iVar1;
+}

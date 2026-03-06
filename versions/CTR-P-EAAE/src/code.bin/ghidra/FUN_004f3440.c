@@ -1,0 +1,15 @@
+/**
+ * FUN_004f3440.c
+ * Source line: 740913
+ * Body lines: 4
+ */
+#include "../../../include/types.h"
+
+void FUN_004f3440(undefined4 *param_1)
+
+{
+  *param_1 = &PTR_LAB_00903054;
+  FUN_001408d4(0xad662c,param_1 + 1);
+  FUN_002ffb64(param_1);
+  return;
+}

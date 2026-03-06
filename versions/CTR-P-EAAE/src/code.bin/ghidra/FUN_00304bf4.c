@@ -1,0 +1,18 @@
+/**
+ * FUN_00304bf4.c
+ * Source line: 401672
+ * Body lines: 6
+ */
+#include "../../../include/types.h"
+
+void FUN_00304bf4(int param_1,uint param_2)
+
+{
+  byte *pbVar1;
+  
+  if (param_2 < 5) {
+    pbVar1 = (byte *)(param_1 + (param_2 >> 3));
+    *pbVar1 = *pbVar1 | (byte)(1 << (param_2 & 7));
+  }
+  return;
+}

@@ -1,0 +1,23 @@
+/**
+ * FUN_00568984.c
+ * Source line: 810287
+ * Body lines: 11
+ */
+#include "../../../include/types.h"
+
+void FUN_00568984(undefined4 param_1,int param_2,int param_3,undefined4 param_4)
+
+{
+  int *piVar1;
+  
+  *(undefined1 *)(param_2 + 0x1c) = 0;
+  piVar1 = *(int **)(param_3 + 0x10);
+  if (piVar1 != (int *)(param_3 + 0x10)) {
+    do {
+      (**(code **)(*(int *)piVar1[2] + 0x40))
+                ((int *)piVar1[2],*(undefined4 *)(param_2 + 0x18),param_4);
+      piVar1 = (int *)*piVar1;
+    } while (piVar1 != (int *)(param_3 + 0x10));
+  }
+  return;
+}
