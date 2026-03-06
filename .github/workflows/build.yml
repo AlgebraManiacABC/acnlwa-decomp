@@ -38,7 +38,7 @@ jobs:
           cp -r /versions/${{ matrix.version }}/orig/. versions/${{ matrix.version }}/orig/
 
       - name: Run pipeline
-        run: python pipeline/main.py versions/${{ matrix.version }}
+        run: python pipeline/main.py versions/${{ matrix.version }} --recreateBinaries=False
 
       - name: Upload objdiff.json
         uses: actions/upload-artifact@v7
