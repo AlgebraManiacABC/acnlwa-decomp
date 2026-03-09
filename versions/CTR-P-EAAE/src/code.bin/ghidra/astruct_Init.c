@@ -1,8 +1,5 @@
-/**
- * astruct_Init.c
- * Source line: 133533
- * Body lines: 5
- */
+#include "../../../include/astruct.h"
+
 astruct * astruct_Init(astruct *new)
 
 {

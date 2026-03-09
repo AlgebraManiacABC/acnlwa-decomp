@@ -3,6 +3,8 @@ default:
   flags: []
 
 code.bin:
+  ignored:
+    - ghidra/*
 
   Item_GetID.c:
     cc: armcc_4.1_1049

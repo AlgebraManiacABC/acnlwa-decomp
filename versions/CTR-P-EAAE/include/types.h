@@ -7,6 +7,7 @@ typedef unsigned short ushort;
 typedef unsigned short undefined2;
 typedef unsigned char undefined;
 typedef unsigned char byte;
+typedef unsigned char undefined1;
 typedef _Bool bool;
 #define NULL ((void*)0)
 #define false (0)
