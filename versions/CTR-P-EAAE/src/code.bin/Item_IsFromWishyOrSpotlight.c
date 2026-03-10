@@ -2,20 +2,9 @@
 
 extern ItemParam_t * Item_GetParam(Item_t *);
 
-undefined4 Item_IsFromWishyOrSpotlight(Item_t *param_1)
+uint Item_IsFromWishyOrSpotlight(Item_t * item)
 {
-    ItemParam_t *itemParam;
-    undefined4 uVar1;
-
-    itemParam = Item_GetParam(param_1);
-    if (((itemParam == NULL) || (0xb8 < itemParam->source)) ||
-       (itemParam->source != SPOTLIGHT_OR_WISHY))
-    {
-        uVar1 = 0;
-    }
-    else
-    {
-        uVar1 = 1;
-    }
-    return uVar1;
+    ItemParam_t * itemParam = Item_GetParam(item);
+    if(itemParam && itemParam->source < NUM_SOURCES && itemParam->source == SPOTLIGHT_OR_WISHY) return 1;
+    return 0;
 }
