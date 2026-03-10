@@ -5,6 +5,7 @@ default:
 code.bin:
   ignored:
     - ghidra/*
+    - _memset_w.c
 
   Item_GetID.c:
     cc: armcc_4.1_1049
@@ -21,6 +22,14 @@ code.bin:
   Item_Clear.c:
     cc: armcc_4.1_1049
     flags: [-O3, --cpu=MPCore]
+
+  Item_Param11Valid.c:
+    cc: armcc_4.1_1049
+    flags: [-O3, -Otime, --cpu=MPCore]
+
+  Item_IsFromWishyOrSpotlight.c:
+    cc: armcc_4.1_1049
+    flags: [-Otime, --cpu=MPCore]
 
 ModuleIndoor.cro:
   FUN_00005198.c:
