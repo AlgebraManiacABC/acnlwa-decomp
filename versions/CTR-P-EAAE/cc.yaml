@@ -2,22 +2,26 @@ default:
   cc: armcc_4.1_1049
   flags: []
 
+presets:
+  heavy:
+    cc: armcc_4.1_1049
+    flags: [-O3]
+
+  decomp.me:
+    cc: armcc_4.1_1049
+    flags: [--cpu=MPCore, --fpmode=fast, --apcs=/interwork]
+
 code.bin:
   ignored:
     - ghidra/*
     - _memset_w.c
 
-  Item_GetID.c:
-    cc: armcc_4.1_1049
-    flags: [-O3]
-
-  Item_IsNullItem.c:
-    cc: armcc_4.1_1049
-    flags: [-O3]
-
-  Item_IsValidID.c:
-    cc: armcc_4.1_1049
-    flags: [-O3]
+  presets:
+    heavy:
+      - Item_GetID.c
+      - Item_IsNullItem.c
+      - Item_IsValidID.c
+      - FUN_002fd050.c
 
   Item_Clear.c:
     cc: armcc_4.1_1049
