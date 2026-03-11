@@ -3,6 +3,10 @@ default:
   flags: []
 
 presets:
+  thumb:
+    cc: armcc_4.1_1049
+    flags: [--thumb]
+
   heavy:
     cc: armcc_4.1_1049
     flags: [-O3]
@@ -17,6 +21,9 @@ code.bin:
     - _memset_w.c
 
   presets:
+    thumb:
+      - FUN_00100794.c
+
     heavy:
       - Item_GetID.c
       - Item_IsNullItem.c
