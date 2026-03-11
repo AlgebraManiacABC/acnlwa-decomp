@@ -7,8 +7,8 @@ uint Item_Param11Valid(Item_t * item) {
     ItemParam_t * itemParam = Item_GetParam(item);
     if (itemParam)
     {
-        int valid = FUN_007486dc(itemParam);
-        if (valid) return 1;
+        return FUN_007486dc(itemParam) != 0;
     }
-    return;
+    return 0;
 }
+
