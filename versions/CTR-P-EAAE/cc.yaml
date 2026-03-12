@@ -11,6 +11,10 @@ presets:
     cc: armcc_4.1_1049
     flags: [-O3]
 
+  mpcore:
+    cc: armcc_4.1_1049
+    flags: [--cpu=MPCore]
+
   decomp.me:
     cc: armcc_4.1_1049
     flags: [--cpu=MPCore, --fpmode=fast, --apcs=/interwork]
@@ -19,6 +23,7 @@ code.bin:
   ignored:
     - ghidra/*
     - _memset_w.c
+    - wip/*
 
   presets:
     thumb:
@@ -29,6 +34,9 @@ code.bin:
       - Item_IsNullItem.c
       - Item_IsValidID.c
       - FUN_002fd050.c
+
+    mpcore:
+      - FUN_001a4f78.c
 
   Item_Clear.c:
     cc: armcc_4.1_1049

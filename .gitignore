@@ -15,6 +15,7 @@ versions/*/tools/*
 !*tools/.gitkeep
 versions/*/out/
 versions/*/build/
+versions/*/split/
 objdiff.json
 build/
 develop-eggs/
