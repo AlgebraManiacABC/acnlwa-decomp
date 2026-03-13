@@ -2,6 +2,7 @@
 #define CTR_P_EAAE_TYPES_H
 
 typedef unsigned int uint;
+typedef unsigned long long undefined8;
 typedef unsigned int undefined4;
 typedef unsigned short ushort;
 typedef unsigned short undefined2;

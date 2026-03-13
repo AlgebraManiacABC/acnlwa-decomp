@@ -28,6 +28,37 @@ code.bin:
   presets:
     thumb:
       - FUN_00100794.c
+      - FUN_00100cfc.c
+      - FUN_00100dc4.c
+      - FUN_00100dde.c
+      - FUN_001013c4.c
+      - FUN_0010181c.c
+      - FUN_00101826.c
+      - FUN_00101a1e.c
+      - FUN_001024e0.c
+      - FUN_001024ec.c
+      - FUN_001032ee.c
+      - FUN_0010af60.c
+      - FUN_0010b43c.c
+      - FUN_0010c12c.c
+      - FUN_0010c650.c
+      - FUN_00116f1a.c
+      - FUN_00116f2c.c
+      - FUN_00118a5c.c
+      - FUN_001198e8.c
+      - FUN_00119fcc.c
+      - FUN_0011a1c8.c
+      - FUN_0011b528.c
+      - FUN_0011b530.c
+      - FUN_0011b56a.c
+      - FUN_002f7d68.c
+      - _is_digit.c
+      - FUN_002f9b84.c
+      - FUN_002fe7dc.c
+      - FUN_00307838.c
+      - std__string__operator=_0030784c.c
+      - FUN_00307888.c
+      - FUN_0031b394.c
 
     heavy:
       - Item_GetID.c
@@ -37,6 +68,14 @@ code.bin:
 
     mpcore:
       - FUN_001a4f78.c
+      - FUN_001df274.c
+      - FUN_001e5e60.c
+      - FUN_001e5ffc.c
+      - FUN_001e6ce8.c
+      - FUN_001e6cf8.c
+      - FUN_001e6d08.c
+      - FUN_001e7dd0.c
+      - FUN_001e7df0.c
 
   Item_Clear.c:
     cc: armcc_4.1_1049
