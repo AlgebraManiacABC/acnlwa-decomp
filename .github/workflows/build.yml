@@ -28,7 +28,7 @@ jobs:
         with:
           repository: AlgebraManiacABC/3DS-Decomp-Pipeline
           path: pipeline
-          ref: v1.2.3
+          ref: v1.2.4
 
       - name: Install pipeline dependencies
         run: pip install pyyaml typing_extensions --break-system-packages
@@ -39,7 +39,7 @@ jobs:
           cp -r /versions/${{ matrix.version }}/orig/. versions/${{ matrix.version }}/orig/
 
       - name: Run pipeline
-        run: python pipeline/main.py versions/${{ matrix.version }} --ignore-compiler-errors --no-progress-reports --recreate-binaries
+        run: python pipeline/main.py versions/${{ matrix.version }} --ignore-compiler-errors --no-progress-reports
 
       - name: Upload objdiff.json
         uses: actions/upload-artifact@v7
