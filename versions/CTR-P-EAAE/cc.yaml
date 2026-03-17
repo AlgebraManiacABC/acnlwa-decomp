@@ -112,6 +112,8 @@ code.bin:
       - FUN_001e6d08.c
       - FUN_001e7dd0.c
       - FUN_001e7df0.c
+      - FUN_001e7e00.c
+      - FUN_001e7e34.c
 
   Item_Clear.c:
     cc: armcc_4.1_1049
