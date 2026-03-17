@@ -28,7 +28,7 @@ jobs:
         with:
           repository: AlgebraManiacABC/3DS-Decomp-Pipeline
           path: pipeline
-          ref: v1.2.4
+          ref: v1.2.5
 
       - name: Install pipeline dependencies
         run: pip install pyyaml typing_extensions --break-system-packages
