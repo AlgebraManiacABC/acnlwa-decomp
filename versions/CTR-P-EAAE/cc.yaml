@@ -24,6 +24,42 @@ code.bin:
     - ghidra/*
     - _memset_w.c
     - wip/*
+    - claude/ignored/*
+    - claude/FUN_0010181c.c
+    - claude/FUN_00116f2c.c
+    - claude/FUN_00118a5c.c
+    - claude/FUN_001e9120.c
+    - claude/FUN_0024a528.c
+    - claude/FUN_0024a548.c
+    - claude/FUN_0024f108.c
+    - claude/FUN_00360648.c
+    - claude/FUN_0044e91c.c
+    - claude/FUN_005077e0.c
+    - claude/FUN_0024f178.c
+    # Thunk-related
+    - claude/FUN_001e9120.c
+    - claude/FUN_002b3a40.c
+    - claude/FUN_00307888.c
+    - claude/FUN_0031af7c.c
+    - claude/FUN_0031c010.c
+    - claude/FUN_00613e6c.c
+    - claude/FUN_006d12c0.c
+    # Unknown issues
+    - claude/FUN_00307838.c
+    - claude/FUN_00101826.c
+    - claude/FUN_005376d4.c
+    - claude/FUN_001024ec.c
+    - claude/FUN_001024e0.c
+    - claude/FUN_001013c4.c
+    - claude/FUN_00101a1e.c
+    - claude/FUN_00100dde.c
+    - claude/FUN_00100dc4.c
+    - claude/FUN_0031b394.c
+    - claude/FUN_0028d568.c
+    - claude/FUN_0011b528.c
+    - claude/FUN_0010c12c.c
+    - claude/FUN_0010c650.c
+    - claude/FUN_002f9b84.c
 
   presets:
     thumb:
