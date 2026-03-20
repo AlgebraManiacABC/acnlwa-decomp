@@ -1,0 +1,1 @@
+void svcGetSystemTick(void) {}

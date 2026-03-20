@@ -1,0 +1,1 @@
+void nnroAeabiAtexit_(void) {}

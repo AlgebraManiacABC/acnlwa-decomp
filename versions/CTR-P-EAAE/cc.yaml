@@ -63,6 +63,7 @@ code.bin:
 
   presets:
     thumb:
+      - stubs/thumb/*
       - FUN_00100794.c
       - FUN_00100cfc.c
       - FUN_00100dc4.c

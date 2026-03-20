@@ -1,0 +1,1 @@
+void __rw____rw_locale_vector_std____rw_open_cat_data___resize(void) {}

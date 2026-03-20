@@ -1,0 +1,1 @@
+void __rw____rw_locale_vector___rw____rw_facet_base____resize(void) {}

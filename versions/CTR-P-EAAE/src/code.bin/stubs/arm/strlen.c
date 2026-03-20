@@ -1,0 +1,1 @@
+void strlen(void) {}
