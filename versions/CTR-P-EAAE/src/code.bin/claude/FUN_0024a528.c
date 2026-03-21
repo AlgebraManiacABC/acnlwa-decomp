@@ -8,7 +8,7 @@
 void FUN_0024a528(int param_1)
 
 {
-  thunk_FUN_00779548();
+  thunk_FUN_00779548_00615328();
   *(undefined1 *)(param_1 + 10) = 0;
   *(undefined1 *)(param_1 + 0xb) = 0;
   *(undefined4 *)(param_1 + 0xc) = 0;

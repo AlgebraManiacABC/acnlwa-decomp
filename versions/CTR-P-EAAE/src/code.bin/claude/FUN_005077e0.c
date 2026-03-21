@@ -6,7 +6,7 @@
 void FUN_005077e0(void)
 
 {
-  thunk_FUN_0050bdc8();
+  thunk_FUN_0050bdc8_005075cc();
   FUN_002ffb64();
   return;
 }
