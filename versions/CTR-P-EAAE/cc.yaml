@@ -27,6 +27,8 @@ code.bin:
     - stubs/arm/*
     - stubs/thumb/*
     - claude/FUN_0010181c.c
+    - claude/FUN_0028d568.c
+    - claude/FUN_005376d4.c
     # These call thunks under the wrong name:
     - claude/FUN_00116f2c.c
     - claude/FUN_00118a5c.c
@@ -82,9 +84,6 @@ code.bin:
       - FUN_0031b394.c
 
     heavy:
-      - Item_GetID.c
-      - Item_IsNullItem.c
-      - Item_IsValidID.c
       - FUN_002fd050.c
 
     mpcore:
@@ -100,17 +99,9 @@ code.bin:
       - FUN_001e7e00.c
       - FUN_001e7e34.c
 
-  Item_Clear.c:
-    cc: armcc_4.1_1049
-    flags: [-O3, --cpu=MPCore]
-
-  Item_Param11Valid.c:
+  Item/Item_*.c:
     cc: armcc_4.1_1049
     flags: [-O3, -Otime, --cpu=MPCore]
-
-  Item_IsFromWishyOrSpotlight.c:
-    cc: armcc_4.1_1049
-    flags: [-Otime, --cpu=MPCore]
 
 ModuleIndoor.cro:
   FUN_00005198.c:
