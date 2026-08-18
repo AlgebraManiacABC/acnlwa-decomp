@@ -26,12 +26,12 @@ jobs:
       - name: Checkout pipeline
         uses: actions/checkout@v4
         with:
-          repository: AlgebraManiacABC/3DS-Decomp-Pipeline
+          repository: AlgebraManiacABC/3dsd
           path: pipeline
-          ref: v1.3.2
+          ref: main  # pin to a release tag once one exists
 
       - name: Install pipeline dependencies
-        run: pip install pyyaml typing_extensions --break-system-packages
+        run: pip install pyyaml ninja --break-system-packages
 
       - name: Set up tools and originals
         run: |
@@ -39,7 +39,10 @@ jobs:
           cp -r /versions/${{ matrix.version }}/orig/. versions/${{ matrix.version }}/orig/
 
       - name: Run pipeline
-        run: python pipeline/main.py versions/${{ matrix.version }} --ignore-compiler-errors --no-progress-reports
+        run: PYTHONPATH=pipeline python -m 3dsd build versions/${{ matrix.version }}
+
+      - name: Verify binaries
+        run: PYTHONPATH=pipeline python -m 3dsd check versions/${{ matrix.version }}
 
       - name: Upload objdiff.json
         uses: actions/upload-artifact@v7
