@@ -1,4 +1,4 @@
-const char* ModelNames[] = {
+const char* const ModelNames[] = {
     0,
     0,
     0,
