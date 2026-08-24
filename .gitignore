@@ -5,6 +5,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ninja
+*.ninja*
+
 # Distribution / packaging
 .Python
 versions/*/orig/*
@@ -13,6 +16,7 @@ versions/*/tools/*
 versions/*/out/
 versions/*/build/
 versions/*/split/
+versions/*/link/
 objdiff.json
 compile_commands.json
 build/
