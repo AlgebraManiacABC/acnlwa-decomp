@@ -1,7 +1,7 @@
 #include "../../../include/item.h"
 
 #define DAT_0053608c 0x953238
-#define ModelNames 0x871AC4
+#define ModelNames (0x871AC4)
 
 extern ItemParam_t * Item_GetParam(Item_t *);
 extern int FUN_007486dc(ItemParam_t *);

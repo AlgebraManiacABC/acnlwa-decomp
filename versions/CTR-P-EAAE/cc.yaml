@@ -1,23 +1,26 @@
+compilers:
+  armcc_4.1_1049: deps/armstd_4.1_1049
+
 default:
   cc: armcc_4.1_1049
-  flags: []
+  flags: [--split-sections]
 
 presets:
   thumb:
     cc: armcc_4.1_1049
-    flags: [--thumb]
+    flags: [--thumb, --split-sections]
 
   heavy:
     cc: armcc_4.1_1049
-    flags: [-O3]
+    flags: [-O3, --split-sections]
 
   mpcore:
     cc: armcc_4.1_1049
-    flags: [--cpu=MPCore]
+    flags: [--cpu=MPCore, --split-sections]
 
   decomp.me:
     cc: armcc_4.1_1049
-    flags: [--cpu=MPCore, --fpmode=fast, --apcs=/interwork]
+    flags: [--cpu=MPCore, --fpmode=fast, --apcs=/interwork, --split-sections]
 
 code.bin:
   ignored:
@@ -81,12 +84,20 @@ code.bin:
       - FUN_001e7df0.c
       - FUN_001e7e00.c
       - FUN_001e7e34.c
-
-  Item/Item_*.c:
+  
+  "*.cpp":
     cc: armcc_4.1_1049
-    flags: [-O3, -Otime, --cpu=MPCore]
+    flags: [--cpp, --split-sections]
+
+  Item/Item*.c:
+    cc: armcc_4.1_1049
+    flags: [-O3, -Otime, --cpu=MPCore, --split-sections]
+    
+  FUN_0024a5f4.c:
+    cc: armcc_4.1_1049
+    flags: [-Otime, --cpu=MPCore, --split-sections]
 
 ModuleIndoor.cro:
   FUN_00005198.c:
     cc: armcc_4.1_1049
-    flags: [-O3, --cpu=MPCore]
+    flags: [-O3, --cpu=MPCore, --split-sections]
