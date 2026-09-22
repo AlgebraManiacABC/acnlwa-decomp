@@ -56,7 +56,7 @@ jobs:
           curl -fSL --retry 3 https://github.com/encounter/objdiff/releases/latest/download/objdiff-cli-linux-x86_64 \
             -o /usr/local/bin/objdiff-cli
           chmod +x /usr/local/bin/objdiff-cli
-          objdiff-cli report generate -o versions/${{ matrix.version }}/build/report.json \
+          objdiff-cli report generate --format json-pretty -o versions/${{ matrix.version }}/build/report.json \
             --project versions/${{ matrix.version }}
 
       - name: Upload progress report
