@@ -1,1 +1,0 @@
-void nnnstdMemCpy(void) {}

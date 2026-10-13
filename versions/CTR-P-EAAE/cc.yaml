@@ -27,15 +27,12 @@ code.bin:
     - ghidra/*
     - wip/*
     - claude/ignored/*
-    - stubs/arm/*
-    - stubs/thumb/*
     - claude/FUN_0010181c.c
     - claude/FUN_0028d568.c
     - claude/FUN_00307888.c
 
   presets:
     thumb:
-      - stubs/thumb/*
       - FUN_00100794.c
       - FUN_00100cfc.c
       - FUN_00100dc4.c

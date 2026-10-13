@@ -1,1 +1,0 @@
-void wcslen(void) {}
