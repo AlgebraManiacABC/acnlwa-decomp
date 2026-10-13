@@ -1,6 +1,6 @@
 Location,Name,Namespace,Mode,Size,Segment,Provenance,Placeholder
 "00100000","Entry","Global",$a,00000002,".text","AlgebraManiacABC",false
-"00100030","FUN_00100030","Global",$a,00000010,".text","Ghidra",true
+"00100024","nninitRegion","Global",$a,0000001c,".text","SM2012",false
 "00100040","$d","Global",$d,00000008,".text","Mapping",false
 "00100048","FUN_00100048","Global",$t,00000032,".text","Ghidra",true
 "0010007a","$d","Global",$d,0000000e,".text","Mapping",false
@@ -1813,6 +1813,8 @@ Location,Name,Namespace,Mode,Size,Segment,Provenance,Placeholder
 "00127c5c","FUN_00127c5c","Global",$a,00000014,".text","Ghidra",true
 "00127c70","FUN_00127c70","Global",$a,0000000c,".text","Ghidra",true
 "00127c7c","FUN_00127c7c","Global",$a,00000020,".text","Ghidra",true
+"00127c9c","$d","Global",$d,00000008,".text","Mapping",false
+"00127ca4","FUN_00127ca4","Global",$a,00000008,".text","Ghidra",true
 "00127cac","FUN_00127cac","Global",$d,00000001,".text","Ghidra",true
 "00127cbc","FUN_00127cbc","Global",$d,00000001,".text","Ghidra",true
 "00127cc4","FUN_00127cc4","Global",$a,0000001c,".text","Ghidra",true
@@ -2493,6 +2495,7 @@ Location,Name,Namespace,Mode,Size,Segment,Provenance,Placeholder
 "00133054","$d","Global",$d,00000008,".text","Mapping",false
 "0013305c","FUN_0013305c","Global",$a,000000a0,".text","Ghidra",true
 "001330fc","FUN_001330fc","Global",$a,00000020,".text","Ghidra",true
+"0013311c","FUN_001332d4_0013311c","Global",$a,000001b8,".text","Ghidra",true
 "001332d4","FUN_001332d4","Global",$a,000002ac,".text","Ghidra",true
 "00133310","$d","Global",$d,0000001c,".text","Mapping",false
 "00133310","switchdataD_00133310","switchD_00133308",$d,00000004,".text","Ghidra",true
@@ -3448,6 +3451,7 @@ Location,Name,Namespace,Mode,Size,Segment,Provenance,Placeholder
 "0014b4a8","FUN_0014b4a8","Global",$a,00000148,".text","Ghidra",true
 "0014b5f0","FUN_0014b640_0014b5f0","Global",$a,00000008,".text","Ghidra",true
 "0014b5f8","$d","Global",$d,00000040,".text","Mapping",false
+"0014b638","FUN_0014b640_0014b638","Global",$a,00000008,".text","Ghidra",true
 "0014b640","FUN_0014b640","Global",$a,00000078,".text","Ghidra",true
 "0014bb3c","$d","Global",$d,00000030,".text","Mapping",false
 "0014bcbc","$d","Global",$d,0000003c,".text","Mapping",false
@@ -15377,6 +15381,7 @@ Location,Name,Namespace,Mode,Size,Segment,Provenance,Placeholder
 "002bfe9c","FUN_002bfe9c","Global",$a,000000e4,".text","Ghidra",true
 "002bff80","$d","Global",$d,00000004,".text","Mapping",false
 "002bff84","FUN_002bff84","Global",$a,000000a4,".text","Ghidra",true
+"002c0028","$d","Global",$d,00000004,".text","Mapping",false
 "002c002c","FUN_002c002c","Global",$a,00000010,".text","Ghidra",true
 "002c003c","FUN_002c003c","Global",$a,0000000c,".text","Ghidra",true
 "002c0048","FUN_002c0048","Global",$a,00000cf0,".text","Ghidra",true
@@ -17400,6 +17405,7 @@ Location,Name,Namespace,Mode,Size,Segment,Provenance,Placeholder
 "002f9a64","FUN_002f9a64","Global",$t,0000003c,".text","Ghidra",true
 "002f9aa0","$d","Global",$d,00000008,".text","Mapping",false
 "002f9aa8","FUN_002f9aa8","Global",$a,000000d4,".text","Ghidra",true
+"002f9b7c","$d","Global",$d,00000008,".text","Mapping",false
 "002f9b84","FUN_002f9b84","Global",$t,0000000c,".text","Ghidra",true
 "002f9e18","NOP_002f9e18","Global",$a,00000004,".text","AlgebraManiacABC",false
 "002f9e1c","__aeabi_idivmod","Global",$a,00000034,".text","SM2012",false
@@ -39982,6 +39988,7 @@ Location,Name,Namespace,Mode,Size,Segment,Provenance,Placeholder
 "00565c10","ranqd2_ranged_from_seed_2","Global",$a,00000020,".text","AlgebraManiacABC",false
 "00565c30","$d","Global",$d,00000004,".text","Mapping",false
 "00565c34","ranqd2_ranged_with_neg_from_seed_2","Global",$a,00000030,".text","AlgebraManiacABC",false
+"00565c64","$d","Global",$d,00000004,".text","Mapping",false
 "00565c68","ONE_HALF_f","Global",$d,00000004,".text","Float",false
 "00565c6c","TWO_f","Global",$d,00000004,".text","Float",false
 "00565c70","FUN_00565c70","Global",$a,0000001c,".text","Ghidra",true
@@ -61464,6 +61471,7 @@ Location,Name,Namespace,Mode,Size,Segment,Provenance,Placeholder
 "0079ff1c","FUN_007ad390_0079ff1c","Global",$a,00000018,".text","Ghidra",true
 "0079ff34","$d","Global",$d,00000004,".text","Mapping",false
 "0079ff38","FUN_0079ff38","Global",$a,00000088,".text","Ghidra",true
+"0079ffc0","$d","Global",$d,00000008,".text","Mapping",false
 "0079ffc8","FUN_0079ffc8","Global",$a,00000008,".text","Ghidra",true
 "0079ffd0","FUN_0079ffd0","Global",$a,00000008,".text","Ghidra",true
 "0079ffd8","FUN_0079ffd8","Global",$a,00000008,".text","Ghidra",true
@@ -65929,9 +65937,10 @@ Location,Name,Namespace,Mode,Size,Segment,Provenance,Placeholder
 "008384e8","FUN_008384e8","Global",$a,00000124,".text","Ghidra",true
 "0083860c","$d","Global",$d,00000004,".text","Mapping",false
 "00838610","FUN_00838610","Global",$a,00000050,".text","Ghidra",true
-"008386f8","FUN_008386f8","Global",$a,00000070,".text","Ghidra",true
+"00838684","__fpl_return_NaN","Global",$a,00000074,".text","SM2012",false
+"008386f8","__ARM_scalbn","Global",$a,00000070,".text","SM2012",false
 "00838768","FUN_00838768","Global",$a,00000004,".text","Ghidra",true
-"0083876c","FUN_008386f8_0083876c","Global",$a,0000003c,".text","Ghidra",true
+"0083876c","__fpl_cmpreturn","Global",$a,0000003c,".text","SM2012",false
 "0083dee4","_ZT_C1_12AcFishCommon15AcFishFieldBase","Global",$d,000000a8,".rodata","RTTI",false
 "0083df8c","_ZT_C2_12AcObjectBase12AcFishCommon15AcFishFieldBase","Global",$d,00000098,".rodata","RTTI",false
 "0083e024","_ZT_B1_14ObjectResource2_12AcObjectBase12AcFishCommon15AcFishFieldBase","Global",$d,0000005c,".rodata","RTTI",false
@@ -74627,6 +74636,7 @@ Location,Name,Namespace,Mode,Size,Segment,Provenance,Placeholder
 "009825f0","_ZZNKSt6locale2id7_C_initEvE9_C_id_gen","Global",$d,00000004,".data","CRO0",false
 "009825f4","_ZGVZSt13__rw_get_catsvE11__open_cats","Global",$d,00000004,".data","CRO0",false
 "009825f8","_ZZSt13__rw_get_catsvE11__open_cats","Global",$d,00000004,".data","CRO0",false
+"00982740","Image$$ZI$$ZI$$Base","Global",$d,00000000,".bss","SM2012",false
 "00a1838c","Item_bin_info","Global",$d,00000010,"RAM","AlgebraManiacABC",false
 "00a1839c","Kind_bin_info","Global",$d,00000010,"RAM","AlgebraManiacABC",false
 "00a183ac","Outfit_bin_info","Global",$d,00000010,"RAM","AlgebraManiacABC",false
@@ -74635,3 +74645,4 @@ Location,Name,Namespace,Mode,Size,Segment,Provenance,Placeholder
 "00a83aec","Npc_Normal_ConstPack_bin_fileinfo_info","Global",$d,00000134,"RAM","AlgebraManiacABC",false
 "00a8413c","Npc_Special_ConstPack_bin_fileinfo_info","Global",$d,00000134,"RAM","AlgebraManiacABC",false
 "00af7f30","_ZNSs9__nullrefE","Global",$d,00000000,".bss","CRO0",false
+"00af8494","Image$$ZI$$ZI$$Limit","Global",$d,00000000,".bss","SM2012",false
