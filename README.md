@@ -6,3 +6,6 @@
 [![Project Completion](https://decomp.dev/AlgebraManiacABC/acnlwa-decomp.svg?mode=overview)](https://decomp.dev/AlgebraManiacABC/acnlwa-decomp)
 
 A WIP decomp of Animal Crossing: New Leaf
+
+## Discord
+Join the [3DS Game Decompilation Discord](https://discord.gg/37mBTzvWsU) and join our efforts!
