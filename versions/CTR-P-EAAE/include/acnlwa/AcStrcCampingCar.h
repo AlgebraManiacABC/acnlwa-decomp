@@ -100,7 +100,7 @@ public:
     private:
     char unk_0x004[0x59c];
     int unk_0x5a0;
-    char unk_0x5a8[0x5c];
+    char unk_0x5a4[0x5c];
     int unk_0x600;
 };
 

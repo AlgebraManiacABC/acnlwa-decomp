@@ -40,11 +40,11 @@ public:
 
     // TODO: members. Size and layout are not recoverable from RTTI.
     private:
-    char unk_0x04[0xd9];
+    char unk_0x08[0xd9];
     char unk_0xe1;
     char unk_0xe2[0xa];
     char unk_0xec;
-    char unk_0xee[0x3e4];
+    char unk_0xed[0x3e4];
     int unk_0x4d4;
 };
 
