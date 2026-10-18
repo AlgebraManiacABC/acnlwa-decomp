@@ -121,7 +121,7 @@ public:
     unsigned int unk_0x2f8;
     unsigned int unk_0x2fc;
     char unk_0x300[0x464];
-    ushort unk_0x764;
+    unsigned short unk_0x764;
     char unk_0x768[0x3e];
     char unk_0x7a4;
     char unk_0x7a8[0x80];

@@ -13,7 +13,7 @@ unsigned int AcSimpleTalkBase::Process_VF09()
   return 2;
 }
 
-unsigned int AcSimpleTalkBase::DemoActor_VF18()
+unsigned char AcSimpleTalkBase::DemoActor_VF18()
 {
   return this->unk_0x6c & 1;
 }
