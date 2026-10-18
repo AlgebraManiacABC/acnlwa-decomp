@@ -26,6 +26,11 @@ public:
     virtual void VF10();
 
     // TODO: members. Size and layout are not recoverable from RTTI.
+    private:
+    char unk_0x004[0x210];
+    int unk_0x214;
+    char unk_0x218[0xc0];
+    int unk_0x2d8;
 };
 
 #endif  // ACNLWA_BADGEEXPLAINWINDOW_H

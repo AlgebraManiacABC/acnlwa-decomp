@@ -31,7 +31,10 @@ unsigned int BsSeadParticleDrawMinigame::Process_VF06()
   return;
 }
 
-unsigned int BsSeadParticleDrawMinigame::Process_VF09() {}
+unsigned int BsSeadParticleDrawMinigame::Process_VF09()
+{
+	return this->BsSeadParticleDrawBase::Process_VF09();
+}
 
 unsigned int BsSeadParticleDrawMinigame::Process_VF12() {}
 

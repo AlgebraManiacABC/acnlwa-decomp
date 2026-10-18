@@ -179,6 +179,19 @@ public:
     virtual void VF88();
 
     // TODO: members. Size and layout are not recoverable from RTTI.
+    protected:
+    char unk_0x004[0x10];
+    int unk_0x014;
+    char unk_0x018[0x60];
+    int unk_0x078;
+    char unk_0x07c[0x5e4];
+    int * unk_0x660;
+    char unk_0x664[0x344];
+    int unk_0x9a8;
+    char unk_0x9ac[0x8];
+    int unk_0x9b4;
+    char unk_0x9b8[0xe8];
+    int unk_0xaa0;
 };
 
 #endif  // ACNLWA_ACNPC_H

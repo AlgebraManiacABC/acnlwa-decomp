@@ -116,13 +116,11 @@ void AcNpcNml::VF44() {}
 
 void AcNpcNml::VF48() {}
 
-// was FUN_00631934
 unsigned int AcNpcNml::VF49()
 {
-  int param_1 = (int)this;
-  FUN_00578b04();
-  FUN_00631d5c(param_1 + 0xfe0,param_1);
-  return 1;
+    this->AcNpc::VF49();
+    FUN_00631d5c(&this->unk_0xfe0,this);
+    return 1;
 }
 
 void AcNpcNml::VF54() {}
@@ -155,9 +153,10 @@ void AcNpcNml::VF89() {}
 
 void AcNpcNml::VF90() {}
 
-// was FUN_00631a3c
 void AcNpcNml::VF91()
-{}
+{
+	return;
+}
 
 void AcNpcNml::VF92() {}
 

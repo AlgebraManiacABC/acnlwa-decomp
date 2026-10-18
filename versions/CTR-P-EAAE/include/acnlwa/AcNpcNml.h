@@ -204,6 +204,9 @@ public:
     virtual void VF104();
 
     // TODO: members. Size and layout are not recoverable from RTTI.
+    private:
+    char unk_0xaa4[0x53c];
+    int unk_0xfe0;
 };
 
 #endif  // ACNLWA_ACNPCNML_H

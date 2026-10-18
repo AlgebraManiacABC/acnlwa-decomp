@@ -97,6 +97,11 @@ public:
     virtual unsigned int VF59();
 
     // TODO: members. Size and layout are not recoverable from RTTI.
+    private:
+    char unk_0x004[0x59c];
+    int unk_0x5a0;
+    char unk_0x5a8[0x5c];
+    int unk_0x600;
 };
 
 #endif  // ACNLWA_ACSTRCCAMPINGCAR_H

@@ -79,12 +79,10 @@ void AcStrcCampingCar::VF57() {}
 
 void AcStrcCampingCar::VF58() {}
 
-// was FUN_002a92c0
 unsigned int AcStrcCampingCar::VF59()
 {
-  int param_1 = (int)this;
-  FUN_002504e0(param_1 + 0x5a0);
-  FUN_002504e0(param_1 + 0x600);
-  return 1;
+    FUN_002504e0(&this->unk_0x5a0);
+    FUN_002504e0(&this->unk_0x600);
+    return 1;
 }
 

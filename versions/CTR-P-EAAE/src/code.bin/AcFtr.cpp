@@ -9,23 +9,18 @@ unsigned int AcFtr::Process_VF09() {}
 
 unsigned int AcFtr::Process_VF12() {}
 
-// was FUN_0056f1a4
 void AcFtr::Process_VF14()
 {
-  int param_1 = (int)this;
-  *(ushort *)(param_1 + 0x764) = *(ushort *)(param_1 + 0x764) | 0x40;
-  return;
+    this->unk_0x764 = this->unk_0x764 | 0x40;
 }
 
 void AcFtr::Base_VF15() {}
 
 unsigned int AcFtr::DemoActor_VF20() {}
 
-// was FUN_00750970
-int AcFtr::DemoActor_VF22()
+int * AcFtr::DemoActor_VF22()
 {
-  int param_1 = (int)this;
-  return param_1 + 0x828;
+    return &this->unk_0x828;
 }
 
 unsigned int AcFtr::UtlBase_VF30() {}
@@ -44,17 +39,14 @@ void AcFtr::AcFtr_VF36() {}
 
 void AcFtr::AcFtr_VF37() {}
 
-// was FUN_00573214
-unsigned int AcFtr::AcFtr_VF38(unsigned int param_2, unsigned int param_3, unsigned int param_4)
+unsigned int AcFtr::AcFtr_VF38(unsigned int param_1, unsigned int param_2, unsigned int param_3)
 {
-  int param_1 = (int)this;
-  *(undefined1 *)(param_1 + 0x7a4) = 0;
-  *(undefined4 *)(param_1 + 0x2f8) = param_3;
-  *(undefined4 *)(param_1 + 0x2fc) = param_4;
-  return 0;
+    this->unk_0x7a4 = 0;
+    this->unk_0x2f8 = param_2;
+    this->unk_0x2fc = param_3;
+    return 0;
 }
 
-// was FUN_00751050
 unsigned int AcFtr::AcFtr_VF39()
 {
   return 0;

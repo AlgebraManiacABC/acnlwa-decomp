@@ -19,14 +19,9 @@ void AcNpcTopsChangeDemoDollSpBase::VF63() {}
 
 void AcNpcTopsChangeDemoDollSpBase::VF64() {}
 
-// was FUN_00343618
 bool AcNpcTopsChangeDemoDollSpBase::VF89()
 {
-  int param_1 = (int)this;
-  int iVar1;
-  
-  iVar1 = FUN_0030403c(*(undefined4 *)(param_1 + 0xb24),param_1 + 0x9a8,0);
-  return iVar1 != 0;
+  return FUN_0030403c(this->unk_0xb24,&this->unk_0x9a8,0) != 0;
 }
 
 void AcNpcTopsChangeDemoDollSpBase::VF90() {}

@@ -49,6 +49,10 @@ public:
     virtual void VF36();
 
     // TODO: members. Size and layout are not recoverable from RTTI.
+    private:
+    char unk_0x04[0x64];
+    unsigned int unk_0x68;
+    char unk_0x6c;
 };
 
 #endif  // ACNLWA_ACSIMPLETALKBASE_H

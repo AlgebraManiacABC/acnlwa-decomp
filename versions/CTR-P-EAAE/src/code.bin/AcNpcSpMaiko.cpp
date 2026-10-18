@@ -21,21 +21,17 @@ unsigned int AcNpcSpMaiko::TalkRecept::VF83() {}
 
 AcNpcSpMaiko::~AcNpcSpMaiko() {}
 
-// was FUN_001f32b4
 unsigned int AcNpcSpMaiko::Process_VF09()
 {
-  int param_1 = (int)this;
-  undefined4 uVar1;
-  int iVar2;
-  
-  uVar1 = GET_BYTE_00957322();
-  iVar2 = FUN_002f74e0(0x400000,uVar1);
-  if (iVar2 != 0) {
-    FUN_001abbbc(param_1 + 0x14);
-    FUN_00205d80(param_1 + 0x1dd4);
-  }
-  FUN_00605160(param_1);
-  return;
+    if (FUN_002f74e0(
+            0x400000,
+            GET_BYTE_00957322()
+        ))
+    {
+        FUN_001abbbc(&this->unk_0x014);
+        FUN_00205d80(&this->unk_0x1dd4);
+    }
+    return this->AcNpcSp::Process_VF09();
 }
 
 unsigned int AcNpcSpMaiko::DemoActor_VF19() {}

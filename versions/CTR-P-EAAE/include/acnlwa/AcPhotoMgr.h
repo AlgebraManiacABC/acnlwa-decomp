@@ -39,6 +39,13 @@ public:
     virtual void AcPhotoMgr_VF31();
 
     // TODO: members. Size and layout are not recoverable from RTTI.
+    private:
+    char unk_0x04[0xd9];
+    char unk_0xe1;
+    char unk_0xe2[0xa];
+    char unk_0xec;
+    char unk_0xee[0x3e4];
+    int unk_0x4d4;
 };
 
 #endif  // ACNLWA_ACPHOTOMGR_H

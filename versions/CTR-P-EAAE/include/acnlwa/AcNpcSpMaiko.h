@@ -72,6 +72,9 @@ public:
     virtual unsigned int VF81();
 
     // TODO: members. Size and layout are not recoverable from RTTI.
+    private:
+    char unk_0x0aa4[0x1330];
+    int unk_0x1dd4;
 };
 
 #endif  // ACNLWA_ACNPCSPMAIKO_H

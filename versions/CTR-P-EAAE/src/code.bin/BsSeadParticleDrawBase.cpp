@@ -11,7 +11,10 @@ unsigned int BsSeadParticleDrawBase::Process_VF03() {}
 
 unsigned int BsSeadParticleDrawBase::Process_VF06() {}
 
-unsigned int BsSeadParticleDrawBase::Process_VF09() {}
+unsigned int BsSeadParticleDrawBase::Process_VF09()
+{
+	return 2;
+}
 
 unsigned int BsSeadParticleDrawBase::Process_VF12() {}
 

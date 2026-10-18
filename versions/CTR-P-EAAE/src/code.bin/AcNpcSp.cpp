@@ -4,7 +4,10 @@ AcNpcSp::AcNpcSpHioNode::~AcNpcSpHioNode() {}
 
 AcNpcSp::~AcNpcSp() {}
 
-unsigned int AcNpcSp::Process_VF09() {}
+unsigned int AcNpcSp::Process_VF09()
+{
+	return this->AcNpc::Process_VF09();
+}
 
 unsigned int AcNpcSp::UtlBase_VF30() {}
 

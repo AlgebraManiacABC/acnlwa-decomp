@@ -141,6 +141,10 @@ public:
         virtual unsigned int VF131();
 
         // TODO: members. Size and layout are not recoverable from RTTI.
+        char unk_0x008[0x2d4];
+        char unk_0x2dc;
+        char unk_0x2dd;
+        char unk_0x2de;
     };
 
     // Virtual functions in vtable slot order. Slot count and order come

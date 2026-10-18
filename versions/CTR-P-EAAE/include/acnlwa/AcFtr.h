@@ -116,6 +116,16 @@ public:
     virtual void AcFtr_VF66();
 
     // TODO: members. Size and layout are not recoverable from RTTI.
+    private:
+    char unk_0x004[0x2f4];
+    unsigned int unk_0x2f8;
+    unsigned int unk_0x2fc;
+    char unk_0x464[0x464];
+    ushort unk_0x764;
+    char unk_0x768[0x3e];
+    char unk_0x7a4;
+    char unk_0x7a8[0x80];
+    int unk_0x828;
 };
 
 #endif  // ACNLWA_ACFTR_H
