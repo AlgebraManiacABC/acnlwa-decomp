@@ -25,7 +25,7 @@ public:
     // slot 10: AcInsectFieldBase::VF10
     virtual void Process_VF10();
     // slot 11: AcInsectFieldBase::VF11
-    virtual bool Process_VF11();
+    virtual int Process_VF11();
     // slot 19: AcInsectFieldBase::VF19
     virtual void VF19();
     // slot 25: AcInsectFieldBase::VF25

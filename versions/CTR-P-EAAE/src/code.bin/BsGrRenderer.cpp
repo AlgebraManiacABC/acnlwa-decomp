@@ -2,13 +2,13 @@
 
 BsGrRenderer::~BsGrRenderer() {}
 
-bool BsGrRenderer::Process_VF02() {}
+int BsGrRenderer::Process_VF02() {}
 
 unsigned int BsGrRenderer::Process_VF03() {}
 
 void BsGrRenderer::Process_VF04() {}
 
-bool BsGrRenderer::Process_VF05() {}
+int BsGrRenderer::Process_VF05() {}
 
 unsigned int BsGrRenderer::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsGrRenderer::Process_VF09() {}
 
 void BsGrRenderer::Process_VF10() {}
 
-bool BsGrRenderer::Process_VF11() {}
+int BsGrRenderer::Process_VF11() {}
 
 unsigned int BsGrRenderer::Process_VF12() {}
 

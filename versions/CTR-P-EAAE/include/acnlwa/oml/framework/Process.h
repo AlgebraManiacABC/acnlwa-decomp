@@ -23,13 +23,13 @@ public:
     // slot 1: oml::framework::Process::VF01
     virtual void Process_VF01();
     // slot 2: oml::framework::Process::VF02
-    virtual bool Process_VF02();
+    virtual int Process_VF02();
     // slot 3: oml::framework::Process::VF03
     virtual unsigned int Process_VF03();
     // slot 4: oml::framework::Process::VF04
     virtual void Process_VF04();
     // slot 5: oml::framework::Process::VF05
-    virtual bool Process_VF05();
+    virtual int Process_VF05();
     // slot 6: oml::framework::Process::VF06
     virtual unsigned int Process_VF06();
     // slot 7: oml::framework::Process::VF07
@@ -41,7 +41,7 @@ public:
     // slot 10: oml::framework::Process::VF10
     virtual void Process_VF10();
     // slot 11: oml::framework::Process::VF11
-    virtual bool Process_VF11();
+    virtual int Process_VF11();
     // slot 12: oml::framework::Process::VF12
     virtual unsigned int Process_VF12();
     // slot 13: oml::framework::Process::VF13

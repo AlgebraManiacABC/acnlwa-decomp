@@ -4,13 +4,13 @@ BsFtrMgr::CommonResLoader::~CommonResLoader() {}
 
 BsFtrMgr::~BsFtrMgr() {}
 
-bool BsFtrMgr::Process_VF02() {}
+int BsFtrMgr::Process_VF02() {}
 
 unsigned int BsFtrMgr::Process_VF03() {}
 
 void BsFtrMgr::Process_VF04() {}
 
-bool BsFtrMgr::Process_VF05() {}
+int BsFtrMgr::Process_VF05() {}
 
 unsigned int BsFtrMgr::Process_VF06() {}
 
@@ -22,7 +22,7 @@ unsigned int BsFtrMgr::Process_VF09() {}
 
 void BsFtrMgr::Process_VF10() {}
 
-bool BsFtrMgr::Process_VF11() {}
+int BsFtrMgr::Process_VF11() {}
 
 unsigned int BsFtrMgr::Process_VF12() {}
 

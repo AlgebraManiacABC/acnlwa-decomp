@@ -7,13 +7,13 @@ int FUN_00226ee8(...);
 
 BsStrcCatalog::~BsStrcCatalog() {}
 
-bool BsStrcCatalog::Process_VF02() {}
+int BsStrcCatalog::Process_VF02() {}
 
 unsigned int BsStrcCatalog::Process_VF03() {}
 
 void BsStrcCatalog::Process_VF04() {}
 
-bool BsStrcCatalog::Process_VF05() {}
+int BsStrcCatalog::Process_VF05() {}
 
 unsigned int BsStrcCatalog::Process_VF06() {}
 
@@ -25,7 +25,7 @@ unsigned int BsStrcCatalog::Process_VF09() {}
 
 void BsStrcCatalog::Process_VF10() {}
 
-bool BsStrcCatalog::Process_VF11() {}
+int BsStrcCatalog::Process_VF11() {}
 
 unsigned int BsStrcCatalog::Process_VF12() {}
 

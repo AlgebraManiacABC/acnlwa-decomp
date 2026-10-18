@@ -15,7 +15,7 @@ bool AcInsectCommon::Process_VF08() {}
 
 unsigned int AcInsectCommon::Process_VF09() {}
 
-bool AcInsectCommon::Process_VF11() {}
+int AcInsectCommon::Process_VF11() {}
 
 unsigned int AcInsectCommon::Process_VF12() {}
 

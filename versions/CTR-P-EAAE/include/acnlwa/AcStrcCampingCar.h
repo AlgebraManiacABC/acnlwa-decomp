@@ -34,7 +34,7 @@ public:
     // slot 20: OnUnresolved
     virtual unsigned int DemoActor_VF20();
     // slot 22: OnUnresolved
-    virtual int DemoActor_VF22();
+    virtual int * DemoActor_VF22();
     // slot 30: AcStrcCampingCar::VF30
     virtual unsigned int UtlBase_VF30();
     // slot 31: AcStrcCampingCar::VF31

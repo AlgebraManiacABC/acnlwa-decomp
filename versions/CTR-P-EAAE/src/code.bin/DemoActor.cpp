@@ -5,11 +5,11 @@ DemoActor::ListNodeDemoActor::~ListNodeDemoActor() {}
 
 DemoActor::~DemoActor() {}
 
-bool DemoActor::Process_VF02() {}
+int DemoActor::Process_VF02() {}
 
 void DemoActor::Process_VF04() {}
 
-bool DemoActor::Process_VF05() {}
+int DemoActor::Process_VF05() {}
 
 void DemoActor::DemoActor_VF17() {}
 
@@ -27,7 +27,7 @@ unsigned int DemoActor::DemoActor_VF20()
 
 unsigned int DemoActor::DemoActor_VF21() {}
 
-int DemoActor::DemoActor_VF22() {}
+int * DemoActor::DemoActor_VF22() {}
 
 // was FUN_0076f540
 unsigned int DemoActor::DemoActor_VF23()

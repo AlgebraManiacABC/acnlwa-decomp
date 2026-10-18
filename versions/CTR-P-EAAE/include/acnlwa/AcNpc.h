@@ -48,7 +48,7 @@ public:
     // slot 20: AcNpc::VF20
     virtual unsigned int DemoActor_VF20();
     // slot 22: AcNpc::VF22
-    virtual int DemoActor_VF22();
+    virtual int * DemoActor_VF22();
     // slot 23: AcNpc::VF23
     virtual unsigned int DemoActor_VF23();
     // slot 24: AcNpc::VF24

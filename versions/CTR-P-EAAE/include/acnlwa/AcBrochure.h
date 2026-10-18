@@ -21,7 +21,7 @@ public:
     // slots 0-1: AcBrochure::D1
     virtual ~AcBrochure();
     // slot 2: AcBrochure::VF02
-    virtual bool Process_VF02();
+    virtual int Process_VF02();
     // slot 4: AcBrochure::VF04
     virtual void Process_VF04();
     // slot 9: AcBrochure::VF09

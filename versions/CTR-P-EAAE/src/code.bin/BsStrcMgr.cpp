@@ -2,13 +2,13 @@
 
 BsStrcMgr::~BsStrcMgr() {}
 
-bool BsStrcMgr::Process_VF02() {}
+int BsStrcMgr::Process_VF02() {}
 
 unsigned int BsStrcMgr::Process_VF03() {}
 
 void BsStrcMgr::Process_VF04() {}
 
-bool BsStrcMgr::Process_VF05() {}
+int BsStrcMgr::Process_VF05() {}
 
 unsigned int BsStrcMgr::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsStrcMgr::Process_VF09() {}
 
 void BsStrcMgr::Process_VF10() {}
 
-bool BsStrcMgr::Process_VF11() {}
+int BsStrcMgr::Process_VF11() {}
 
 unsigned int BsStrcMgr::Process_VF12() {}
 

@@ -12,7 +12,7 @@ unsigned int AcFishFieldBase::Process_VF09() {}
 
 void AcFishFieldBase::Process_VF10() {}
 
-bool AcFishFieldBase::Process_VF11() {}
+int AcFishFieldBase::Process_VF11() {}
 
 unsigned int AcFishFieldBase::Process_VF12() {}
 

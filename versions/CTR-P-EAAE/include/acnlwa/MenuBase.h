@@ -37,13 +37,13 @@ public:
     // slots 0-1: MenuBase::D1
     virtual ~MenuBase();
     // slot 2: MenuBase::VF02
-    virtual bool Process_VF02();
+    virtual int Process_VF02();
     // slot 3: MenuBase::VF03
     virtual unsigned int Process_VF03();
     // slot 4: MenuBase::VF04
     virtual void Process_VF04();
     // slot 5: MenuBase::VF05
-    virtual bool Process_VF05();
+    virtual int Process_VF05();
     // slot 6: MenuBase::VF06
     virtual unsigned int Process_VF06();
     // slot 7: MenuBase::VF07

@@ -21,11 +21,11 @@ public:
     // slots 0-1: Base::D1
     virtual ~Base();
     // slot 2: Base::VF02
-    virtual bool Process_VF02();
+    virtual int Process_VF02();
     // slot 4: Base::VF04
     virtual void Process_VF04();
     // slot 5: Base::VF05
-    virtual bool Process_VF05();
+    virtual int Process_VF05();
     // slot 7: Base::VF07
     virtual void Process_VF07();
     // slot 8: Base::VF08
@@ -33,7 +33,7 @@ public:
     // slot 10: Base::VF10
     virtual void Process_VF10();
     // slot 11: Base::VF11
-    virtual bool Process_VF11();
+    virtual int Process_VF11();
     // slot 15: Base::VF15
     virtual void Base_VF15();
 

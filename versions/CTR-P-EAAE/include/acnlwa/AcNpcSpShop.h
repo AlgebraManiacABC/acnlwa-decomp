@@ -163,7 +163,7 @@ public:
     // slot 21: AcNpcSpShop::VF21
     virtual unsigned int DemoActor_VF21();
     // slot 22: AcNpcSpShop::VF22
-    virtual int DemoActor_VF22();
+    virtual int * DemoActor_VF22();
     // slot 23: AcNpcSpShop::VF23
     virtual unsigned int DemoActor_VF23();
     // slot 24: AcNpcSpShop::VF24

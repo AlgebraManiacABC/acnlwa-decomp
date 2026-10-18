@@ -2,13 +2,13 @@
 
 BsWeatherSakura::~BsWeatherSakura() {}
 
-bool BsWeatherSakura::Process_VF02() {}
+int BsWeatherSakura::Process_VF02() {}
 
 unsigned int BsWeatherSakura::Process_VF03() {}
 
 void BsWeatherSakura::Process_VF04() {}
 
-bool BsWeatherSakura::Process_VF05() {}
+int BsWeatherSakura::Process_VF05() {}
 
 unsigned int BsWeatherSakura::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsWeatherSakura::Process_VF09() {}
 
 void BsWeatherSakura::Process_VF10() {}
 
-bool BsWeatherSakura::Process_VF11() {}
+int BsWeatherSakura::Process_VF11() {}
 
 unsigned int BsWeatherSakura::Process_VF12() {}
 

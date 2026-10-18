@@ -2,13 +2,13 @@
 
 BsPlayerMgr::~BsPlayerMgr() {}
 
-bool BsPlayerMgr::Process_VF02() {}
+int BsPlayerMgr::Process_VF02() {}
 
 unsigned int BsPlayerMgr::Process_VF03() {}
 
 void BsPlayerMgr::Process_VF04() {}
 
-bool BsPlayerMgr::Process_VF05() {}
+int BsPlayerMgr::Process_VF05() {}
 
 unsigned int BsPlayerMgr::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsPlayerMgr::Process_VF09() {}
 
 void BsPlayerMgr::Process_VF10() {}
 
-bool BsPlayerMgr::Process_VF11() {}
+int BsPlayerMgr::Process_VF11() {}
 
 unsigned int BsPlayerMgr::Process_VF12() {}
 

@@ -7,13 +7,13 @@ int FUN_002b8010(...);
 
 BsGeneralObj::~BsGeneralObj() {}
 
-bool BsGeneralObj::Process_VF02() {}
+int BsGeneralObj::Process_VF02() {}
 
 unsigned int BsGeneralObj::Process_VF03() {}
 
 void BsGeneralObj::Process_VF04() {}
 
-bool BsGeneralObj::Process_VF05() {}
+int BsGeneralObj::Process_VF05() {}
 
 unsigned int BsGeneralObj::Process_VF06() {}
 
@@ -25,7 +25,7 @@ unsigned int BsGeneralObj::Process_VF09() {}
 
 void BsGeneralObj::Process_VF10() {}
 
-bool BsGeneralObj::Process_VF11() {}
+int BsGeneralObj::Process_VF11() {}
 
 unsigned int BsGeneralObj::Process_VF12() {}
 
@@ -51,7 +51,7 @@ unsigned int BsGeneralObj::DemoActor_VF20() {}
 
 unsigned int BsGeneralObj::DemoActor_VF21() {}
 
-int BsGeneralObj::DemoActor_VF22() {}
+int * BsGeneralObj::DemoActor_VF22() {}
 
 unsigned int BsGeneralObj::DemoActor_VF23() {}
 

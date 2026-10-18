@@ -2,13 +2,13 @@
 
 BsIndoorPlateMgr::~BsIndoorPlateMgr() {}
 
-bool BsIndoorPlateMgr::Process_VF02() {}
+int BsIndoorPlateMgr::Process_VF02() {}
 
 unsigned int BsIndoorPlateMgr::Process_VF03() {}
 
 void BsIndoorPlateMgr::Process_VF04() {}
 
-bool BsIndoorPlateMgr::Process_VF05() {}
+int BsIndoorPlateMgr::Process_VF05() {}
 
 unsigned int BsIndoorPlateMgr::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsIndoorPlateMgr::Process_VF09() {}
 
 void BsIndoorPlateMgr::Process_VF10() {}
 
-bool BsIndoorPlateMgr::Process_VF11() {}
+int BsIndoorPlateMgr::Process_VF11() {}
 
 unsigned int BsIndoorPlateMgr::Process_VF12() {}
 

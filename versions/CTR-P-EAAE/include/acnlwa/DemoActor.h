@@ -37,11 +37,11 @@ public:
     // slots 0-1: DemoActor::D1
     virtual ~DemoActor();
     // slot 2: DemoActor::VF02
-    virtual bool Process_VF02();
+    virtual int Process_VF02();
     // slot 4: DemoActor::VF04
     virtual void Process_VF04();
     // slot 5: DemoActor::VF05
-    virtual bool Process_VF05();
+    virtual int Process_VF05();
     // slot 17: DemoActor::VF17
     virtual void DemoActor_VF17();
     // slot 18: DemoActor::VF18
@@ -53,7 +53,7 @@ public:
     // slot 21: DemoActor::VF21
     virtual unsigned int DemoActor_VF21();
     // slot 22: DemoActor::VF22
-    virtual int DemoActor_VF22();
+    virtual int * DemoActor_VF22();
     // slot 23: DemoActor::VF23
     virtual unsigned int DemoActor_VF23();
     // slot 24: DemoActor::VF24

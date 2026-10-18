@@ -2,13 +2,13 @@
 
 BsCharRoomViewMgr::~BsCharRoomViewMgr() {}
 
-bool BsCharRoomViewMgr::Process_VF02() {}
+int BsCharRoomViewMgr::Process_VF02() {}
 
 unsigned int BsCharRoomViewMgr::Process_VF03() {}
 
 void BsCharRoomViewMgr::Process_VF04() {}
 
-bool BsCharRoomViewMgr::Process_VF05() {}
+int BsCharRoomViewMgr::Process_VF05() {}
 
 unsigned int BsCharRoomViewMgr::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsCharRoomViewMgr::Process_VF09() {}
 
 void BsCharRoomViewMgr::Process_VF10() {}
 
-bool BsCharRoomViewMgr::Process_VF11() {}
+int BsCharRoomViewMgr::Process_VF11() {}
 
 unsigned int BsCharRoomViewMgr::Process_VF12() {}
 

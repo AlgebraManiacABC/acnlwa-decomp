@@ -2,13 +2,13 @@
 
 BsWaveMgr::~BsWaveMgr() {}
 
-bool BsWaveMgr::Process_VF02() {}
+int BsWaveMgr::Process_VF02() {}
 
 unsigned int BsWaveMgr::Process_VF03() {}
 
 void BsWaveMgr::Process_VF04() {}
 
-bool BsWaveMgr::Process_VF05() {}
+int BsWaveMgr::Process_VF05() {}
 
 unsigned int BsWaveMgr::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsWaveMgr::Process_VF09() {}
 
 void BsWaveMgr::Process_VF10() {}
 
-bool BsWaveMgr::Process_VF11() {}
+int BsWaveMgr::Process_VF11() {}
 
 unsigned int BsWaveMgr::Process_VF12() {}
 

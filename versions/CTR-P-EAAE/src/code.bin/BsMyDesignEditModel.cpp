@@ -2,13 +2,13 @@
 
 BsMyDesignEditModel::~BsMyDesignEditModel() {}
 
-bool BsMyDesignEditModel::Process_VF02() {}
+int BsMyDesignEditModel::Process_VF02() {}
 
 unsigned int BsMyDesignEditModel::Process_VF03() {}
 
 void BsMyDesignEditModel::Process_VF04() {}
 
-bool BsMyDesignEditModel::Process_VF05() {}
+int BsMyDesignEditModel::Process_VF05() {}
 
 unsigned int BsMyDesignEditModel::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsMyDesignEditModel::Process_VF09() {}
 
 void BsMyDesignEditModel::Process_VF10() {}
 
-bool BsMyDesignEditModel::Process_VF11() {}
+int BsMyDesignEditModel::Process_VF11() {}
 
 unsigned int BsMyDesignEditModel::Process_VF12() {}
 

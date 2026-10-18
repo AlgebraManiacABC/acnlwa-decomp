@@ -2,13 +2,13 @@
 
 BsWeatherSnow::~BsWeatherSnow() {}
 
-bool BsWeatherSnow::Process_VF02() {}
+int BsWeatherSnow::Process_VF02() {}
 
 unsigned int BsWeatherSnow::Process_VF03() {}
 
 void BsWeatherSnow::Process_VF04() {}
 
-bool BsWeatherSnow::Process_VF05() {}
+int BsWeatherSnow::Process_VF05() {}
 
 unsigned int BsWeatherSnow::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsWeatherSnow::Process_VF09() {}
 
 void BsWeatherSnow::Process_VF10() {}
 
-bool BsWeatherSnow::Process_VF11() {}
+int BsWeatherSnow::Process_VF11() {}
 
 unsigned int BsWeatherSnow::Process_VF12() {}
 

@@ -2,13 +2,13 @@
 
 BsSnowBallMgr::~BsSnowBallMgr() {}
 
-bool BsSnowBallMgr::Process_VF02() {}
+int BsSnowBallMgr::Process_VF02() {}
 
 unsigned int BsSnowBallMgr::Process_VF03() {}
 
 void BsSnowBallMgr::Process_VF04() {}
 
-bool BsSnowBallMgr::Process_VF05() {}
+int BsSnowBallMgr::Process_VF05() {}
 
 unsigned int BsSnowBallMgr::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsSnowBallMgr::Process_VF09() {}
 
 void BsSnowBallMgr::Process_VF10() {}
 
-bool BsSnowBallMgr::Process_VF11() {}
+int BsSnowBallMgr::Process_VF11() {}
 
 unsigned int BsSnowBallMgr::Process_VF12() {}
 

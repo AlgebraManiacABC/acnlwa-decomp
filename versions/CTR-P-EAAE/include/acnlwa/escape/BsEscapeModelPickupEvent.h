@@ -23,13 +23,13 @@ public:
     // slots 0-1: escape::BsEscapeModelPickupEvent::D1
     virtual ~BsEscapeModelPickupEvent();
     // slot 2: Base::VF02
-    virtual bool Process_VF02();
+    virtual int Process_VF02();
     // slot 3: UtlBase<Base>::VF03
     virtual unsigned int Process_VF03();
     // slot 4: Base::VF04
     virtual void Process_VF04();
     // slot 5: Base::VF05
-    virtual bool Process_VF05();
+    virtual int Process_VF05();
     // slot 6: UtlBase<Base>::VF06
     virtual unsigned int Process_VF06();
     // slot 7: Base::VF07
@@ -41,7 +41,7 @@ public:
     // slot 10: Base::VF10
     virtual void Process_VF10();
     // slot 11: Base::VF11
-    virtual bool Process_VF11();
+    virtual int Process_VF11();
     // slot 12: OnUnresolved
     virtual unsigned int Process_VF12();
     // slot 13: oml::framework::Process::VF13
@@ -61,7 +61,7 @@ public:
     // slot 21: OnUnresolved
     virtual unsigned int DemoActor_VF21();
     // slot 22: OnUnresolved
-    virtual int DemoActor_VF22();
+    virtual int * DemoActor_VF22();
     // slot 23: escape::BsEscapeModelPickup::VF23
     virtual unsigned int DemoActor_VF23();
     // slot 24: esc::BsEscModelBase::VF24

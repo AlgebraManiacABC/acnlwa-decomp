@@ -2,7 +2,7 @@
 
 AcBrochure::~AcBrochure() {}
 
-bool AcBrochure::Process_VF02() {}
+int AcBrochure::Process_VF02() {}
 
 void AcBrochure::Process_VF04() {}
 

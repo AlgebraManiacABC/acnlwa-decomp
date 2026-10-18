@@ -10,14 +10,14 @@ MenuBase::List::~List() {}
 
 MenuBase::~MenuBase() {}
 
-bool MenuBase::Process_VF02() {}
+int MenuBase::Process_VF02() {}
 
 unsigned int MenuBase::Process_VF03() {}
 
 void MenuBase::Process_VF04() {}
 
 // was FUN_006aa9bc
-bool MenuBase::Process_VF05()
+int MenuBase::Process_VF05()
 {
   int iVar1;
   

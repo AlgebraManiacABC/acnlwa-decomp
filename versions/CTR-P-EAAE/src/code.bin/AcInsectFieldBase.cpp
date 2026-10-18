@@ -6,7 +6,7 @@ bool AcInsectFieldBase::Process_VF08() {}
 
 void AcInsectFieldBase::Process_VF10() {}
 
-bool AcInsectFieldBase::Process_VF11() {}
+int AcInsectFieldBase::Process_VF11() {}
 
 void AcInsectFieldBase::VF19() {}
 

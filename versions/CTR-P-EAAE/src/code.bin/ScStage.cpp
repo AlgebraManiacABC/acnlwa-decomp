@@ -2,13 +2,13 @@
 
 ScStage::~ScStage() {}
 
-bool ScStage::Process_VF02() {}
+int ScStage::Process_VF02() {}
 
 unsigned int ScStage::Process_VF03() {}
 
 void ScStage::Process_VF04() {}
 
-bool ScStage::Process_VF05() {}
+int ScStage::Process_VF05() {}
 
 unsigned int ScStage::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int ScStage::Process_VF09() {}
 
 void ScStage::Process_VF10() {}
 
-bool ScStage::Process_VF11() {}
+int ScStage::Process_VF11() {}
 
 unsigned int ScStage::Process_VF12() {}
 
@@ -40,5 +40,5 @@ unsigned int ScStage::DemoActor_VF20() {}
 
 unsigned int ScStage::DemoActor_VF21() {}
 
-int ScStage::DemoActor_VF22() {}
+int * ScStage::DemoActor_VF22() {}
 

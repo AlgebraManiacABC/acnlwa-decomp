@@ -39,7 +39,7 @@ public:
     // slot 20: AcFtr::VF20
     virtual unsigned int DemoActor_VF20();
     // slot 22: AcFtr::VF22
-    virtual int DemoActor_VF22();
+    virtual int * DemoActor_VF22();
     // slot 30: AcFtr::VF30
     virtual unsigned int UtlBase_VF30();
     // slot 31: AcFtr::VF31

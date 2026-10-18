@@ -4,13 +4,13 @@ namespace escape {
 
 BsEscapeModelPickupEvent::~BsEscapeModelPickupEvent() {}
 
-bool BsEscapeModelPickupEvent::Process_VF02() {}
+int BsEscapeModelPickupEvent::Process_VF02() {}
 
 unsigned int BsEscapeModelPickupEvent::Process_VF03() {}
 
 void BsEscapeModelPickupEvent::Process_VF04() {}
 
-bool BsEscapeModelPickupEvent::Process_VF05() {}
+int BsEscapeModelPickupEvent::Process_VF05() {}
 
 unsigned int BsEscapeModelPickupEvent::Process_VF06() {}
 
@@ -22,7 +22,7 @@ unsigned int BsEscapeModelPickupEvent::Process_VF09() {}
 
 void BsEscapeModelPickupEvent::Process_VF10() {}
 
-bool BsEscapeModelPickupEvent::Process_VF11() {}
+int BsEscapeModelPickupEvent::Process_VF11() {}
 
 unsigned int BsEscapeModelPickupEvent::Process_VF12() {}
 
@@ -42,7 +42,7 @@ unsigned int BsEscapeModelPickupEvent::DemoActor_VF20() {}
 
 unsigned int BsEscapeModelPickupEvent::DemoActor_VF21() {}
 
-int BsEscapeModelPickupEvent::DemoActor_VF22() {}
+int * BsEscapeModelPickupEvent::DemoActor_VF22() {}
 
 unsigned int BsEscapeModelPickupEvent::DemoActor_VF23() {}
 

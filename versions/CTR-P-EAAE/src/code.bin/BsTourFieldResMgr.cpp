@@ -2,13 +2,13 @@
 
 BsTourFieldResMgr::~BsTourFieldResMgr() {}
 
-bool BsTourFieldResMgr::Process_VF02() {}
+int BsTourFieldResMgr::Process_VF02() {}
 
 unsigned int BsTourFieldResMgr::Process_VF03() {}
 
 void BsTourFieldResMgr::Process_VF04() {}
 
-bool BsTourFieldResMgr::Process_VF05() {}
+int BsTourFieldResMgr::Process_VF05() {}
 
 unsigned int BsTourFieldResMgr::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsTourFieldResMgr::Process_VF09() {}
 
 void BsTourFieldResMgr::Process_VF10() {}
 
-bool BsTourFieldResMgr::Process_VF11() {}
+int BsTourFieldResMgr::Process_VF11() {}
 
 unsigned int BsTourFieldResMgr::Process_VF12() {}
 

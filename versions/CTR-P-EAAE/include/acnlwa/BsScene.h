@@ -21,11 +21,11 @@ public:
     // slots 0-1: BsScene::D1
     virtual ~BsScene();
     // slot 2: BsScene::VF02
-    virtual bool Process_VF02();
+    virtual int Process_VF02();
     // slot 4: BsScene::VF04
     virtual void Process_VF04();
     // slot 5: BsScene::VF05
-    virtual bool Process_VF05();
+    virtual int Process_VF05();
     // slot 7: BsScene::VF07
     virtual void Process_VF07();
     // slot 8: BsScene::VF08
@@ -33,7 +33,7 @@ public:
     // slot 10: BsScene::VF10
     virtual void Process_VF10();
     // slot 11: BsScene::VF11
-    virtual bool Process_VF11();
+    virtual int Process_VF11();
     // slot 13: BsScene::VF13
     virtual void Process_VF13();
     // slot 15: BsScene::VF15

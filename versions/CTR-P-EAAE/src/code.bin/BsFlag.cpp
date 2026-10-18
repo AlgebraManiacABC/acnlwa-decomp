@@ -2,13 +2,13 @@
 
 BsFlag::~BsFlag() {}
 
-bool BsFlag::Process_VF02() {}
+int BsFlag::Process_VF02() {}
 
 unsigned int BsFlag::Process_VF03() {}
 
 void BsFlag::Process_VF04() {}
 
-bool BsFlag::Process_VF05() {}
+int BsFlag::Process_VF05() {}
 
 unsigned int BsFlag::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsFlag::Process_VF09() {}
 
 void BsFlag::Process_VF10() {}
 
-bool BsFlag::Process_VF11() {}
+int BsFlag::Process_VF11() {}
 
 unsigned int BsFlag::Process_VF12() {}
 

@@ -2,13 +2,13 @@
 
 BsIndoorDoorSE::~BsIndoorDoorSE() {}
 
-bool BsIndoorDoorSE::Process_VF02() {}
+int BsIndoorDoorSE::Process_VF02() {}
 
 unsigned int BsIndoorDoorSE::Process_VF03() {}
 
 void BsIndoorDoorSE::Process_VF04() {}
 
-bool BsIndoorDoorSE::Process_VF05() {}
+int BsIndoorDoorSE::Process_VF05() {}
 
 unsigned int BsIndoorDoorSE::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsIndoorDoorSE::Process_VF09() {}
 
 void BsIndoorDoorSE::Process_VF10() {}
 
-bool BsIndoorDoorSE::Process_VF11() {}
+int BsIndoorDoorSE::Process_VF11() {}
 
 void BsIndoorDoorSE::Process_VF13() {}
 

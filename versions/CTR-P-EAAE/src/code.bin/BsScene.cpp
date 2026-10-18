@@ -7,11 +7,11 @@ int FUN_00529d78(...);
 
 BsScene::~BsScene() {}
 
-bool BsScene::Process_VF02() {}
+int BsScene::Process_VF02() {}
 
 void BsScene::Process_VF04() {}
 
-bool BsScene::Process_VF05() {}
+int BsScene::Process_VF05() {}
 
 void BsScene::Process_VF07() {}
 
@@ -20,7 +20,7 @@ bool BsScene::Process_VF08() {}
 void BsScene::Process_VF10() {}
 
 // was FUN_00606dc0
-bool BsScene::Process_VF11()
+int BsScene::Process_VF11()
 {
   int iVar1;
   

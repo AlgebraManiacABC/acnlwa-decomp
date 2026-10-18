@@ -22,13 +22,13 @@ public:
     // slots 0-1: ScStage::D1
     virtual ~ScStage();
     // slot 2: BsScene::VF02
-    virtual bool Process_VF02();
+    virtual int Process_VF02();
     // slot 3: UtlBase<BsScene>::VF03
     virtual unsigned int Process_VF03();
     // slot 4: BsScene::VF04
     virtual void Process_VF04();
     // slot 5: BsScene::VF05
-    virtual bool Process_VF05();
+    virtual int Process_VF05();
     // slot 6: UtlBase<BsScene>::VF06
     virtual unsigned int Process_VF06();
     // slot 7: BsScene::VF07
@@ -40,7 +40,7 @@ public:
     // slot 10: BsScene::VF10
     virtual void Process_VF10();
     // slot 11: BsScene::VF11
-    virtual bool Process_VF11();
+    virtual int Process_VF11();
     // slot 12: ScStage::VF12
     virtual unsigned int Process_VF12();
     // slot 13: BsScene::VF13
@@ -60,7 +60,7 @@ public:
     // slot 21: ScStage::VF21
     virtual unsigned int DemoActor_VF21();
     // slot 22: ScStage::VF22
-    virtual int DemoActor_VF22();
+    virtual int * DemoActor_VF22();
 
     // TODO: members. Size and layout are not recoverable from RTTI.
 };

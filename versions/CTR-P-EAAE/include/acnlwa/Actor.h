@@ -21,11 +21,11 @@ public:
     // slots 0-1: Actor::D1
     virtual ~Actor();
     // slot 2: Actor::VF02
-    virtual bool Process_VF02();
+    virtual int Process_VF02();
     // slot 4: Actor::VF04
     virtual void Process_VF04();
     // slot 5: Actor::VF05
-    virtual bool Process_VF05();
+    virtual int Process_VF05();
     // slot 7: Actor::VF07
     virtual void Process_VF07();
     // slot 8: Actor::VF08
@@ -33,7 +33,7 @@ public:
     // slot 10: Actor::VF10
     virtual void Process_VF10();
     // slot 11: Actor::VF11
-    virtual bool Process_VF11();
+    virtual int Process_VF11();
     // slot 13: Actor::VF13
     virtual void Process_VF13();
     // slot 15: Actor::VF15

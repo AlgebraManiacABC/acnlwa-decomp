@@ -4,13 +4,13 @@ namespace escape {
 
 BsEscapeStageFishEvent::~BsEscapeStageFishEvent() {}
 
-bool BsEscapeStageFishEvent::Process_VF02() {}
+int BsEscapeStageFishEvent::Process_VF02() {}
 
 unsigned int BsEscapeStageFishEvent::Process_VF03() {}
 
 void BsEscapeStageFishEvent::Process_VF04() {}
 
-bool BsEscapeStageFishEvent::Process_VF05() {}
+int BsEscapeStageFishEvent::Process_VF05() {}
 
 unsigned int BsEscapeStageFishEvent::Process_VF06() {}
 
@@ -22,7 +22,7 @@ unsigned int BsEscapeStageFishEvent::Process_VF09() {}
 
 void BsEscapeStageFishEvent::Process_VF10() {}
 
-bool BsEscapeStageFishEvent::Process_VF11() {}
+int BsEscapeStageFishEvent::Process_VF11() {}
 
 unsigned int BsEscapeStageFishEvent::Process_VF12() {}
 
@@ -42,7 +42,7 @@ unsigned int BsEscapeStageFishEvent::DemoActor_VF20() {}
 
 unsigned int BsEscapeStageFishEvent::DemoActor_VF21() {}
 
-int BsEscapeStageFishEvent::DemoActor_VF22() {}
+int * BsEscapeStageFishEvent::DemoActor_VF22() {}
 
 unsigned int BsEscapeStageFishEvent::DemoActor_VF23() {}
 

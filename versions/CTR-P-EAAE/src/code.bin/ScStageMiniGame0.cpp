@@ -7,13 +7,13 @@ int FUN_006d3a24(...);
 
 ScStageMiniGame0::~ScStageMiniGame0() {}
 
-bool ScStageMiniGame0::Process_VF02() {}
+int ScStageMiniGame0::Process_VF02() {}
 
 unsigned int ScStageMiniGame0::Process_VF03() {}
 
 void ScStageMiniGame0::Process_VF04() {}
 
-bool ScStageMiniGame0::Process_VF05() {}
+int ScStageMiniGame0::Process_VF05() {}
 
 unsigned int ScStageMiniGame0::Process_VF06() {}
 
@@ -25,7 +25,7 @@ unsigned int ScStageMiniGame0::Process_VF09() {}
 
 void ScStageMiniGame0::Process_VF10() {}
 
-bool ScStageMiniGame0::Process_VF11() {}
+int ScStageMiniGame0::Process_VF11() {}
 
 unsigned int ScStageMiniGame0::Process_VF12() {}
 
@@ -59,5 +59,5 @@ unsigned int ScStageMiniGame0::DemoActor_VF21()
   return uVar2;
 }
 
-int ScStageMiniGame0::DemoActor_VF22() {}
+int * ScStageMiniGame0::DemoActor_VF22() {}
 

@@ -29,7 +29,7 @@ public:
     // slot 9: AcObjectBase::VF09
     virtual unsigned int Process_VF09();
     // slot 11: AcObjectBase::VF11
-    virtual bool Process_VF11();
+    virtual int Process_VF11();
     // slot 12: AcObjectBase::VF12
     virtual unsigned int Process_VF12();
     // slot 17: AcInsectCommon::VF17

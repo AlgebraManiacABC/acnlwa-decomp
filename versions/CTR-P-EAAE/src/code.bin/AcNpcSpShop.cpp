@@ -249,7 +249,7 @@ unsigned int AcNpcSpShop::DemoActor_VF20() {}
 
 unsigned int AcNpcSpShop::DemoActor_VF21() {}
 
-int AcNpcSpShop::DemoActor_VF22() {}
+int * AcNpcSpShop::DemoActor_VF22() {}
 
 unsigned int AcNpcSpShop::DemoActor_VF23() {}
 

@@ -23,7 +23,7 @@ unsigned char AcNpc::DemoActor_VF18() {}
 
 unsigned int AcNpc::DemoActor_VF20() {}
 
-int AcNpc::DemoActor_VF22() {}
+int * AcNpc::DemoActor_VF22() {}
 
 unsigned int AcNpc::DemoActor_VF23() {}
 

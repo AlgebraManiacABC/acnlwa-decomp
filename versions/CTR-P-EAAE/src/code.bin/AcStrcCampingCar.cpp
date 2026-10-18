@@ -19,7 +19,7 @@ unsigned char AcStrcCampingCar::DemoActor_VF18() {}
 
 unsigned int AcStrcCampingCar::DemoActor_VF20() {}
 
-int AcStrcCampingCar::DemoActor_VF22() {}
+int * AcStrcCampingCar::DemoActor_VF22() {}
 
 unsigned int AcStrcCampingCar::UtlBase_VF30() {}
 

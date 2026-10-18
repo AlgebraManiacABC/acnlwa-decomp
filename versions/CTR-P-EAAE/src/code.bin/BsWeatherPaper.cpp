@@ -2,13 +2,13 @@
 
 BsWeatherPaper::~BsWeatherPaper() {}
 
-bool BsWeatherPaper::Process_VF02() {}
+int BsWeatherPaper::Process_VF02() {}
 
 unsigned int BsWeatherPaper::Process_VF03() {}
 
 void BsWeatherPaper::Process_VF04() {}
 
-bool BsWeatherPaper::Process_VF05() {}
+int BsWeatherPaper::Process_VF05() {}
 
 unsigned int BsWeatherPaper::Process_VF06() {}
 
@@ -20,7 +20,7 @@ unsigned int BsWeatherPaper::Process_VF09() {}
 
 void BsWeatherPaper::Process_VF10() {}
 
-bool BsWeatherPaper::Process_VF11() {}
+int BsWeatherPaper::Process_VF11() {}
 
 unsigned int BsWeatherPaper::Process_VF12() {}
 

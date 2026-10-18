@@ -4,13 +4,13 @@ namespace escape {
 
 BsEscapeModelPickupFlyingItem::~BsEscapeModelPickupFlyingItem() {}
 
-bool BsEscapeModelPickupFlyingItem::Process_VF02() {}
+int BsEscapeModelPickupFlyingItem::Process_VF02() {}
 
 unsigned int BsEscapeModelPickupFlyingItem::Process_VF03() {}
 
 void BsEscapeModelPickupFlyingItem::Process_VF04() {}
 
-bool BsEscapeModelPickupFlyingItem::Process_VF05() {}
+int BsEscapeModelPickupFlyingItem::Process_VF05() {}
 
 unsigned int BsEscapeModelPickupFlyingItem::Process_VF06() {}
 
@@ -22,7 +22,7 @@ unsigned int BsEscapeModelPickupFlyingItem::Process_VF09() {}
 
 void BsEscapeModelPickupFlyingItem::Process_VF10() {}
 
-bool BsEscapeModelPickupFlyingItem::Process_VF11() {}
+int BsEscapeModelPickupFlyingItem::Process_VF11() {}
 
 unsigned int BsEscapeModelPickupFlyingItem::Process_VF12() {}
 
@@ -42,7 +42,7 @@ unsigned int BsEscapeModelPickupFlyingItem::DemoActor_VF20() {}
 
 unsigned int BsEscapeModelPickupFlyingItem::DemoActor_VF21() {}
 
-int BsEscapeModelPickupFlyingItem::DemoActor_VF22() {}
+int * BsEscapeModelPickupFlyingItem::DemoActor_VF22() {}
 
 unsigned int BsEscapeModelPickupFlyingItem::DemoActor_VF23() {}
 
