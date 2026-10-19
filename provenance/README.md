@@ -108,6 +108,23 @@ large number of symbols by name, runtime-library functions among them. Names
 matched to those exports are tagged `Smash4`; like the `.axf` matches above,
 they are the toolchain's own names, so `Placeholder=false`.
 
+### `CTR-P-ADCK`
+*Nintendogs + Cats: Toy Poodle & New Friends* (Korean release, `CTR-P-ADCK`)
+ships a full symbol map in its RomFS at `debug/memmap.txt`. Ghidra's Function
+ID matched ACNL functions to those names, mostly SDK and middleware code
+(`nn::`, `nw::`, `sead::`, `imgdb::`, `CFL`, `nngx`, `gl`). The names come
+from a real symbol table, so `Placeholder=false`, except
+`<name>_<address>` (`Placeholder=true`): one of several identical copies that
+Function ID gave the same name. Since names must be unique, each copy
+carries its address.
+
+Not imported: matches that Function ID flagged `FID_conflict:`, matches
+where the same name also landed on a smaller function, bare method names
+such as `GetPan` whose class was lost (`memmap.txt` only has them qualified,
+often under several classes), and thunks, which keep their
+`<target>_<address>` names rather than taking the name of the function they
+jump to.
+
 ### `Claude_analysis`
 Identified by Claude from the code alone, by its similarity to a function
 already named another way (e.g. the `__hardfp_*` functions next to

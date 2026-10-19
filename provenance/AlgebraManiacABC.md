@@ -90,7 +90,6 @@ Functions which just return immediately.
 | `0013fa0c` | `NOP_0013fa0c`          |
 | `0013fad4` | `NOP_0013fa0c_0013fad4` |
 | `002f777c` | `NOP_002f777c`          |
-| `002f9e18` | `NOP_002f9e18`          |
 | `002fc8fc` | `NOP_002fc8fc`          |
 | `003084c8` | `NOP_003084c8`          |
 | `007ca670` | `NOP_007ca670`          |
