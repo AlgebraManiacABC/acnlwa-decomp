@@ -39,6 +39,9 @@ public:
     // slot 10: nw::lyt::Material::VF10
     virtual void VF10();
 
+    // Non-virtual members, named from CTR-P-ADCK.
+    int GetTexSRTAry();
+
     // TODO: members. Size and layout are not recoverable from RTTI.
 };
 

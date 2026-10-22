@@ -44,6 +44,10 @@ public:
     // slot 12: nw::snd::internal::BasicSound::VF12
     virtual void VF12();
 
+    // Non-virtual members, named from CTR-P-ADCK.
+    bool IsAttachedGeneralHandle();
+    bool IsAttachedTempGeneralHandle();
+
     // TODO: members. Size and layout are not recoverable from RTTI.
 };
 

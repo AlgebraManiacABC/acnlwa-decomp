@@ -7,6 +7,7 @@
 // be reliable; members, sizes, and protected-vs-private are
 // not recoverable. Treat all of this as a hypothesis.
 
+#include "types.h"
 #include "acnlwa/nn/util/ADLFireWall/NonCopyable.h"
 
 namespace imgdb {
@@ -28,6 +29,9 @@ public:
     virtual void VF02();
     // slot 3: imgdb::FileReader::VF03
     virtual void VF03();
+
+    // Non-virtual members, named from CTR-P-ADCK.
+    undefined8 GetFileSize() const;
 
     // TODO: members. Size and layout are not recoverable from RTTI.
 };

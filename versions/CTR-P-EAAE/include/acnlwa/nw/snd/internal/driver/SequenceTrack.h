@@ -25,6 +25,9 @@ public:
     // slot 2: pure, introduced here, implemented elsewhere
     virtual void VF02() = 0;
 
+    // Non-virtual members, named from CTR-P-ADCK.
+    int GetVariablePtr(int param_2);
+
     // TODO: members. Size and layout are not recoverable from RTTI.
 };
 

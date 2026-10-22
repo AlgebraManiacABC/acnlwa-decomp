@@ -1,4 +1,5 @@
 #include "acnlwa/sead/TaskBase.h"
+#include "types.h"
 
 namespace sead {
 
@@ -23,5 +24,12 @@ void TaskBase::VF13() {}
 void TaskBase::VF14() {}
 
 void TaskBase::VF21() {}
+
+// was FUN_0074e960
+undefined4 TaskBase::getMethodTreeMgr() const
+{
+  int param_1 = (int)this;
+  return *(undefined4 *)(*(int *)(*(int *)(param_1 + 0x5c) + 0x20) + 0x20);
+}
 
 }  // namespace sead

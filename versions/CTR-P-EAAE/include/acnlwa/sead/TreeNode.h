@@ -16,6 +16,9 @@ public:
     // Treated as NON-polymorphic: its typeinfo exists only because a
     // derived class's RTTI references it. No virtual destructor.
 
+    // Non-virtual members, named from CTR-P-ADCK.
+    TreeNode();
+
     // TODO: members. Size and layout are not recoverable from RTTI.
 };
 

@@ -7,6 +7,7 @@
 // be reliable; members, sizes, and protected-vs-private are
 // not recoverable. Treat all of this as a hypothesis.
 
+#include "types.h"
 #include "acnlwa/sead/TTreeNode.h"
 #include "acnlwa/sead/IDisposer.h"
 #include "acnlwa/sead/INamable.h"
@@ -67,6 +68,9 @@ public:
     virtual void VF20() = 0;
     // slot 21: sead::TaskBase::VF21
     virtual void VF21();
+
+    // Non-virtual members, named from CTR-P-ADCK.
+    undefined4 getMethodTreeMgr() const;
 
     // TODO: members. Size and layout are not recoverable from RTTI.
 };

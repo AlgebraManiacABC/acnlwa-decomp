@@ -29,6 +29,9 @@ public:
     // slot 5: pure, introduced here, implemented elsewhere
     virtual void SoundArchive_VF05() = 0;
 
+    // Non-virtual members, named from CTR-P-ADCK.
+    bool IsAvailable() const;
+
     // TODO: members. Size and layout are not recoverable from RTTI.
 };
 

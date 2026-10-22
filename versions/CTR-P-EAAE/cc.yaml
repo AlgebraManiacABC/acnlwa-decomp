@@ -41,7 +41,7 @@ code.bin:
       - FUN_0010181c.c
       - FUN_00101826.c
       - FUN_00101a1e.c
-      - FUN_001024e0.c
+      - __rt_SIGPVFN.c
       - FUN_001024ec.c
       - FUN_001032ee.c
       - FUN_0010af60.c

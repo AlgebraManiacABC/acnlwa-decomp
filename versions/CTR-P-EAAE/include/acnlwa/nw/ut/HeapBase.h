@@ -24,6 +24,9 @@ public:
     // slots 0-1: nw::ut::HeapBase::D1
     virtual ~HeapBase();
 
+    // Non-virtual members, named from CTR-P-ADCK.
+    void Finalize();
+
     // TODO: members. Size and layout are not recoverable from RTTI.
 };
 

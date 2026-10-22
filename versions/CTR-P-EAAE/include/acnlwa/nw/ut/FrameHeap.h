@@ -24,6 +24,9 @@ public:
     // slots 0-1: nw::ut::FrameHeap::D1
     virtual ~FrameHeap();
 
+    // Non-virtual members, named from CTR-P-ADCK.
+    void *Destroy();
+
     // TODO: members. Size and layout are not recoverable from RTTI.
 };
 

@@ -1,0 +1,17 @@
+#ifndef ACNLWA_IMGDB_TYPES_H
+#define ACNLWA_IMGDB_TYPES_H
+
+// Written by hand: this class has no RTTI, so it is not part of the
+// generated scaffold. Only the members used so far are declared.
+
+namespace imgdb {
+
+enum StorageType {};
+enum ShootingType {};
+enum HandleTypeBit {};
+enum DistinctionTypeBit {};
+enum BodyIdType {};
+
+}  // namespace imgdb
+
+#endif  // ACNLWA_IMGDB_TYPES_H
