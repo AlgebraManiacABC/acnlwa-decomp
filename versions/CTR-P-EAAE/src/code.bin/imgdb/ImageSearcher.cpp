@@ -4,15 +4,10 @@
 
 namespace imgdb {
 
-// was FUN_005a6b8c
 ImageSearcher::ImageSearcher()
+    : unk_0x00(0), unk_0x04(2), unk_0x08(0), unk_0x0c(0)
 {
-  undefined4 *param_1 = (undefined4 *)this;
-  *param_1 = 0;
-  *(undefined1 *)(param_1 + 1) = 2;
-  param_1[2] = 0;
-  param_1[3] = 0;
-  ((ImageInfo *)(param_1 + 4))->Initialize();
+    unk_0x10.Initialize();
 }
 
 }  // namespace imgdb

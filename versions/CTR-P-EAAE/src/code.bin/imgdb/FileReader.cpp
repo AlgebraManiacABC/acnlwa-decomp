@@ -9,11 +9,9 @@ void FileReader::VF02() {}
 
 void FileReader::VF03() {}
 
-// was FUN_00753cbc
-undefined8 FileReader::GetFileSize() const
+long long FileReader::GetFileSize() const
 {
-  int param_1 = (int)this;
-  return *(undefined8 *)(param_1 + 0x20);
+	return unk_0x20;
 }
 
 }  // namespace imgdb

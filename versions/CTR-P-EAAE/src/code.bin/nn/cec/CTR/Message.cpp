@@ -5,23 +5,21 @@ namespace nn {
 namespace cec {
 namespace CTR {
 
-// was FUN_00350408
 Message::Message()
 {
-  int param_1 = (int)this;
-  *(undefined1 *)(param_1 + 0x130) = 0;
-  *(undefined4 *)(param_1 + 0x138) = 0;
-  *(undefined4 *)(param_1 + 0x144) = 0;
-  *(undefined4 *)(param_1 + 0x148) = 0;
-  *(undefined4 *)(param_1 + 0x14c) = 0;
-  *(undefined4 *)(param_1 + 0x150) = 0;
-  *(undefined4 *)(param_1 + 0x154) = 0;
-  *(undefined4 *)(param_1 + 0x158) = 0;
-  *(undefined4 *)(param_1 + 0x15c) = 0;
-  *(undefined4 *)(param_1 + 0x160) = 0;
-  *(undefined4 *)(param_1 + 0x13c) = 0;
-  *(undefined4 *)(param_1 + 0x140) = 0;
-  InitializeMessage();
+    unk_0x130 = 0;
+    unk_0x138 = 0;
+    unk_0x144 = 0;
+    unk_0x148 = 0;
+    unk_0x14c = 0;
+    unk_0x150 = 0;
+    unk_0x154 = 0;
+    unk_0x158 = 0;
+    unk_0x15c = 0;
+    unk_0x160 = 0;
+    unk_0x13c = 0;
+    unk_0x140 = 0;
+    InitializeMessage();
 }
 
 }  // namespace CTR

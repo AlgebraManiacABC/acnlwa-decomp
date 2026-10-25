@@ -31,9 +31,12 @@ public:
     virtual void VF03();
 
     // Non-virtual members, named from CTR-P-ADCK.
-    undefined8 GetFileSize() const;
+    long long GetFileSize() const;
 
     // TODO: members. Size and layout are not recoverable from RTTI.
+	private:
+	char unk_0x00[0x1c];
+    long long unk_0x20;
 };
 
 }  // namespace imgdb

@@ -10,7 +10,7 @@ namespace imgdb {
 
 class LegacyTable {
 public:
-    static uint ComputeTableSize(int param_1, unsigned short param_2);
+    static unsigned int ComputeTableSize(int param_1, unsigned short param_2);
 };
 
 }  // namespace imgdb
