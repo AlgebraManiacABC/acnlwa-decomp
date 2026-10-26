@@ -14,8 +14,7 @@ public:
     bool IsInvalid() const;
 	
 	private:
-	uint unk_0x00;
-	uint unk_0x04;
+	long long unk_0x00;
 };
 
 }  // namespace imgdb

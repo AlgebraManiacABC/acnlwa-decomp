@@ -4,6 +4,7 @@
 // Written by hand: this class has no RTTI, so it is not part of the
 // generated scaffold. Only the members used so far are declared.
 
+#include "types.h"
 #include "acnlwa/imgdb/Enums.h"
 
 namespace imgdb {
