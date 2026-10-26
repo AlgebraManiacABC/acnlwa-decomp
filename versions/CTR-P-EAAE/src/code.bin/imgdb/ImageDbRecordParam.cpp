@@ -8,22 +8,18 @@ void __rt_memclr_w(...);
 
 namespace imgdb {
 
-// was FUN_005aa7c0
 void ImageDbRecordParam::Initialize()
 {
-  int param_1 = (int)this;
-  __rt_memclr_w(param_1,0x6c);
-  ((DateTimeSeconds *)param_1)->Initialize();
-  *(undefined1 *)(param_1 + 0xd) = 4;
-  *(undefined1 *)(param_1 + 0x20) = 0;
-  return;
+    __rt_memclr_w(this,0x6c);
+    unk_0x00.Initialize();
+    unk_0x0d = 4;
+    unk_0x20 = 0;
+    return;
 }
 
-// was FUN_00754cc0
-bool ImageDbRecordParam::IsValidBodyId(BodyIdType param_2) const
+bool ImageDbRecordParam::IsValidBodyId(BodyIdType type) const
 {
-  int param_1 = (int)this;
-  return ((uint)*(byte *)(param_1 + 0xf) & 1 << ((uint)param_2 & 0xff)) != 0;
+    return (unk_0x0f & (1 << type)) != 0;
 }
 
 }  // namespace imgdb

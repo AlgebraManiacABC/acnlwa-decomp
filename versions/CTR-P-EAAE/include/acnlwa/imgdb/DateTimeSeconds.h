@@ -4,12 +4,18 @@
 // Written by hand: this class has no RTTI, so it is not part of the
 // generated scaffold. Only the members used so far are declared.
 
+#include "types.h"
+
 namespace imgdb {
 
 class DateTimeSeconds {
 public:
     void Initialize();
     bool IsInvalid() const;
+	
+	private:
+	uint unk_0x00;
+	uint unk_0x04;
 };
 
 }  // namespace imgdb

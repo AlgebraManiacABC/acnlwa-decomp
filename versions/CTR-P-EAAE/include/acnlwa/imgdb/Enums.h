@@ -6,6 +6,7 @@
 
 namespace imgdb {
 
+#define STORAGE_TYPE_MASK (0x3)
 enum StorageType {};
 enum ShootingType {};
 enum HandleTypeBit {};
