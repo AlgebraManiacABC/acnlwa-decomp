@@ -1,8 +1,3 @@
-/**
- * FUN_00588538.c
- * Source line: 833637
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 void FUN_00588538(int param_1)
@@ -21,9 +16,7 @@ void FUN_00588538(int param_1)
       return;
     }
     FUN_00589b94();
-          // WARNING: Subroutine does not return
     FUN_00584074();
   }
-          // WARNING: Subroutine does not return
   FUN_00584074();
 }

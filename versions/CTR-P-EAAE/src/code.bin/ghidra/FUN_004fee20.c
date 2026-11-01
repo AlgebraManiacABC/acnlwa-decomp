@@ -1,8 +1,3 @@
-/**
- * FUN_004fee20.c
- * Source line: 745770
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 void FUN_004fee20(int param_1,int param_2)

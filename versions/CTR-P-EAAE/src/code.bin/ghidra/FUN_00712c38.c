@@ -1,8 +1,3 @@
-/**
- * FUN_00712c38.c
- * Source line: 1068169
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 byte FUN_00712c38(int param_1)

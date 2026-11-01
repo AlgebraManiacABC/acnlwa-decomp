@@ -1,8 +1,3 @@
-/**
- * FUN_005359fc.c
- * Source line: 777273
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 ItemID * FUN_005359fc(uint param_1)

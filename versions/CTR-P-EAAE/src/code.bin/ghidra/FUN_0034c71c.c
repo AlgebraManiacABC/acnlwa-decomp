@@ -1,8 +1,3 @@
-/**
- * FUN_0034c71c.c
- * Source line: 449030
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 int FUN_0034c71c(cro_file *cro)

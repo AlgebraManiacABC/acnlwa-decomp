@@ -1,8 +1,3 @@
-/**
- * ItemBitfield_Clear.c
- * Source line: 298825
- * Body lines: 2
- */
 void ItemBitfield_Clear(ItemBitfield_t *bitfield)
 
 {

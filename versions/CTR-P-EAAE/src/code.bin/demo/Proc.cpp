@@ -17,7 +17,7 @@ unsigned int Proc::Process_VF03() {}
 
 unsigned int Proc::Process_VF06() {}
 
-// was FUN_0052d4fc
+// TODO: verify FUN_0052d4fc
 unsigned int Proc::Process_VF09()
 {
   FUN_0052da4c();

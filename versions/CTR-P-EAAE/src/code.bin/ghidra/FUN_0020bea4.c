@@ -1,8 +1,3 @@
-/**
- * FUN_0020bea4.c
- * Source line: 268395
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 void FUN_0020bea4(int param_1,uint param_2)

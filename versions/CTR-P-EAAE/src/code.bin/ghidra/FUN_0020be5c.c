@@ -1,8 +1,3 @@
-/**
- * FUN_0020be5c.c
- * Source line: 268371
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 void FUN_0020be5c(int param_1,uint param_2)

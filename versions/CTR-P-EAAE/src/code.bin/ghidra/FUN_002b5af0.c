@@ -1,8 +1,3 @@
-/**
- * FUN_002b5af0.c
- * Source line: 353641
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 void FUN_002b5af0(int param_1)
@@ -18,6 +13,5 @@ void FUN_002b5af0(int param_1)
   else {
     DAT_0094fd38 = 0xffffffff;
   }
-          // WARNING: Subroutine does not return
   FUN_001323b4(param_1 + 0x294);
 }

@@ -17,7 +17,7 @@ void StageOpusCeremony::VF06() {}
 
 void StageOpusCeremony::VF11() {}
 
-// was FUN_00586eb4
+// TODO: verify FUN_00586eb4
 void StageOpusCeremony::VF12()
 {
   undefined4 uVar1;

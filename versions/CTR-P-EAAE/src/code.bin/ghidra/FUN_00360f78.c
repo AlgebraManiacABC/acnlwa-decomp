@@ -1,8 +1,3 @@
-/**
- * FUN_00360f78.c
- * Source line: 465564
- * Body lines: 9
- */
 #include "../../../include/types.h"
 
 int FUN_00360f78(int param_1,wchar_t *param_2)

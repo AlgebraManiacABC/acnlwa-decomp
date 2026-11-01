@@ -1,8 +1,3 @@
-/**
- * FUN_0062f5c4.c
- * Source line: 946538
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 void FUN_0062f5c4(void)

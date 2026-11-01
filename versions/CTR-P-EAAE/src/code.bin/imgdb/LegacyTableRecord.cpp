@@ -3,7 +3,7 @@
 
 namespace imgdb {
 
-// was FUN_005aa720
+// TODO: verify FUN_005aa720
 void LegacyTableRecord::Initialize()
 {
   undefined4 *param_1 = (undefined4 *)this;

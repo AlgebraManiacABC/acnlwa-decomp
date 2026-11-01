@@ -1,8 +1,3 @@
-/**
- * FUN_0048ac20.c
- * Source line: 661024
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 int FUN_0048ac20(undefined1 *param_1)

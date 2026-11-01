@@ -1,8 +1,3 @@
-/**
- * FUN_006acf28.c
- * Source line: 1007857
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 void FUN_006acf28(int param_1)
@@ -17,6 +12,5 @@ void FUN_006acf28(int param_1)
   }
   *(byte *)(*(int *)(param_1 + 0x1808) + 0xb7) = *(byte *)(*(int *)(param_1 + 0x1808) + 0xb7) & 0xfe
   ;
-          // WARNING: Subroutine does not return
   FUN_00568c10(param_1 + 0x16bc);
 }

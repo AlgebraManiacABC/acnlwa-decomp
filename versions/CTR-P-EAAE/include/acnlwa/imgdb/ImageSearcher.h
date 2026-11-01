@@ -3,9 +3,6 @@
 
 #include "ImageInfo.h"
 
-// Written by hand: this class has no RTTI, so it is not part of the
-// generated scaffold. Only the members used so far are declared.
-
 namespace imgdb {
 
 class ImageSearcher {

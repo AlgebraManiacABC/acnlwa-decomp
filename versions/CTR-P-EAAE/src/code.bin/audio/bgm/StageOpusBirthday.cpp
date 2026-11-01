@@ -15,7 +15,7 @@ void StageOpusBirthday::VF06() {}
 
 void StageOpusBirthday::VF11() {}
 
-// was FUN_00586e84
+// TODO: verify FUN_00586e84
 void StageOpusBirthday::VF12()
 {
   undefined4 uVar1;

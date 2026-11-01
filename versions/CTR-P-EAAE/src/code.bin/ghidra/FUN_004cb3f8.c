@@ -1,8 +1,3 @@
-/**
- * FUN_004cb3f8.c
- * Source line: 710621
- * Body lines: 4
- */
 void FUN_004cb3f8(int param_1,int param_2)
 
 {

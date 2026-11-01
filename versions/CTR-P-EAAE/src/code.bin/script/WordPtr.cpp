@@ -5,21 +5,21 @@ namespace script {
 
 WordPtr::~WordPtr() {}
 
-// was FUN_005fcf94
+// TODO: verify FUN_005fcf94
 unsigned int WordPtr::VF02()
 {
   int param_1 = (int)this;
   return *(undefined4 *)(param_1 + 4);
 }
 
-// was FUN_0075cc5c
+// TODO: verify FUN_0075cc5c
 unsigned int WordPtr::VF03()
 {
   int param_1 = (int)this;
   return *(undefined4 *)(param_1 + 4);
 }
 
-// was FUN_0075cc44
+// TODO: verify FUN_0075cc44
 unsigned int WordPtr::VF04()
 {
   int param_1 = (int)this;

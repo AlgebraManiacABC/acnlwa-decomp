@@ -1,8 +1,3 @@
-/**
- * FUN_0032cbec.c
- * Source line: 432162
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 void FUN_0032cbec(undefined1 *param_1)

@@ -1,8 +1,3 @@
-/**
- * FUN_002a7a7c.c
- * Source line: 346871
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 Item_t * FUN_002a7a7c(Item_t *param_1,undefined4 param_2,undefined4 param_3,Item_t param_4)

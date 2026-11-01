@@ -1,8 +1,3 @@
-/**
- * FUN_0069a91c.c
- * Source line: 1000689
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_0069a91c(int param_1,uint param_2)
@@ -21,8 +16,6 @@ undefined4 FUN_0069a91c(int param_1,uint param_2)
     if ((piVar1 != NULL) && (*(byte *)((int)piVar1 + 0x95e) == param_2)) break;
     piVar3 = piVar3 + 1;
   }
-          // WARNING: Could not recover jumptable at 0x0069a95c. Too many branches
-          // WARNING: Treating indirect jump as call
   uVar2 = (**(code **)(*piVar1 + 0xf0))();
   return uVar2;
 }

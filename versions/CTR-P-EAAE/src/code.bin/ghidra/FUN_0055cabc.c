@@ -1,8 +1,3 @@
-/**
- * FUN_0055cabc.c
- * Source line: 802622
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 void FUN_0055cabc(uint *param_1,uint param_2)

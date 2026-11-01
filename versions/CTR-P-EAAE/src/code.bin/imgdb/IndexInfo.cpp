@@ -3,7 +3,7 @@
 
 namespace imgdb {
 
-// was FUN_00755718
+// TODO: verify FUN_00755718
 bool IndexInfo::IsValidDirectoryIndex() const
 {
   ushort *param_1 = (ushort *)this;

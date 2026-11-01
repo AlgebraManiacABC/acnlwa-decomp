@@ -1,8 +1,3 @@
-/**
- * FUN_006cecdc.c
- * Source line: 1029912
- * Body lines: 9
- */
 #include "../../../include/types.h"
 
 void FUN_006cecdc(undefined4 *param_1)

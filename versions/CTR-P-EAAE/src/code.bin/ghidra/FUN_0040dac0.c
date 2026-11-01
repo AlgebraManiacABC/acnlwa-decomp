@@ -1,8 +1,3 @@
-/**
- * FUN_0040dac0.c
- * Source line: 576942
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 uint FUN_0040dac0(int param_1)

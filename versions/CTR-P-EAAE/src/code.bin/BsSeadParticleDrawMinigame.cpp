@@ -11,7 +11,7 @@ int FUN_0032f778(...);
 
 BsSeadParticleDrawMinigame::~BsSeadParticleDrawMinigame() {}
 
-// was FUN_003424f4
+// TODO: verify FUN_003424f4
 unsigned int BsSeadParticleDrawMinigame::Process_VF03()
 {
   undefined4 param_1 = (undefined4)this;
@@ -21,7 +21,7 @@ unsigned int BsSeadParticleDrawMinigame::Process_VF03()
   return;
 }
 
-// was FUN_00342514
+// TODO: verify FUN_00342514
 unsigned int BsSeadParticleDrawMinigame::Process_VF06()
 {
   undefined4 param_1 = (undefined4)this;

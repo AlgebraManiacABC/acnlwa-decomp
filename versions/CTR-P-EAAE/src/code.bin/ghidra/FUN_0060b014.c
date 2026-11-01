@@ -1,8 +1,3 @@
-/**
- * FUN_0060b014.c
- * Source line: 923345
- * Body lines: 9
- */
 void FUN_0060b014(int param_1)
 
 {
@@ -15,6 +10,5 @@ void FUN_0060b014(int param_1)
     return;
   }
   FUN_00569544(param_1 + 0x3cc);
-          // WARNING: Subroutine does not return
   FUN_00568c10(param_1 + 0x280);
 }

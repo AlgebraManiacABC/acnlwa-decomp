@@ -1,8 +1,3 @@
-/**
- * FUN_0014f394.c
- * Source line: 163125
- * Body lines: 12
- */
 void FUN_0014f394(float *param_1,float *param_2,float *param_3)
 
 {

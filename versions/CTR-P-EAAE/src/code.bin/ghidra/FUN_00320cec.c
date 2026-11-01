@@ -1,8 +1,3 @@
-/**
- * FUN_00320cec.c
- * Source line: 424053
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 void FUN_00320cec(int param_1,int param_2)
@@ -16,7 +11,6 @@ void FUN_00320cec(int param_1,int param_2)
     else {
       (**(code **)(**(int **)(param_1 + 0x280) + 8))(0);
     }
-          // WARNING: Subroutine does not return
     FUN_00568c10(param_1 + 0x130);
   }
   return;

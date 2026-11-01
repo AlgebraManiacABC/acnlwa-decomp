@@ -1,8 +1,3 @@
-/**
- * FUN_0076f2d8.c
- * Source line: 1132353
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_0076f2d8(int param_1,int param_2)

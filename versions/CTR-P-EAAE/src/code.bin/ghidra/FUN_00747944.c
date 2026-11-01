@@ -1,8 +1,3 @@
-/**
- * FUN_00747944.c
- * Source line: 1103635
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 void FUN_00747944(int param_1)
@@ -23,6 +18,5 @@ void FUN_00747944(int param_1)
     return;
   }
   do {
-          // WARNING: Do nothing block with infinite loop
   } while( true );
 }

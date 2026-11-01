@@ -1,8 +1,3 @@
-/**
- * FUN_0043df10.c
- * Source line: 604946
- * Body lines: 11
- */
 int FUN_0043df10(int param_1,int *param_2)
 
 {

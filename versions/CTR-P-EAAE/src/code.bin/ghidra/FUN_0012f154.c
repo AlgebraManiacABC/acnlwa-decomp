@@ -1,8 +1,3 @@
-/**
- * FUN_0012f154.c
- * Source line: 135769
- * Body lines: 4
- */
 void FUN_0012f154(SimpleLock *param_1)
 
 {

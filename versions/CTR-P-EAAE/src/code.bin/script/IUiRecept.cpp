@@ -71,25 +71,25 @@ void IUiRecept::VF33() {}
 
 void IUiRecept::VF34() {}
 
-// was FUN_0075cd30
+// TODO: verify FUN_0075cd30
 unsigned int IUiRecept::VF35()
 {
   return 4;
 }
 
-// was FUN_0075cd38
+// TODO: verify FUN_0075cd38
 unsigned int IUiRecept::VF36()
 {
   return 4;
 }
 
-// was FUN_00600428
+// TODO: verify FUN_00600428
 unsigned int IUiRecept::VF37()
 {
   return 1;
 }
 
-// was FUN_00600420
+// TODO: verify FUN_00600420
 unsigned int IUiRecept::VF38()
 {
   return 1;

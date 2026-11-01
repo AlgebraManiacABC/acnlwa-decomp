@@ -1,8 +1,3 @@
-/**
- * FUN_0023ae64.c
- * Source line: 291456
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 void FUN_0023ae64(int *param_1)
@@ -18,8 +13,6 @@ void FUN_0023ae64(int *param_1)
                  *(undefined4 *)(DAT_0095deac + 0x14));
     FUN_006001f0(param_1[0x21],0);
   }
-          // WARNING: Could not recover jumptable at 0x0023af10. Too many branches
-          // WARNING: Treating indirect jump as call
   (**(code **)(*param_1 + 0x11c))(param_1);
   return;
 }

@@ -1,8 +1,3 @@
-/**
- * thunk_FUN_0051ca20.c
- * Source line: 404762
- * Body lines: 3
- */
 #include "../../../include/types.h"
 
 bool thunk_FUN_0051ca20(void)

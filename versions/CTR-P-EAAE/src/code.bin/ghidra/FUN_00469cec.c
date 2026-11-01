@@ -1,8 +1,3 @@
-/**
- * FUN_00469cec.c
- * Source line: 635739
- * Body lines: 13
- */
 void FUN_00469cec(int *param_1)
 
 {

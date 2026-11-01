@@ -1,8 +1,3 @@
-/**
- * FUN_004cac60.c
- * Source line: 710206
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 void FUN_004cac60(float param_1,int param_2)

@@ -25,7 +25,7 @@ void Thread::VF10() {}
 
 void Thread::VF11() {}
 
-// was FUN_0074de24
+// TODO: verify FUN_0074de24
 unsigned int Thread::VF12()
 {
   int param_1 = (int)this;
@@ -36,13 +36,13 @@ void Thread::VF13() {}
 
 void Thread::VF14() {}
 
-// was FUN_0074de44
+// TODO: verify FUN_0074de44
 unsigned int Thread::VF15()
 {
   return 0;
 }
 
-// was FUN_0074de4c
+// TODO: verify FUN_0074de4c
 unsigned int Thread::VF17()
 {
   int param_1 = (int)this;

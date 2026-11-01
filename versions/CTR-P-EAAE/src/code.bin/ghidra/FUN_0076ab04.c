@@ -1,8 +1,3 @@
-/**
- * FUN_0076ab04.c
- * Source line: 1128185
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 uint FUN_0076ab04(void)

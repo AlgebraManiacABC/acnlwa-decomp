@@ -1,8 +1,3 @@
-/**
- * FUN_0016dc50.c
- * Source line: 185370
- * Body lines: 7
- */
 #include "../../../include/types.h"
 
 void FUN_0016dc50(undefined4 param_1)

@@ -34,7 +34,7 @@ void NpcTalkRecept::ITalkRecept_VF38() {}
 
 void NpcTalkRecept::ITalkRecept_VF39() {}
 
-// was FUN_00230bb4
+// TODO: verify FUN_00230bb4
 void NpcTalkRecept::ITalkRecept_VF40()
 {}
 
@@ -60,7 +60,7 @@ void NpcTalkRecept::ITalkRecept_VF57() {}
 
 void NpcTalkRecept::ITalkRecept_VF59() {}
 
-// was FUN_002389ec
+// TODO: verify FUN_002389ec
 void NpcTalkRecept::ITalkRecept_VF60()
 {
   int param_1 = (int)this;
@@ -74,11 +74,11 @@ void NpcTalkRecept::ITalkRecept_VF62(unsigned char * param_2) {}
 
 void NpcTalkRecept::VF63() {}
 
-// was FUN_0023135c
+// TODO: verify FUN_0023135c
 void NpcTalkRecept::VF64()
 {}
 
-// was FUN_00230e94
+// TODO: verify FUN_00230e94
 void NpcTalkRecept::VF65()
 {}
 
@@ -100,17 +100,17 @@ void NpcTalkRecept::VF73() {}
 
 void NpcTalkRecept::VF74() {}
 
-// was FUN_00230830
+// TODO: verify FUN_00230830
 void NpcTalkRecept::VF75()
 {}
 
 void NpcTalkRecept::VF76() {}
 
-// was FUN_00230e90
+// TODO: verify FUN_00230e90
 void NpcTalkRecept::VF77()
 {}
 
-// was FUN_00713a40
+// TODO: verify FUN_00713a40
 unsigned int NpcTalkRecept::VF78()
 {
   return 0;

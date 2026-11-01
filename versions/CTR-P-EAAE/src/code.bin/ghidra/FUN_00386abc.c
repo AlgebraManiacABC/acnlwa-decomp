@@ -1,8 +1,3 @@
-/**
- * FUN_00386abc.c
- * Source line: 492077
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_00386abc(int param_1,undefined4 param_2,undefined4 param_3,undefined4 param_4)

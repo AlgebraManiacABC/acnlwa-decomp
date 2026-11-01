@@ -1,8 +1,3 @@
-/**
- * FUN_00315df4.c
- * Source line: 417623
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 void FUN_00315df4(int param_1,int *param_2)

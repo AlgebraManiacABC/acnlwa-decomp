@@ -20,7 +20,7 @@ void MyHouseMax::VF05() {}
 
 void MyHouseMax::VF06() {}
 
-// was FUN_0052fd6c
+// TODO: verify FUN_0052fd6c
 void MyHouseMax::VF07()
 {
   int param_1 = (int)this;

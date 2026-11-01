@@ -1,8 +1,3 @@
-/**
- * FUN_005c2dfc.c
- * Source line: 872491
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 void FUN_005c2dfc(uint param_1)

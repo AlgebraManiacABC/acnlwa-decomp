@@ -15,7 +15,7 @@ unsigned int NpcDemoDollTalkRecept::VF70() {}
 
 unsigned int NpcDemoDollTalkRecept::VF78() {}
 
-// was FUN_00328a30
+// TODO: verify FUN_00328a30
 void NpcDemoDollTalkRecept::VF80(unsigned int param_2)
 {
   int param_1 = (int)this;
@@ -23,29 +23,29 @@ void NpcDemoDollTalkRecept::VF80(unsigned int param_2)
   return;
 }
 
-// was FUN_003293dc
+// TODO: verify FUN_003293dc
 void NpcDemoDollTalkRecept::VF81()
 {}
 
-// was FUN_003293d4
+// TODO: verify FUN_003293d4
 unsigned int NpcDemoDollTalkRecept::VF82()
 {
   return 1;
 }
 
-// was FUN_00329394
+// TODO: verify FUN_00329394
 unsigned int NpcDemoDollTalkRecept::VF83()
 {
   return 1;
 }
 
-// was FUN_00328aa0
+// TODO: verify FUN_00328aa0
 void NpcDemoDollTalkRecept::VF84()
 {}
 
 void NpcDemoDollTalkRecept::VF85() {}
 
-// was FUN_00328c4c
+// TODO: verify FUN_00328c4c
 unsigned int NpcDemoDollTalkRecept::VF86()
 {
   return 2;

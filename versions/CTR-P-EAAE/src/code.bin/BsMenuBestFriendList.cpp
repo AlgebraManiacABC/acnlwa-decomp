@@ -14,7 +14,7 @@ unsigned int BsMenuBestFriendList::Process_VF06() {}
 
 unsigned int BsMenuBestFriendList::Process_VF09() {}
 
-// was FUN_003124e4
+// TODO: verify FUN_003124e4
 unsigned int BsMenuBestFriendList::Process_VF12()
 {
   int param_1 = (int)this;

@@ -1,8 +1,3 @@
-/**
- * FUN_00125aec.c
- * Source line: 127407
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 void FUN_00125aec(undefined4 *param_1)

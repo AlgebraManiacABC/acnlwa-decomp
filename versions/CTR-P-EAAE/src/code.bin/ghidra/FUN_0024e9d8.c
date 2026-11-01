@@ -1,8 +1,3 @@
-/**
- * FUN_0024e9d8.c
- * Source line: 300813
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_0024e9d8(ushort *param_1,uint param_2,undefined1 param_3,undefined1 param_4)

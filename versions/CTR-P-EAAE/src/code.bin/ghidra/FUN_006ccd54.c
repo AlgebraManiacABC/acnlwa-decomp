@@ -1,8 +1,3 @@
-/**
- * FUN_006ccd54.c
- * Source line: 1029159
- * Body lines: 7
- */
 #include "../../../include/types.h"
 
 void FUN_006ccd54(int param_1)

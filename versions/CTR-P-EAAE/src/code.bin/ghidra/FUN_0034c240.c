@@ -1,8 +1,3 @@
-/**
- * FUN_0034c240.c
- * Source line: 448725
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 uint FUN_0034c240(int param_1,undefined4 param_2,undefined4 param_3,undefined4 param_4,

@@ -1,8 +1,3 @@
-/**
- * FUN_002fe2e4.c
- * Source line: 396333
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 void FUN_002fe2e4(void)
@@ -15,8 +10,6 @@ void FUN_002fe2e4(void)
     sleepTicks(ticks32_32);
     if (cRam0094cd28 == '\0') {
       cRam0094cd28 = 1;
-          // WARNING: Could not recover jumptable at 0x002fe364. Too many branches
-          // WARNING: Treating indirect jump as call
       (**(code **)(*piRam0094cd2c + 0xc))(piRam0094cd2c,0x6c6f6164,0);
       return;
     }

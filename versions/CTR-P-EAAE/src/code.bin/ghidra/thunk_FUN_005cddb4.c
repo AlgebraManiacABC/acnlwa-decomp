@@ -1,8 +1,3 @@
-/**
- * thunk_FUN_005cddb4.c
- * Source line: 404664
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 void thunk_FUN_005cddb4(undefined4 param_1,undefined4 param_2)

@@ -1,8 +1,3 @@
-/**
- * FUN_007d5804.c
- * Source line: 1180839
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 void FUN_007d5804(int param_1)
@@ -21,8 +16,6 @@ void FUN_007d5804(int param_1)
     FUN_00808fd0(auStack_14,param_1 + 0x38,&local_18);
     iVar2 = *(int *)(param_1 + 0x4c);
   }
-          // WARNING: Could not recover jumptable at 0x007d586c. Too many branches
-          // WARNING: Treating indirect jump as call
   (**(code **)(*piVar1 + 0xc))(piVar1);
   return;
 }

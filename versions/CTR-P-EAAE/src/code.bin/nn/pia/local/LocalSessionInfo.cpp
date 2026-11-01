@@ -9,7 +9,7 @@ LocalSessionInfo::~LocalSessionInfo() {}
 
 void LocalSessionInfo::VF05() {}
 
-// was FUN_004165c0
+// TODO: verify FUN_004165c0
 void LocalSessionInfo::VF08()
 {
   int param_1 = (int)this;

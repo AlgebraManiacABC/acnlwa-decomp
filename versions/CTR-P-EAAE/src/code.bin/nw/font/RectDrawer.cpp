@@ -6,7 +6,7 @@ namespace font {
 
 RectDrawer::~RectDrawer() {}
 
-// was FUN_004d7efc
+// TODO: verify FUN_004d7efc
 void RectDrawer::VF02()
 {
   int param_1 = (int)this;

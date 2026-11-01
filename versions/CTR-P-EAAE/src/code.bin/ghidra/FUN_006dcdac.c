@@ -1,8 +1,3 @@
-/**
- * FUN_006dcdac.c
- * Source line: 1037774
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_006dcdac(int param_1)

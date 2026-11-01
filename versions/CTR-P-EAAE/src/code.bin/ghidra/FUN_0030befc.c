@@ -1,8 +1,3 @@
-/**
- * FUN_0030befc.c
- * Source line: 410145
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_0030befc(int param_1)

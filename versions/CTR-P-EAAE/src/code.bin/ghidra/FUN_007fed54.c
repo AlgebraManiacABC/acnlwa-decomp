@@ -1,8 +1,3 @@
-/**
- * FUN_007fed54.c
- * Source line: 1202546
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 void FUN_007fed54(int param_1,int param_2)

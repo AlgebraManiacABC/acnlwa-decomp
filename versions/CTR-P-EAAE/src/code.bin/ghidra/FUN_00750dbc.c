@@ -1,8 +1,3 @@
-/**
- * FUN_00750dbc.c
- * Source line: 1107263
- * Body lines: 7
- */
 #include "../../../include/types.h"
 
 byte FUN_00750dbc(int param_1)

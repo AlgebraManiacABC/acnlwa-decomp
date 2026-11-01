@@ -1,8 +1,3 @@
-/**
- * FUN_0011dc5c.c
- * Source line: 120920
- * Body lines: 6
- */
 void FUN_0011dc5c(void)
 
 {

@@ -1,8 +1,3 @@
-/**
- * FUN_002d57f4.c
- * Source line: 373624
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 Item_t * FUN_002d57f4(void)

@@ -1,8 +1,3 @@
-/**
- * FUN_00469ca8.c
- * Source line: 635716
- * Body lines: 15
- */
 int FUN_00469ca8(short param_1,short param_2,int param_3)
 
 {

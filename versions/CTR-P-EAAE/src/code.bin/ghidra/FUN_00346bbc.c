@@ -1,8 +1,3 @@
-/**
- * FUN_00346bbc.c
- * Source line: 443596
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 void FUN_00346bbc(int param_1,undefined4 param_2,uint param_3,int param_4,undefined4 param_5,

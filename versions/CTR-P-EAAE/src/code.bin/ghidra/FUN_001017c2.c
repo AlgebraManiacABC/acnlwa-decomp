@@ -1,8 +1,3 @@
-/**
- * FUN_001017c2.c
- * Source line: 105157
- * Body lines: 11
- */
 char * FUN_001017c2(char *param_1,char param_2)
 
 {

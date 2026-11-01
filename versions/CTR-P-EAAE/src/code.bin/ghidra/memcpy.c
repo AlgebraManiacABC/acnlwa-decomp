@@ -1,8 +1,3 @@
-/**
- * memcpy.c
- * Source line: 391370
- * Body lines: 2
- */
 void * memcpy(void *__dest,void *__src,size_t __n)
 
 {

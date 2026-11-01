@@ -24,7 +24,7 @@ void Material::VF09() {}
 
 void Material::VF10() {}
 
-// was FUN_004bc520
+// TODO: verify FUN_004bc520
 int Material::GetTexSRTAry()
 {
   int param_1 = (int)this;

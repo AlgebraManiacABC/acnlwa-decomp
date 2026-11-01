@@ -4,7 +4,7 @@
 
 namespace imgdb {
 
-// was FUN_005b0438
+// TODO: verify FUN_005b0438
 void ImageInfo::SetShootingType(ShootingType param_2)
 {
   int param_1 = (int)this;
@@ -12,7 +12,7 @@ void ImageInfo::SetShootingType(ShootingType param_2)
   return;
 }
 
-// was FUN_005b04d0
+// TODO: verify FUN_005b04d0
 void ImageInfo::SetHandleTypeBit(HandleTypeBit param_2)
 {
   int param_1 = (int)this;
@@ -20,7 +20,7 @@ void ImageInfo::SetHandleTypeBit(HandleTypeBit param_2)
   return;
 }
 
-// was FUN_005b0504
+// TODO: verify FUN_005b0504
 void ImageInfo::SetDistinctionTypeBit(DistinctionTypeBit param_2)
 {
   int param_1 = (int)this;
@@ -28,21 +28,21 @@ void ImageInfo::SetDistinctionTypeBit(DistinctionTypeBit param_2)
   return;
 }
 
-// was FUN_00755558
+// TODO: verify FUN_00755558
 uint ImageInfo::GetHandleTypeBit() const
 {
   int param_1 = (int)this;
   return (uint)(*(int *)(param_1 + 0x28) << 0x17) >> 0x18;
 }
 
-// was FUN_00755568
+// TODO: verify FUN_00755568
 uint ImageInfo::GetSaveProcessType() const
 {
   int param_1 = (int)this;
   return (*(uint *)(param_1 + 0x2c) & 0x1e00000) >> 0x15;
 }
 
-// was FUN_00755578
+// TODO: verify FUN_00755578
 undefined4 ImageInfo::ValidateWithoutPath() const
 {
   int param_1 = (int)this;
@@ -54,7 +54,7 @@ undefined4 ImageInfo::ValidateWithoutPath() const
   return 1;
 }
 
-// was FUN_007555bc
+// TODO: verify FUN_007555bc
 uint ImageInfo::GetDistinctionTypeBit() const
 {
   int param_1 = (int)this;

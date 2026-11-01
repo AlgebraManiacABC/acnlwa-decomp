@@ -1,8 +1,3 @@
-/**
- * FUN_001add58.c
- * Source line: 216948
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 void FUN_001add58(undefined4 param_1)

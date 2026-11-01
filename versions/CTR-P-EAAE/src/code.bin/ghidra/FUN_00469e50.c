@@ -1,8 +1,3 @@
-/**
- * FUN_00469e50.c
- * Source line: 635878
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 uint FUN_00469e50(undefined2 param_1)

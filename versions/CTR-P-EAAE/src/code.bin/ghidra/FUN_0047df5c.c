@@ -1,8 +1,3 @@
-/**
- * FUN_0047df5c.c
- * Source line: 650669
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 float FUN_0047df5c(uint param_1)

@@ -1,8 +1,3 @@
-/**
- * __arm_div2.c
- * Source line: 392901
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 undefined8 __arm_div2(uint param_1,uint param_2,int param_3)

@@ -1,8 +1,3 @@
-/**
- * FUN_002d4d30.c
- * Source line: 373262
- * Body lines: 2
- */
 void FUN_002d4d30(int param_1,Item_t *param_2)
 
 {

@@ -1,8 +1,3 @@
-/**
- * FUN_001024ec.c
- * Source line: 105992
- * Body lines: 3
- */
 #include "../../../include/types.h"
 
 byte FUN_001024ec(int param_1)

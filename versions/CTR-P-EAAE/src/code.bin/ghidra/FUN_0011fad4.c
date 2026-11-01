@@ -1,8 +1,3 @@
-/**
- * FUN_0011fad4.c
- * Source line: 122646
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 uint FUN_0011fad4(void)

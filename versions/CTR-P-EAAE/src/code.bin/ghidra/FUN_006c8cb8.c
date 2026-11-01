@@ -1,8 +1,3 @@
-/**
- * FUN_006c8cb8.c
- * Source line: 1026366
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 void FUN_006c8cb8(int param_1)
@@ -18,6 +13,5 @@ void FUN_006c8cb8(int param_1)
   FUN_005695e4(param_1 + 0x3e0,"save_wait_wait_save.bclan",param_1 + 0x170);
   iVar1 = FUN_0056878c(param_1 + 0x24,&UNK_0089505c);
   *(byte *)(iVar1 + 0xb7) = *(byte *)(iVar1 + 0xb7) & 0xfe;
-          // WARNING: Subroutine does not return
   FUN_00568c10(param_1 + 0x24);
 }

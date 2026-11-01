@@ -1,6 +1,6 @@
 #include "types.h"
 
-// was FUN_00779548
+// TODO: verify FUN_00779548
 void __ARM_common_memclr4_10(undefined4 *param_1)
 {
   *param_1 = 0;

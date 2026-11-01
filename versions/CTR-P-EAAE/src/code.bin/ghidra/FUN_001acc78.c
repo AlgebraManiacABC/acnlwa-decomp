@@ -1,8 +1,3 @@
-/**
- * FUN_001acc78.c
- * Source line: 216580
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 void FUN_001acc78(undefined4 *param_1)

@@ -12,7 +12,7 @@ ObjectSwing::~ObjectSwing() {}
 
 void ObjectSwing::VF04() {}
 
-// was FUN_00593cf0
+// TODO: verify FUN_00593cf0
 void ObjectSwing::VF05()
 {
   int param_1 = (int)this;

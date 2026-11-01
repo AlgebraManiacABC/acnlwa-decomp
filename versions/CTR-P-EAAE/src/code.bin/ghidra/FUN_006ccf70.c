@@ -1,8 +1,3 @@
-/**
- * FUN_006ccf70.c
- * Source line: 1029278
- * Body lines: 5
- */
 void FUN_006ccf70(Item_t *param_1,int param_2,int param_3,int param_4,int param_5,Item_t *param_6)
 
 {

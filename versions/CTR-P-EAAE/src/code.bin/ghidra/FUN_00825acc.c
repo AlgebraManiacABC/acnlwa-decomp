@@ -1,8 +1,3 @@
-/**
- * FUN_00825acc.c
- * Source line: 1235071
- * Body lines: 12
- */
 void FUN_00825acc(int *param_1,int param_2)
 
 {

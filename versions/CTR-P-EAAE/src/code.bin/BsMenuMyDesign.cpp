@@ -17,7 +17,7 @@ unsigned int BsMenuMyDesign::Process_VF06() {}
 
 unsigned int BsMenuMyDesign::Process_VF09() {}
 
-// was FUN_0025a408
+// TODO: verify FUN_0025a408
 unsigned int BsMenuMyDesign::Process_VF12()
 {
   int param_1 = (int)this;

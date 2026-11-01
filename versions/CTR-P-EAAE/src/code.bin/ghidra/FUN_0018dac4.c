@@ -1,8 +1,3 @@
-/**
- * FUN_0018dac4.c
- * Source line: 203186
- * Body lines: 3
- */
 #include "../../../include/types.h"
 
 void FUN_0018dac4(int param_1)

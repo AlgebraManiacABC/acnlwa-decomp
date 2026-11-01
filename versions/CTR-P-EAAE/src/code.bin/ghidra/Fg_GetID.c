@@ -1,8 +1,3 @@
-/**
- * Fg_GetID.c
- * Source line: 1126869
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 uint Fg_GetID(Fg_t *param_1)

@@ -1,8 +1,3 @@
-/**
- * nnroAeabiAtexit_.c
- * Source line: 1154492
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 undefined4 nnroAeabiAtexit_(undefined4 param_1,undefined4 param_2,uint param_3,int *param_4)

@@ -19,7 +19,7 @@ int AcInsectCommon::Process_VF11() {}
 
 unsigned int AcInsectCommon::Process_VF12() {}
 
-// was FUN_0071866c
+// TODO: verify FUN_0071866c
 void AcInsectCommon::VF17(int param_2)
 {
   undefined4 param_1 = (undefined4)this;

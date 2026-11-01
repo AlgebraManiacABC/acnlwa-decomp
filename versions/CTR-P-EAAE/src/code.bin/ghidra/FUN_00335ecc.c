@@ -1,8 +1,3 @@
-/**
- * FUN_00335ecc.c
- * Source line: 436518
- * Body lines: 7
- */
 #include "../../../include/types.h"
 
 void FUN_00335ecc(int param_1,int param_2)

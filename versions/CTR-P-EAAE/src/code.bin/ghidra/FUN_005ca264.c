@@ -1,8 +1,3 @@
-/**
- * FUN_005ca264.c
- * Source line: 878271
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 int FUN_005ca264(uint param_1)

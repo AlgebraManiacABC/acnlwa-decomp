@@ -20,7 +20,7 @@ void UlcdTask::VF07() {}
 
 void UlcdTask::VF16() {}
 
-// was FUN_00560d4c
+// TODO: verify FUN_00560d4c
 void UlcdTask::VF18()
 {
   int param_1 = (int)this;

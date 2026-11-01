@@ -1,8 +1,3 @@
-/**
- * FUN_0028dafc.c
- * Source line: 333353
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 void FUN_0028dafc(int param_1,uint *param_2,byte param_3,undefined4 param_4)

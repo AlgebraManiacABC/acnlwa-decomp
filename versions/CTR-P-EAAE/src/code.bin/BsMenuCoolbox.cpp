@@ -17,7 +17,7 @@ unsigned int BsMenuCoolbox::Process_VF06() {}
 
 unsigned int BsMenuCoolbox::Process_VF09() {}
 
-// was FUN_0021df88
+// TODO: verify FUN_0021df88
 unsigned int BsMenuCoolbox::Process_VF12()
 {
   int param_1 = (int)this;

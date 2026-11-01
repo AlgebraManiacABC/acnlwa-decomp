@@ -1,8 +1,3 @@
-/**
- * FUN_00746da8.c
- * Source line: 1102832
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 float FUN_00746da8(undefined4 param_1,int param_2,uint param_3)

@@ -1,4 +1,3 @@
-// Bounds of the zero-initialised region, defined by armlink at link time.
 extern unsigned int Image$$ZI$$ZI$$Base[];
 extern unsigned int Image$$ZI$$ZI$$Limit[];
 

@@ -43,7 +43,7 @@ unsigned char ScStageMiniGame1::DemoActor_VF18() {}
 
 unsigned int ScStageMiniGame1::DemoActor_VF19() {}
 
-// was FUN_002bc870
+// TODO: verify FUN_002bc870
 unsigned int ScStageMiniGame1::DemoActor_VF20()
 {
   FUN_00304530();

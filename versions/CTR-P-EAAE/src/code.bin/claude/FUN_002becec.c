@@ -1,8 +1,3 @@
-/**
- * FUN_002becec.c
- * Source line: 359282
- * Body lines: 7
- */
 #include "../../../include/types.h"
 
 void FUN_002becec(int param_1)

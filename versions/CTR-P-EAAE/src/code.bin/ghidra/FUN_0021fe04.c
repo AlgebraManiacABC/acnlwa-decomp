@@ -1,8 +1,3 @@
-/**
- * FUN_0021fe04.c
- * Source line: 276795
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 void FUN_0021fe04(int param_1,int param_2)

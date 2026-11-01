@@ -1,8 +1,3 @@
-/**
- * FUN_00725bac.c
- * Source line: 1079782
- * Body lines: 7
- */
 #include "../../../include/types.h"
 
 undefined8 FUN_00725bac(int param_1)

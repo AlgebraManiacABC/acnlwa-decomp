@@ -16,7 +16,7 @@ unsigned int BsMenuRentalHaniwa::Process_VF06() {}
 
 unsigned int BsMenuRentalHaniwa::Process_VF09() {}
 
-// was FUN_002dd444
+// TODO: verify FUN_002dd444
 unsigned int BsMenuRentalHaniwa::Process_VF12()
 {
   int param_1 = (int)this;

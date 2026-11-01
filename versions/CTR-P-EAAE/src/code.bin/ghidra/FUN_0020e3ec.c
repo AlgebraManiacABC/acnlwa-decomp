@@ -1,8 +1,3 @@
-/**
- * FUN_0020e3ec.c
- * Source line: 269730
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 void FUN_0020e3ec(void)

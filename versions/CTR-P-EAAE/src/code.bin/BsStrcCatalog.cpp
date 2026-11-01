@@ -41,7 +41,7 @@ unsigned char BsStrcCatalog::DemoActor_VF18() {}
 
 unsigned int BsStrcCatalog::DemoActor_VF19() {}
 
-// was FUN_00227318
+// TODO: verify FUN_00227318
 unsigned int BsStrcCatalog::DemoActor_VF20()
 {
   FUN_00226ee8();

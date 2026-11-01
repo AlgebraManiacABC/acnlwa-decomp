@@ -1,8 +1,3 @@
-/**
- * FUN_001c2040.c
- * Source line: 228869
- * Body lines: 14
- */
 int FUN_001c2040(int param_1,int param_2)
 
 {

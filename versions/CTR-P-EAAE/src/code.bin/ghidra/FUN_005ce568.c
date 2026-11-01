@@ -1,8 +1,3 @@
-/**
- * FUN_005ce568.c
- * Source line: 880614
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 void FUN_005ce568(void)
@@ -20,8 +15,6 @@ void FUN_005ce568(void)
     UNRECOVERED_JUMPTABLE =
          *(code **)(UNRECOVERED_JUMPTABLE + *(int *)(DAT_0094e3c8 + ((int)uVar1 >> 1)));
   }
-          // WARNING: Could not recover jumptable at 0x005ce5ac. Too many branches
-          // WARNING: Treating indirect jump as call
   (*UNRECOVERED_JUMPTABLE)();
   return;
 }

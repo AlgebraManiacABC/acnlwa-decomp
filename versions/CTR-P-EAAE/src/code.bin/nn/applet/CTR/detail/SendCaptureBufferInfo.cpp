@@ -14,7 +14,7 @@ undefined4 SendCaptureBufferInfo(const unsigned char *param_1, unsigned int para
 }
 void DisconnectAndUnlock();
 
-// was FUN_00480444
+// TODO: verify FUN_00480444
 undefined4 SendCaptureBufferInfo(const unsigned char *param_1, unsigned int param_2)
 {
   undefined4 uVar1;

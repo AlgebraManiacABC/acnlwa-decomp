@@ -1,8 +1,3 @@
-/**
- * FUN_0071adb4.c
- * Source line: 1073415
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_0071adb4(int *param_1)

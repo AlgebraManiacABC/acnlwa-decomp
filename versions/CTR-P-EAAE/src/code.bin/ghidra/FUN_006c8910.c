@@ -1,8 +1,3 @@
-/**
- * FUN_006c8910.c
- * Source line: 1026255
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 byte FUN_006c8910(void)

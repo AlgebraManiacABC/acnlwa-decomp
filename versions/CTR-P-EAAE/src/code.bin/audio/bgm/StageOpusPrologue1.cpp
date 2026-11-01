@@ -17,7 +17,7 @@ void StageOpusPrologue1::VF10() {}
 
 void StageOpusPrologue1::VF11() {}
 
-// was FUN_005877ec
+// TODO: verify FUN_005877ec
 void StageOpusPrologue1::VF12()
 {
   undefined4 uVar1;

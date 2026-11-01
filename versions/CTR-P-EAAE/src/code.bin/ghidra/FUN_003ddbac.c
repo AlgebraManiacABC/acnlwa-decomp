@@ -1,8 +1,3 @@
-/**
- * FUN_003ddbac.c
- * Source line: 553207
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 void FUN_003ddbac(undefined4 *param_1)

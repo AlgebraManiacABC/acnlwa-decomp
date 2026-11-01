@@ -1,8 +1,3 @@
-/**
- * FUN_0028dcbc.c
- * Source line: 333401
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 void FUN_0028dcbc(int param_1)

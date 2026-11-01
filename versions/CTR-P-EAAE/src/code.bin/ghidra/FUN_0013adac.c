@@ -1,8 +1,3 @@
-/**
- * FUN_0013adac.c
- * Source line: 147602
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 int * FUN_0013adac(int *param_1,int *param_2)

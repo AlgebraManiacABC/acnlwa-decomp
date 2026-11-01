@@ -8,7 +8,7 @@ namespace driver {
 
 SequenceTrack::~SequenceTrack() {}
 
-// was FUN_004cb788
+// TODO: verify FUN_004cb788
 int SequenceTrack::GetVariablePtr(int param_2)
 {
   int param_1 = (int)this;

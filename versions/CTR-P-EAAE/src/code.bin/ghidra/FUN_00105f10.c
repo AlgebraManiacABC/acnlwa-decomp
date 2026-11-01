@@ -1,8 +1,3 @@
-/**
- * FUN_00105f10.c
- * Source line: 107457
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 void FUN_00105f10(undefined4 param_1,undefined4 param_2,undefined4 param_3,Item_t param_4,

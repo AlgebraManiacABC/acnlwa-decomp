@@ -1,8 +1,3 @@
-/**
- * FUN_0047d868.c
- * Source line: 650309
- * Body lines: 3
- */
 float FUN_0047d868(float param_1,float param_2,float param_3,float param_4,float param_5,
                   float param_6)
 

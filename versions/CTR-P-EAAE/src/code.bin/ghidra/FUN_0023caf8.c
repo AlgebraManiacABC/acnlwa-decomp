@@ -1,8 +1,3 @@
-/**
- * FUN_0023caf8.c
- * Source line: 292678
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 void FUN_0023caf8(int *param_1)

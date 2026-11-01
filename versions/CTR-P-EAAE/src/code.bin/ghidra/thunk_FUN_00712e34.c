@@ -1,8 +1,3 @@
-/**
- * thunk_FUN_00712e34.c
- * Source line: 400765
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 undefined4 thunk_FUN_00712e34(void)

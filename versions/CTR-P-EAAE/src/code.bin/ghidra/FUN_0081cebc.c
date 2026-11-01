@@ -1,8 +1,3 @@
-/**
- * FUN_0081cebc.c
- * Source line: 1228604
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 void FUN_0081cebc(int param_1)

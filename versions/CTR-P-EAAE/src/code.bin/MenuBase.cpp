@@ -16,7 +16,7 @@ unsigned int MenuBase::Process_VF03() {}
 
 void MenuBase::Process_VF04() {}
 
-// was FUN_006aa9bc
+// TODO: verify FUN_006aa9bc
 int MenuBase::Process_VF05()
 {
   int iVar1;
@@ -29,7 +29,7 @@ unsigned int MenuBase::Process_VF06() {}
 
 void MenuBase::Process_VF07() {}
 
-// was FUN_006aa8ec
+// TODO: verify FUN_006aa8ec
 bool MenuBase::Process_VF08()
 {
   int iVar1;

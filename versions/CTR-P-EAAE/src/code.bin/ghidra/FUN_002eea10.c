@@ -1,8 +1,3 @@
-/**
- * FUN_002eea10.c
- * Source line: 385562
- * Body lines: 7
- */
 #include "../../../include/types.h"
 
 byte * FUN_002eea10(undefined4 *param_1)

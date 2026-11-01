@@ -1,8 +1,3 @@
-/**
- * FUN_002f7a24.c
- * Source line: 389931
- * Body lines: 4
- */
 char FUN_002f7a24(astruct_4 *param_1)
 
 {

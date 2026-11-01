@@ -1,8 +1,3 @@
-/**
- * FUN_0025de40.c
- * Source line: 307968
- * Body lines: 13
- */
 void FUN_0025de40(int param_1)
 
 {

@@ -1,8 +1,3 @@
-/**
- * FUN_003df620.c
- * Source line: 554557
- * Body lines: 15
- */
 void FUN_003df620(int *param_1,int param_2,int *param_3)
 
 {

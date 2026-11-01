@@ -15,7 +15,7 @@ void CapitalTopEngine::VF03() {}
 
 void CapitalTopEngine::VF04() {}
 
-// was FUN_005e6668
+// TODO: verify FUN_005e6668
 void CapitalTopEngine::VF05()
 {
   int param_1 = (int)this;

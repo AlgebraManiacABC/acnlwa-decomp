@@ -13,7 +13,7 @@ void ResourceGetSkeletal::ResourceGetSkeletal_VF02() {}
 
 void ResourceGetSkeletal::ResourceGetSkeletal_VF03() {}
 
-// was FUN_002fbe58
+// TODO: verify FUN_002fbe58
 void ResourceGetSkeletal::ResourceGetSkeletal_VF04()
 {
   int param_1 = (int)this;

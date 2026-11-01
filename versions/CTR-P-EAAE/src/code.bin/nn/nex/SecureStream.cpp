@@ -54,7 +54,7 @@ void SecureStream::VF34() {}
 
 void SecureStream::VF35() {}
 
-// was FUN_00360648
+// TODO: verify FUN_00360648
 unsigned int SecureStream::VF36(unsigned int param_2, unsigned int param_3)
 {
   undefined4 param_1 = (undefined4)this;

@@ -1,8 +1,3 @@
-/**
- * thunk_FUN_005a25cc.c
- * Source line: 400206
- * Body lines: 4
- */
 void thunk_FUN_005a25cc(void)
 
 {

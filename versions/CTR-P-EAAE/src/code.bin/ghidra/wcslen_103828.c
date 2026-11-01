@@ -1,8 +1,3 @@
-/**
- * wcslen.c
- * Source line: 103828
- * Body lines: 6
- */
 size_t wcslen(wchar_t *__s)
 
 {

@@ -13,7 +13,7 @@ void WaveSound::VF00() {}
 
 WaveSound::~WaveSound() {}
 
-// was FUN_004d4564
+// TODO: verify FUN_004d4564
 void WaveSound::VF03()
 {
   int param_1 = (int)this;

@@ -1,8 +1,3 @@
-/**
- * FUN_0012ae80.c
- * Source line: 132019
- * Body lines: 9
- */
 void FUN_0012ae80(void)
 
 {

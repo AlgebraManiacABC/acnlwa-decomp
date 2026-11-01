@@ -1,8 +1,3 @@
-/**
- * FUN_005cedec.c
- * Source line: 881059
- * Body lines: 12
- */
 void FUN_005cedec(void)
 
 {

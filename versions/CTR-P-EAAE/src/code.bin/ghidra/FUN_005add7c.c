@@ -1,8 +1,3 @@
-/**
- * FUN_005add7c.c
- * Source line: 859620
- * Body lines: 10
- */
 size_t FUN_005add7c(void)
 
 {

@@ -14,7 +14,7 @@ BasicSoundPlayer::~BasicSoundPlayer() {}
 
 void BasicSoundPlayer::BasicSoundPlayer_VF02() {}
 
-// was FUN_004cdeb4
+// TODO: verify FUN_004cdeb4
 void BasicSoundPlayer::VF03()
 {
   int param_1 = (int)this;

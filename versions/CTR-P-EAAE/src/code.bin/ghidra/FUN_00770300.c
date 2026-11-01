@@ -1,8 +1,3 @@
-/**
- * FUN_00770300.c
- * Source line: 1133162
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 ulonglong FUN_00770300(undefined4 *param_1)

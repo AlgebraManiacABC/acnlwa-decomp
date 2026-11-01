@@ -1,8 +1,3 @@
-/**
- * FUN_0026f6fc.c
- * Source line: 317449
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_0026f6fc(int param_1)
@@ -13,6 +8,5 @@ void FUN_0026f6fc(int param_1)
   }
   FUN_00132364(param_1 + 700);
   FUN_00132364(param_1 + 0x504);
-          // WARNING: Subroutine does not return
   FUN_001323b4(param_1 + 0x24);
 }

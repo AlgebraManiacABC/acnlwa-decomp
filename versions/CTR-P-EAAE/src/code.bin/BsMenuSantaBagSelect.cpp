@@ -11,7 +11,7 @@ BsMenuSantaBagSelect::~BsMenuSantaBagSelect() {}
 
 unsigned int BsMenuSantaBagSelect::Process_VF03() {}
 
-// was FUN_0031bfe4
+// TODO: verify FUN_0031bfe4
 unsigned int BsMenuSantaBagSelect::Process_VF06()
 {
   int param_1 = (int)this;

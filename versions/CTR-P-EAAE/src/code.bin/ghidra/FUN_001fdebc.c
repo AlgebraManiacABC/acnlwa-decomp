@@ -1,8 +1,3 @@
-/**
- * FUN_001fdebc.c
- * Source line: 260177
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 undefined1 * FUN_001fdebc(undefined1 param_1,undefined4 param_2)

@@ -1,8 +1,3 @@
-/**
- * FUN_00158ecc.c
- * Source line: 171671
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 void FUN_00158ecc(undefined4 param_1,uint param_2,undefined4 param_3,undefined4 param_4,

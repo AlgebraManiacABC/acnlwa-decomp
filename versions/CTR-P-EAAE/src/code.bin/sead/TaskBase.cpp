@@ -25,7 +25,7 @@ void TaskBase::VF14() {}
 
 void TaskBase::VF21() {}
 
-// was FUN_0074e960
+// TODO: verify FUN_0074e960
 undefined4 TaskBase::getMethodTreeMgr() const
 {
   int param_1 = (int)this;

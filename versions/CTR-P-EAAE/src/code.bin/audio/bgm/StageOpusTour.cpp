@@ -17,7 +17,7 @@ void StageOpusTour::VF06() {}
 
 void StageOpusTour::VF07() {}
 
-// was FUN_00585d38
+// TODO: verify FUN_00585d38
 void StageOpusTour::VF10()
 {
   undefined4 uVar1;
@@ -27,7 +27,7 @@ void StageOpusTour::VF10()
   return;
 }
 
-// was FUN_00585cf4
+// TODO: verify FUN_00585cf4
 void StageOpusTour::VF11()
 {
   undefined4 uVar1;

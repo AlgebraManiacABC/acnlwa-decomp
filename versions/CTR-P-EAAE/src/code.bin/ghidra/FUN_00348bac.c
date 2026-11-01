@@ -1,8 +1,3 @@
-/**
- * FUN_00348bac.c
- * Source line: 445506
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 uint FUN_00348bac(uint *param_1,undefined4 param_2,undefined4 param_3,undefined4 param_4,

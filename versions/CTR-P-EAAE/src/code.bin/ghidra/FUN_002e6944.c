@@ -1,8 +1,3 @@
-/**
- * FUN_002e6944.c
- * Source line: 381667
- * Body lines: 6
- */
 cro_container * FUN_002e6944(cro_container *param_1)
 
 {

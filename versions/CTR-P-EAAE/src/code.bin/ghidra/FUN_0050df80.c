@@ -1,8 +1,3 @@
-/**
- * FUN_0050df80.c
- * Source line: 752297
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_0050df80(undefined4 param_1)

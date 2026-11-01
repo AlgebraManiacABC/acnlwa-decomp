@@ -1,8 +1,3 @@
-/**
- * FUN_0071abac.c
- * Source line: 1073314
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 void FUN_0071abac(uint param_1)

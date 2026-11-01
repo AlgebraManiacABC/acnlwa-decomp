@@ -1,8 +1,3 @@
-/**
- * __ARM_fpclassifyf.c
- * Source line: 1136093
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 uint __ARM_fpclassifyf(uint param_1)

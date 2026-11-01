@@ -1,8 +1,3 @@
-/**
- * FUN_003cca64.c
- * Source line: 538935
- * Body lines: 3
- */
 #include "../../../include/types.h"
 
 void FUN_003cca64(int param_1)

@@ -5,7 +5,7 @@ namespace nw {
 namespace snd {
 namespace internal {
 
-// was FUN_0073eee8
+// TODO: verify FUN_0073eee8
 int StreamSoundFile::ChannelInfo::GetDspAdpcmChannelInfo() const
 {
   short *param_1 = (short *)this;

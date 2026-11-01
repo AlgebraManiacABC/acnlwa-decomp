@@ -1,8 +1,3 @@
-/**
- * FUN_0075d2f8.c
- * Source line: 1117740
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 uint FUN_0075d2f8(float *param_1,undefined4 *param_2,undefined4 *param_3)

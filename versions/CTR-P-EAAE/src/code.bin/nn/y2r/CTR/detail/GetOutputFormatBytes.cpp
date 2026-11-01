@@ -12,7 +12,7 @@ enum OutputFormat {};
 
 namespace detail {
 
-// was FUN_00469d48
+// TODO: verify FUN_00469d48
 undefined4 GetOutputFormatBytes(OutputFormat param_1)
 {
   undefined4 uVar1;

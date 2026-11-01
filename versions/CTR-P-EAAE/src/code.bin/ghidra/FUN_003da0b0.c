@@ -1,8 +1,3 @@
-/**
- * FUN_003da0b0.c
- * Source line: 550678
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 uint FUN_003da0b0(uint *param_1)

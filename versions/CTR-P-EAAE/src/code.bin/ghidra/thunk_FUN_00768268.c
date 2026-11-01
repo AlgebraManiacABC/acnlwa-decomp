@@ -1,8 +1,3 @@
-/**
- * thunk_FUN_00768268.c
- * Source line: 408241
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 byte thunk_FUN_00768268(Item_t *param_1)

@@ -1,8 +1,3 @@
-/**
- * ranqd2_ranged_from_seed_2.c
- * Source line: 807993
- * Body lines: 3
- */
 float ranqd2_ranged_from_seed_2(float range)
 
 {

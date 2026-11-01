@@ -1,8 +1,3 @@
-/**
- * FUN_00481dac.c
- * Source line: 654245
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 uint FUN_00481dac(undefined1 param_1,undefined1 param_2)

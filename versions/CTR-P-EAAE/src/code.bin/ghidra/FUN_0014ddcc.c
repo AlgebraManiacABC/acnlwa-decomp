@@ -1,8 +1,3 @@
-/**
- * FUN_0014ddcc.c
- * Source line: 162411
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 void FUN_0014ddcc(undefined4 *param_1,undefined4 *param_2)

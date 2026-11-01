@@ -1,8 +1,3 @@
-/**
- * FUN_006f1f14.c
- * Source line: 1049586
- * Body lines: 10
- */
 void FUN_006f1f14(ItemBitfield_t *param_1,int param_2,int param_3,int param_4,int param_5,
                  int param_6)
 

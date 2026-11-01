@@ -1,8 +1,3 @@
-/**
- * FUN_002fcc14.c
- * Source line: 395205
- * Body lines: 7
- */
 void FUN_002fcc14(int param_1,Item_t *param_2,int param_3,int param_4)
 
 {

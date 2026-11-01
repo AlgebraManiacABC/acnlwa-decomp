@@ -1,8 +1,3 @@
-/**
- * FUN_006cfa24.c
- * Source line: 1030468
- * Body lines: 10
- */
 void FUN_006cfa24(char *param_1)
 
 {

@@ -1,8 +1,3 @@
-/**
- * FUN_0051d894.c
- * Source line: 762305
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 int FUN_0051d894(uint param_1)

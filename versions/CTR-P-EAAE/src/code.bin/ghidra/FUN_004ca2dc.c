@@ -1,8 +1,3 @@
-/**
- * FUN_004ca2dc.c
- * Source line: 709659
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 void FUN_004ca2dc(int param_1)

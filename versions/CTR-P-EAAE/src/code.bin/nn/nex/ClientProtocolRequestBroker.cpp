@@ -10,7 +10,7 @@ namespace nex {
 
 ClientProtocolRequestBroker::~ClientProtocolRequestBroker() {}
 
-// was FUN_003bbd78
+// TODO: verify FUN_003bbd78
 void ClientProtocolRequestBroker::VF02(unsigned int param_2, unsigned int param_3)
 {
   int param_1 = (int)this;

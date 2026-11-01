@@ -1,8 +1,3 @@
-/**
- * FUN_002d89d0.c
- * Source line: 375017
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 void FUN_002d89d0(int param_1)
@@ -23,6 +18,5 @@ void FUN_002d89d0(int param_1)
     return;
   }
   FUN_00569544(param_1 + 0xa7c);
-          // WARNING: Subroutine does not return
   FUN_00568c10(iVar3);
 }

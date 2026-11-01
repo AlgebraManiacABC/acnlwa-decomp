@@ -1,8 +1,3 @@
-/**
- * FUN_001abcd4.c
- * Source line: 215730
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_001abcd4(int param_1)
@@ -20,6 +15,5 @@ undefined4 FUN_001abcd4(int param_1)
     FUN_004ef3a4(param_1 + 0xcc);
     return 1;
   }
-          // WARNING: Subroutine does not return
   FUN_004f1270(param_1 + 0x78);
 }

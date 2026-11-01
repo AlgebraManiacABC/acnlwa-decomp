@@ -1,8 +1,3 @@
-/**
- * FUN_004bda34.c
- * Source line: 699703
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_004bda34(int *param_1,undefined4 param_2,byte param_3)

@@ -1,8 +1,3 @@
-/**
- * ranqd2_ranged_int_from_seed_1.c
- * Source line: 394807
- * Body lines: 3
- */
 #include "../../../include/types.h"
 
 int ranqd2_ranged_int_from_seed_1(int range)

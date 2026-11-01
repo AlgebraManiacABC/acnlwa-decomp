@@ -1,8 +1,3 @@
-/**
- * FUN_0060bf4c.c
- * Source line: 923892
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 void FUN_0060bf4c(int param_1)
@@ -21,6 +16,5 @@ void FUN_0060bf4c(int param_1)
   uRam009506f0 = 0x28;
   cRam009506f1 = '(';
 LAB_0060bfb4:
-          // WARNING: Subroutine does not return
   FUN_001323b4(param_1 + 0x280);
 }

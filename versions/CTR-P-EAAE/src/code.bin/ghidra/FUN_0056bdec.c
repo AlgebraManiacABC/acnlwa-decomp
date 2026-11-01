@@ -1,8 +1,3 @@
-/**
- * FUN_0056bdec.c
- * Source line: 813213
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_0056bdec(void)

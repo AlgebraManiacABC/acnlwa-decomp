@@ -1,8 +1,3 @@
-/**
- * FUN_003cfd20.c
- * Source line: 541728
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 undefined4 * FUN_003cfd20(undefined4 *param_1)

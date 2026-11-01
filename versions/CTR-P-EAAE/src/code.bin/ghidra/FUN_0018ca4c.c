@@ -1,8 +1,3 @@
-/**
- * FUN_0018ca4c.c
- * Source line: 202827
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_0018ca4c(int param_1,undefined4 param_2,undefined4 param_3,Item_t param_4)

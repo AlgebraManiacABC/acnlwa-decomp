@@ -1,8 +1,3 @@
-/**
- * FUN_002ee9a4.c
- * Source line: 385535
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 void FUN_002ee9a4(cro_container *param_1)

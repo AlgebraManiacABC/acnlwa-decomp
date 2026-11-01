@@ -21,7 +21,7 @@ void LifeSupportWindow::LifeSupportWindow_VF07() {}
 
 void LifeSupportWindow::LifeSupportWindow_VF08() {}
 
-// was FUN_002cea28
+// TODO: verify FUN_002cea28
 void LifeSupportWindow::LifeSupportWindow_VF09()
 {
   int param_1 = (int)this;

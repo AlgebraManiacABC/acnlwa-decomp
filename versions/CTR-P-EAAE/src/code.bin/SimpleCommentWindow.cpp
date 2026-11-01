@@ -11,7 +11,7 @@ SimpleCommentWindow::~SimpleCommentWindow() {}
 
 void SimpleCommentWindow::VF04() {}
 
-// was FUN_002fe0e0
+// TODO: verify FUN_002fe0e0
 unsigned int SimpleCommentWindow::VF06()
 {
   int param_1 = (int)this;

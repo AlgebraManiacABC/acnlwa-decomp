@@ -1,8 +1,3 @@
-/**
- * __set_errno.c
- * Source line: 105471
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 void __set_errno(undefined4 param_1)

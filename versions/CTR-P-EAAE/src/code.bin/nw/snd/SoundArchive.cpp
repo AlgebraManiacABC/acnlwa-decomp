@@ -6,7 +6,7 @@ namespace snd {
 
 SoundArchive::~SoundArchive() {}
 
-// was FUN_00138c88
+// TODO: verify FUN_00138c88
 bool SoundArchive::IsAvailable() const
 {
   int param_1 = (int)this;

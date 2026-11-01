@@ -23,7 +23,7 @@ void NpcModelBase::VF12() {}
 
 void NpcModelBase::VF13() {}
 
-// was FUN_002058e0
+// TODO: verify FUN_002058e0
 unsigned int NpcModelBase::VF19()
 {
   return 0;

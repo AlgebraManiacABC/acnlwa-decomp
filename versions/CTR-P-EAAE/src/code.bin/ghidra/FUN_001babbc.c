@@ -1,8 +1,3 @@
-/**
- * FUN_001babbc.c
- * Source line: 224475
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 void FUN_001babbc(uint *param_1,undefined4 param_2)

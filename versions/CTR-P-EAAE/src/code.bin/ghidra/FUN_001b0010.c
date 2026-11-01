@@ -1,8 +1,3 @@
-/**
- * FUN_001b0010.c
- * Source line: 218089
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 Item_t * FUN_001b0010(Item_t *param_1,int param_2,int param_3,Item_t param_4)

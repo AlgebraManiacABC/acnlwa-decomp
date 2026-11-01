@@ -1,8 +1,3 @@
-/**
- * FUN_001bac9c.c
- * Source line: 224608
- * Body lines: 3
- */
 #include "../../../include/types.h"
 
 void FUN_001bac9c(void)

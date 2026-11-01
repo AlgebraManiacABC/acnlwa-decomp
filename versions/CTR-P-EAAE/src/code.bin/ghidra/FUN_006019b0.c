@@ -1,8 +1,3 @@
-/**
- * FUN_006019b0.c
- * Source line: 917723
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 void FUN_006019b0(int *param_1,int *param_2,int *param_3)
@@ -21,8 +16,6 @@ void FUN_006019b0(int *param_1,int *param_2,int *param_3)
   }
   param_1[1] = *param_2;
   param_1[2] = *param_3;
-          // WARNING: Could not recover jumptable at 0x00601a0c. Too many branches
-          // WARNING: Treating indirect jump as call
   (**(code **)(*param_1 + 8))();
   return;
 }

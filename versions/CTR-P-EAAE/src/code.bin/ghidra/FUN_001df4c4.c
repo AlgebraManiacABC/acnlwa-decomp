@@ -1,8 +1,3 @@
-/**
- * FUN_001df4c4.c
- * Source line: 245782
- * Body lines: 15
- */
 Item_t * FUN_001df4c4(Item_t *param_1)
 
 {

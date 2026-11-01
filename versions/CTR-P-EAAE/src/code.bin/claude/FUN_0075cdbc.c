@@ -1,8 +1,3 @@
-/**
- * FUN_0075cdbc.c
- * Source line: 1117437
- * Body lines: 1
- */
 int FUN_0075cdbc(int param_1)
 
 {

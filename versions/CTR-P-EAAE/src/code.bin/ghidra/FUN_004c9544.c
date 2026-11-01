@@ -1,8 +1,3 @@
-/**
- * FUN_004c9544.c
- * Source line: 708905
- * Body lines: 2
- */
 #include "../../../include/types.h"
 
 uint FUN_004c9544(void)

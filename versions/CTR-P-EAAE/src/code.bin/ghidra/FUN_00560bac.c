@@ -1,8 +1,3 @@
-/**
- * FUN_00560bac.c
- * Source line: 805607
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 void FUN_00560bac(int param_1)

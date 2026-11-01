@@ -1,8 +1,3 @@
-/**
- * FUN_005e2dc4.c
- * Source line: 893075
- * Body lines: 7
- */
 #include "../../../include/types.h"
 
 void FUN_005e2dc4(int param_1)
@@ -14,6 +9,5 @@ void FUN_005e2dc4(int param_1)
     }
     *(undefined1 *)(param_1 + 0xd9) = 0;
   }
-          // WARNING: Subroutine does not return
   FUN_001323b4(param_1 + 0x238);
 }

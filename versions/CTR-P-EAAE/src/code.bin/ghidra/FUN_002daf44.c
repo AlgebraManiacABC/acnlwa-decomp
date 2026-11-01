@@ -1,8 +1,3 @@
-/**
- * FUN_002daf44.c
- * Source line: 375712
- * Body lines: 6
- */
 void FUN_002daf44(int param_1)
 
 {

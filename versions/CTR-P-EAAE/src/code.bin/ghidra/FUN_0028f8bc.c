@@ -1,8 +1,3 @@
-/**
- * FUN_0028f8bc.c
- * Source line: 334097
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 void FUN_0028f8bc(int param_1,int param_2)
@@ -19,8 +14,6 @@ void FUN_0028f8bc(int param_1,int param_2)
   if ((0.0 <= fVar1) && (fVar3 = fVar1, 1.0 < fVar1)) {
     fVar3 = 1.0;
   }
-          // WARNING: Could not recover jumptable at 0x0028f934. Too many branches
-          // WARNING: Treating indirect jump as call
   (*(code *)(&PTR_DAT_0097534c)[bRam00995644])(fVar3,0x995644,uRam00995640);
   return;
 }

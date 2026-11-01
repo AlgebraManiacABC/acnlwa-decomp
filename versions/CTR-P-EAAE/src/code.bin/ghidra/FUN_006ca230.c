@@ -1,8 +1,3 @@
-/**
- * FUN_006ca230.c
- * Source line: 1027158
- * Body lines: 2
- */
 #include "../../../include/types.h"
 
 void FUN_006ca230(void)

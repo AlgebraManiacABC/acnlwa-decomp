@@ -1,8 +1,3 @@
-/**
- * FUN_0030af7c.c
- * Source line: 409166
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 void FUN_0030af7c(int param_1,int param_2)
@@ -20,7 +15,6 @@ void FUN_0030af7c(int param_1,int param_2)
       FUN_005697e0(0,iVar1);
     }
     *(bool *)(param_1 + 0xae5) = param_2 == 0;
-          // WARNING: Subroutine does not return
     FUN_00568c10(param_1 + 0x294);
   }
   return;

@@ -11,7 +11,7 @@ namespace detail {
 
 struct JpegMpEncoderWorkObj;
 
-// was FUN_0047d4ec
+// TODO: verify FUN_0047d4ec
 void InitializeJpegMpEncoderApp2AttributeTagWork(JpegMpEncoderWorkObj *work)
 {
   int param_1 = (int)work;

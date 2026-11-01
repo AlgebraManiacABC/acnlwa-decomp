@@ -1,8 +1,3 @@
-/**
- * FUN_0040cafc.c
- * Source line: 576579
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 void FUN_0040cafc(int param_1)

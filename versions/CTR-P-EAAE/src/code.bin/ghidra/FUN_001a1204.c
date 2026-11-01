@@ -1,8 +1,3 @@
-/**
- * FUN_001a1204.c
- * Source line: 209551
- * Body lines: 10
- */
 float FUN_001a1204(void)
 
 {

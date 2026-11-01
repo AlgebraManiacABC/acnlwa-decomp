@@ -1,8 +1,3 @@
-/**
- * ranqd2_ranged_from_seed_2_dup.c
- * Source line: 807982
- * Body lines: 3
- */
 float ranqd2_ranged_from_seed_2_dup(float range)
 
 {

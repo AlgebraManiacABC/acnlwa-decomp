@@ -1,8 +1,3 @@
-/**
- * FUN_0027bbf8.c
- * Source line: 324628
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 void FUN_0027bbf8(int param_1)

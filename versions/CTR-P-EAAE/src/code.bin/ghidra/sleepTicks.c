@@ -1,8 +1,3 @@
-/**
- * sleepTicks.c
- * Source line: 144827
- * Body lines: 9
- */
 #include "../../../include/types.h"
 
 void sleepTicks(q32_32 ticks32_32)

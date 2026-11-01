@@ -1,8 +1,3 @@
-/**
- * _ll_shift_l.c
- * Source line: 393462
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 longlong _ll_shift_l(uint param_1,int param_2,uint param_3)

@@ -1,8 +1,3 @@
-/**
- * FUN_0028151c.c
- * Source line: 327678
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 void FUN_0028151c(int param_1)
@@ -19,8 +14,6 @@ void FUN_0028151c(int param_1)
     UNRECOVERED_JUMPTABLE = *(code **)(pcRam0094dce8 + *(int *)(param_1 + ((int)uRam0094dcec >> 1)))
     ;
   }
-          // WARNING: Could not recover jumptable at 0x00281570. Too many branches
-          // WARNING: Treating indirect jump as call
   (*UNRECOVERED_JUMPTABLE)();
   return;
 }

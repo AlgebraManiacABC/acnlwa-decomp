@@ -1,8 +1,3 @@
-/**
- * FUN_00292dbc.c
- * Source line: 336171
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 bool FUN_00292dbc(uint param_1)

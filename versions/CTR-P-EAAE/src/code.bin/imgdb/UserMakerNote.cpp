@@ -3,7 +3,7 @@
 
 namespace imgdb {
 
-// was FUN_005a6c4c
+// TODO: verify FUN_005a6c4c
 int UserMakerNote::GetFaceInfo(int param_2)
 {
   int param_1 = (int)this;

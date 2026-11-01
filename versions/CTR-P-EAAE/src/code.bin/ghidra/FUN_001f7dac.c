@@ -1,8 +1,3 @@
-/**
- * FUN_001f7dac.c
- * Source line: 257869
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 undefined4 * FUN_001f7dac(int param_1)

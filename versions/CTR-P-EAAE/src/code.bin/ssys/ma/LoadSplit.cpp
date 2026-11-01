@@ -6,11 +6,11 @@ namespace ma {
 
 LoadSplit::~LoadSplit() {}
 
-// was FUN_0056ad6c
+// TODO: verify FUN_0056ad6c
 void LoadSplit::VF02()
 {}
 
-// was FUN_0056ad70
+// TODO: verify FUN_0056ad70
 void LoadSplit::VF03()
 {}
 

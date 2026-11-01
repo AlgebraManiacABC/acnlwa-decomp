@@ -1,8 +1,3 @@
-/**
- * FUN_00643ce8.c
- * Source line: 956643
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 code * FUN_00643ce8(int param_1,int param_2,undefined4 param_3,Item_t param_4)

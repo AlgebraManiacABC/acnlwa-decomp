@@ -1,8 +1,3 @@
-/**
- * FUN_00767a28.c
- * Source line: 1125465
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 bool FUN_00767a28(byte *param_1,uint param_2,byte *param_3)

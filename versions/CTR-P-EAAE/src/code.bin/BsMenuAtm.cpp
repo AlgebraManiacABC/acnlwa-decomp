@@ -12,7 +12,7 @@ BsMenuAtm::~BsMenuAtm() {}
 
 unsigned int BsMenuAtm::Process_VF03() {}
 
-// was FUN_006d1280
+// TODO: verify FUN_006d1280
 unsigned int BsMenuAtm::Process_VF06()
 {
   int param_1 = (int)this;

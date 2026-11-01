@@ -1,8 +1,3 @@
-/**
- * FUN_0011daac.c
- * Source line: 120787
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 void FUN_0011daac(void)

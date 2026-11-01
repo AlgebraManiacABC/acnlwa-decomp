@@ -1,8 +1,3 @@
-/**
- * FUN_0027da24.c
- * Source line: 325771
- * Body lines: 2
- */
 #include "../../../include/types.h"
 
 void FUN_0027da24(int param_1)

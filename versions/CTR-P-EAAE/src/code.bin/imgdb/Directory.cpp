@@ -3,7 +3,7 @@
 
 namespace imgdb {
 
-// was FUN_007552e8
+// TODO: verify FUN_007552e8
 int Directory::GetEntry() const
 {
   int param_1 = (int)this;

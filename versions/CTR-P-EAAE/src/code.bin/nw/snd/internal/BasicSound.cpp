@@ -15,7 +15,7 @@ void BasicSound::VF04() {}
 
 void BasicSound::VF09() {}
 
-// was FUN_004c47b4
+// TODO: verify FUN_004c47b4
 void BasicSound::VF10()
 {
   int param_1 = (int)this;
@@ -35,14 +35,14 @@ void BasicSound::VF11() {}
 
 void BasicSound::VF12() {}
 
-// was FUN_004c48cc
+// TODO: verify FUN_004c48cc
 bool BasicSound::IsAttachedGeneralHandle()
 {
   int param_1 = (int)this;
   return *(int *)(param_1 + 8) != 0;
 }
 
-// was FUN_004c490c
+// TODO: verify FUN_004c490c
 bool BasicSound::IsAttachedTempGeneralHandle()
 {
   int param_1 = (int)this;

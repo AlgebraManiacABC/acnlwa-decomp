@@ -1,8 +1,3 @@
-/**
- * FUN_002d11dc.c
- * Source line: 370135
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 int FUN_002d11dc(int *param_1,int *param_2)

@@ -1,8 +1,3 @@
-/**
- * FUN_0041dcec.c
- * Source line: 585874
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 void FUN_0041dcec(int param_1)

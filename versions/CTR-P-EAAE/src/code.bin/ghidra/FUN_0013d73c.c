@@ -1,8 +1,3 @@
-/**
- * FUN_0013d73c.c
- * Source line: 149991
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 cro_container * FUN_0013d73c(cro_container *param_1)

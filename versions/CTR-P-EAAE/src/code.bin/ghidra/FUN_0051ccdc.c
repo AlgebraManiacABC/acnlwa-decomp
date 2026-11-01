@@ -1,8 +1,3 @@
-/**
- * FUN_0051ccdc.c
- * Source line: 761849
- * Body lines: 9
- */
 #include "../../../include/types.h"
 
 byte FUN_0051ccdc(uint param_1)

@@ -18,7 +18,7 @@ unsigned int BsMenuMailbox::Process_VF06() {}
 
 unsigned int BsMenuMailbox::Process_VF09() {}
 
-// was FUN_0021f5b0
+// TODO: verify FUN_0021f5b0
 unsigned int BsMenuMailbox::Process_VF12()
 {
   int param_1 = (int)this;

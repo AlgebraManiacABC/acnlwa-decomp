@@ -1,9 +1,6 @@
 #ifndef ACNLWA_NN_CEC_CTR_MESSAGEID_H
 #define ACNLWA_NN_CEC_CTR_MESSAGEID_H
 
-// Written by hand: this class has no RTTI, so it is not part of the
-// generated scaffold. Only the members used so far are declared.
-
 namespace nn {
 namespace cec {
 namespace CTR {

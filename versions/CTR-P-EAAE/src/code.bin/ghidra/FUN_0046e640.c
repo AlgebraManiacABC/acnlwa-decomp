@@ -1,8 +1,3 @@
-/**
- * FUN_0046e640.c
- * Source line: 639630
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 uint FUN_0046e640(uint *param_1,undefined4 param_2,int param_3,undefined1 param_4)

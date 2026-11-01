@@ -10,7 +10,7 @@ namespace fgobj {
 
 ObjectStumpAnim::~ObjectStumpAnim() {}
 
-// was FUN_00595e20
+// TODO: verify FUN_00595e20
 void ObjectStumpAnim::VF05()
 {
   int param_1 = (int)this;

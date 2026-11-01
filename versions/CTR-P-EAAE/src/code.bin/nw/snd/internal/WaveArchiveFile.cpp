@@ -5,7 +5,7 @@ namespace nw {
 namespace snd {
 namespace internal {
 
-// was FUN_0013f3cc
+// TODO: verify FUN_0013f3cc
 int WaveArchiveFile::FileHeader::GetInfoBlock() const
 {
   int param_1 = (int)this;
@@ -23,7 +23,7 @@ int WaveArchiveFile::FileHeader::GetInfoBlock() const
   return param_1 + *(int *)(iVar1 + 4);
 }
 
-// was FUN_001434dc
+// TODO: verify FUN_001434dc
 undefined4 WaveArchiveFile::FileHeader::GetInfoBlockOffset() const
 {
   int param_1 = (int)this;

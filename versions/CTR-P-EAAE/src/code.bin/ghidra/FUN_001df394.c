@@ -1,8 +1,3 @@
-/**
- * FUN_001df394.c
- * Source line: 245736
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_001df394(void)

@@ -1,8 +1,3 @@
-/**
- * FUN_0031fad4.c
- * Source line: 423332
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_0031fad4(int param_1)

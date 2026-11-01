@@ -1,8 +1,3 @@
-/**
- * FUN_00152a54.c
- * Source line: 166905
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 short FUN_00152a54(void)

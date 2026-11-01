@@ -1,8 +1,3 @@
-/**
- * Villager_GetConstPackEntry.c
- * Source line: 399559
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 ConstPackEntry_t * Villager_GetConstPackEntry(astruct_5 *fileinfo,uint villager_id)

@@ -1,8 +1,3 @@
-/**
- * FUN_001761b4.c
- * Source line: 190878
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 ItemBitfield_t * FUN_001761b4(undefined4 param_1,int param_2)

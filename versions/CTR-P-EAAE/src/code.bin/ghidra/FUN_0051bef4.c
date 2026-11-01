@@ -1,8 +1,3 @@
-/**
- * FUN_0051bef4.c
- * Source line: 761139
- * Body lines: 13
- */
 void FUN_0051bef4(int param_1)
 
 {

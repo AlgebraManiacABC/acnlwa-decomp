@@ -18,7 +18,7 @@ void Tent::VF04() {}
 
 void Tent::VF05() {}
 
-// was FUN_00532d60
+// TODO: verify FUN_00532d60
 void Tent::VF06()
 {
   int param_1 = (int)this;

@@ -1,8 +1,3 @@
-/**
- * FUN_001a97a0.c
- * Source line: 214141
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 void FUN_001a97a0(int param_1)
@@ -19,6 +14,5 @@ void FUN_001a97a0(int param_1)
   uVar1 = FUN_0056878c(param_1 + 0x1030,"N_wait_pos_00");
   FUN_004b6dc8(uVar1,*(undefined4 *)(param_1 + 0x119c));
   FUN_00132364(param_1 + 0x12c8);
-          // WARNING: Subroutine does not return
   FUN_001323b4(param_1 + 0x1030);
 }

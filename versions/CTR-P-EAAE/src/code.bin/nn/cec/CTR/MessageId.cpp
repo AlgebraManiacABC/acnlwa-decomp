@@ -9,7 +9,7 @@ namespace nn {
 namespace cec {
 namespace CTR {
 
-// was FUN_003504e8
+// TODO: verify FUN_003504e8
 MessageId::MessageId()
 {
   __ARM_common_memclr4_8(this);

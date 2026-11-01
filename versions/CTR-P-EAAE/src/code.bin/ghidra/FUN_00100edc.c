@@ -1,8 +1,3 @@
-/**
- * FUN_00100edc.c
- * Source line: 104354
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 void FUN_00100edc(undefined4 param_1,undefined4 param_2,undefined4 param_3,undefined4 param_4)

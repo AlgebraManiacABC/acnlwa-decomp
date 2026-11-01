@@ -1,8 +1,3 @@
-/**
- * thunk_FUN_0056c520.c
- * Source line: 399907
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 uint thunk_FUN_0056c520(void)

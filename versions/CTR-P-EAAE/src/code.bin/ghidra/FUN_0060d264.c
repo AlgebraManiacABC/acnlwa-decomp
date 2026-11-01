@@ -1,8 +1,3 @@
-/**
- * FUN_0060d264.c
- * Source line: 924259
- * Body lines: 9
- */
 #include "../../../include/types.h"
 
 void FUN_0060d264(int param_1,uint param_2,uint param_3,undefined2 *param_4)

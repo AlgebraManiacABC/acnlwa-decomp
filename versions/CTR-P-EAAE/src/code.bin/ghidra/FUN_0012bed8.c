@@ -1,8 +1,3 @@
-/**
- * FUN_0012bed8.c
- * Source line: 132789
- * Body lines: 5
- */
 void FUN_0012bed8(int param_1)
 
 {

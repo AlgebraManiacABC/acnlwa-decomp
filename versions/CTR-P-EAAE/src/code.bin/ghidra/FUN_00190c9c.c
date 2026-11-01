@@ -1,8 +1,3 @@
-/**
- * FUN_00190c9c.c
- * Source line: 205019
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 void FUN_00190c9c(int param_1)
@@ -22,6 +17,5 @@ void FUN_00190c9c(int param_1)
   *(undefined4 *)(iVar1 + 0x2c) = local_1c;
   *(undefined4 *)(iVar1 + 0x30) = local_18;
   *(byte *)(iVar1 + 0xb7) = *(byte *)(iVar1 + 0xb7) & 0xcf;
-          // WARNING: Subroutine does not return
   FUN_00568c10(param_1 + 0x768);
 }

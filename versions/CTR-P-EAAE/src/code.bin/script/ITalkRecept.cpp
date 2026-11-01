@@ -75,51 +75,51 @@ void ITalkRecept::ITalkRecept_VF35() {}
 
 void ITalkRecept::ITalkRecept_VF36() {}
 
-// was FUN_005dd690
+// TODO: verify FUN_005dd690
 void ITalkRecept::ITalkRecept_VF37()
 {}
 
-// was FUN_005dd66c
+// TODO: verify FUN_005dd66c
 void ITalkRecept::ITalkRecept_VF38()
 {}
 
-// was FUN_005dd5b0
+// TODO: verify FUN_005dd5b0
 void ITalkRecept::ITalkRecept_VF39()
 {}
 
-// was FUN_005dd558
+// TODO: verify FUN_005dd558
 void ITalkRecept::ITalkRecept_VF40()
 {}
 
-// was FUN_005dd594
+// TODO: verify FUN_005dd594
 void ITalkRecept::ITalkRecept_VF41()
 {}
 
-// was FUN_005dd630
+// TODO: verify FUN_005dd630
 void ITalkRecept::ITalkRecept_VF42()
 {}
 
-// was FUN_005dd634
+// TODO: verify FUN_005dd634
 void ITalkRecept::ITalkRecept_VF43()
 {}
 
 void ITalkRecept::ITalkRecept_VF44() {}
 
-// was FUN_005dd550
+// TODO: verify FUN_005dd550
 unsigned int ITalkRecept::ITalkRecept_VF45()
 {
   return 1;
 }
 
-// was FUN_005dd648
+// TODO: verify FUN_005dd648
 void ITalkRecept::ITalkRecept_VF46()
 {}
 
-// was FUN_005dd670
+// TODO: verify FUN_005dd670
 void ITalkRecept::ITalkRecept_VF47()
 {}
 
-// was FUN_005dd67c
+// TODO: verify FUN_005dd67c
 void ITalkRecept::ITalkRecept_VF48()
 {}
 
@@ -133,39 +133,39 @@ void ITalkRecept::ITalkRecept_VF52() {}
 
 void ITalkRecept::ITalkRecept_VF53() {}
 
-// was FUN_005dd694
+// TODO: verify FUN_005dd694
 void ITalkRecept::ITalkRecept_VF54()
 {}
 
-// was FUN_005dd698
+// TODO: verify FUN_005dd698
 void ITalkRecept::ITalkRecept_VF55()
 {}
 
-// was FUN_005dd55c
+// TODO: verify FUN_005dd55c
 void ITalkRecept::ITalkRecept_VF56()
 {}
 
-// was FUN_005dd5b4
+// TODO: verify FUN_005dd5b4
 void ITalkRecept::ITalkRecept_VF57()
 {}
 
-// was FUN_005dd674
+// TODO: verify FUN_005dd674
 unsigned int ITalkRecept::ITalkRecept_VF58()
 {
   return 1;
 }
 
-// was FUN_005dd680
+// TODO: verify FUN_005dd680
 void ITalkRecept::ITalkRecept_VF59()
 {}
 
-// was FUN_005dd684
+// TODO: verify FUN_005dd684
 void ITalkRecept::ITalkRecept_VF60()
 {}
 
 void ITalkRecept::ITalkRecept_VF61() {}
 
-// was FUN_0075ab64
+// TODO: verify FUN_0075ab64
 void ITalkRecept::ITalkRecept_VF62(unsigned char * param_2)
 {}
 

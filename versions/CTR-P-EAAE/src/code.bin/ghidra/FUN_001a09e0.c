@@ -1,8 +1,3 @@
-/**
- * FUN_001a09e0.c
- * Source line: 209347
- * Body lines: 6
- */
 void FUN_001a09e0(int param_1)
 
 {

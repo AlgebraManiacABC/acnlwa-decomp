@@ -1,8 +1,3 @@
-/**
- * FUN_00584498.c
- * Source line: 830970
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 void FUN_00584498(int param_1)
@@ -14,7 +9,6 @@ void FUN_00584498(int param_1)
   if (piVar1 != NULL) {
     if ((*(char *)((int)piVar1 + 5) == '\0') && ((char)piVar1[4] != '\0')) {
       if ((char)piVar1[4] == '\x02') {
-          // WARNING: Subroutine does not return
         FUN_00584074();
       }
     }

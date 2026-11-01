@@ -1,8 +1,3 @@
-/**
- * FUN_00426fac.c
- * Source line: 590889
- * Body lines: 2
- */
 #include "../../../include/types.h"
 
 void FUN_00426fac(undefined4 *param_1)

@@ -1,8 +1,3 @@
-/**
- * FUN_0027b3a8.c
- * Source line: 324536
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 void FUN_0027b3a8(Item_t *param_1,Item_t *param_2,Item_t *param_3,Item_t *param_4,Item_t *param_5,

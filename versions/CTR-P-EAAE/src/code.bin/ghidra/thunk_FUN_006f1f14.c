@@ -1,8 +1,3 @@
-/**
- * thunk_FUN_006f1f14.c
- * Source line: 405524
- * Body lines: 10
- */
 void thunk_FUN_006f1f14(ItemBitfield_t *param_1,int param_2,int param_3,int param_4,int param_5,
                        int param_6)
 

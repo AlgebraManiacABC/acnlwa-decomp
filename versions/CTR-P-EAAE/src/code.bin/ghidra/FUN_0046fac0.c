@@ -1,8 +1,3 @@
-/**
- * FUN_0046fac0.c
- * Source line: 640922
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_0046fac0(undefined4 *param_1,undefined4 *param_2,uint param_3)

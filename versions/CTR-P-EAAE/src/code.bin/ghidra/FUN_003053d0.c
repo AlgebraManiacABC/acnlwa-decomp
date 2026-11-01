@@ -1,8 +1,3 @@
-/**
- * FUN_003053d0.c
- * Source line: 403166
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 byte FUN_003053d0(Item_t *param_1)

@@ -1,8 +1,3 @@
-/**
- * FUN_001e1aac.c
- * Source line: 247670
- * Body lines: 9
- */
 #include "../../../include/types.h"
 
 void FUN_001e1aac(int param_1,int param_2)

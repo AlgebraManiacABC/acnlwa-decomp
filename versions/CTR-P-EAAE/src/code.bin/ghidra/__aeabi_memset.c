@@ -1,8 +1,3 @@
-/**
- * __aeabi_memset.c
- * Source line: 152174
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 void __aeabi_memset(void *param_1,int param_2,uint param_3)

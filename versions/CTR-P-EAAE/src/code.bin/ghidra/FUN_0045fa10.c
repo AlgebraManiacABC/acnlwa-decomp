@@ -1,8 +1,3 @@
-/**
- * FUN_0045fa10.c
- * Source line: 627439
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_0045fa10(void)

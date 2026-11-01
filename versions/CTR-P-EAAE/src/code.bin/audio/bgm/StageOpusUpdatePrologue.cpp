@@ -14,7 +14,7 @@ StageOpusUpdatePrologue::~StageOpusUpdatePrologue() {}
 
 void StageOpusUpdatePrologue::VF06() {}
 
-// was FUN_005887a0
+// TODO: verify FUN_005887a0
 void StageOpusUpdatePrologue::VF10()
 {
   int iVar1;

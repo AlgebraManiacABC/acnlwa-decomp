@@ -1,8 +1,3 @@
-/**
- * FUN_0036e568.c
- * Source line: 475796
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 void FUN_0036e568(void)
@@ -15,8 +10,6 @@ void FUN_0036e568(void)
     return;
   }
   if (*(code **)(iVar1 + -8) != NULL) {
-          // WARNING: Could not recover jumptable at 0x0036e588. Too many branches
-          // WARNING: Treating indirect jump as call
     (**(code **)(iVar1 + -8))();
     return;
   }

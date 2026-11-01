@@ -1,8 +1,3 @@
-/**
- * FUN_004adabc.c
- * Source line: 687873
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 void FUN_004adabc(int param_1,int *param_2)

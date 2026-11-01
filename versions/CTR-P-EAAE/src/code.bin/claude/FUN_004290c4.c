@@ -1,8 +1,3 @@
-/**
- * FUN_004290c4.c
- * Source line: 592742
- * Body lines: 8
- */
 void FUN_004290c4(int param_1,int *param_2,int *param_3)
 
 {

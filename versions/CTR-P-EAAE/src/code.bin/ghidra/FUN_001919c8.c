@@ -1,8 +1,3 @@
-/**
- * FUN_001919c8.c
- * Source line: 205409
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 void FUN_001919c8(int param_1)
@@ -23,6 +18,5 @@ void FUN_001919c8(int param_1)
     return;
   }
   FUN_00569544(param_1 + 0x65c);
-          // WARNING: Subroutine does not return
   FUN_00568c10(iVar3);
 }

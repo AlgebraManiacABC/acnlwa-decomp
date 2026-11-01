@@ -1,8 +1,3 @@
-/**
- * FUN_0051f3ac.c
- * Source line: 763281
- * Body lines: 6
- */
 int FUN_0051f3ac(int param_1)
 
 {

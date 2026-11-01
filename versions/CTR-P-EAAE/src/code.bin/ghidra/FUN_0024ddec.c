@@ -1,8 +1,3 @@
-/**
- * FUN_0024ddec.c
- * Source line: 300718
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 void FUN_0024ddec(int param_1)

@@ -58,7 +58,7 @@ void LocalMatchmakeSession::VF26() {}
 
 void LocalMatchmakeSession::VF29() {}
 
-// was FUN_0041c1c0
+// TODO: verify FUN_0041c1c0
 unsigned int LocalMatchmakeSession::VF30(unsigned int param_2)
 {
   undefined4 param_1 = (undefined4)this;

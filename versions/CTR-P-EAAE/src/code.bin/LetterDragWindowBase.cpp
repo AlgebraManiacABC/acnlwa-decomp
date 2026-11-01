@@ -6,7 +6,7 @@ int FUN_0029b6f8(...);
 int FUN_00567e24(...);
 }
 
-// was FUN_003204d8
+// TODO: verify FUN_003204d8
 void LetterDragWindowBase::VF00()
 {
   int param_1 = (int)this;
@@ -16,7 +16,7 @@ void LetterDragWindowBase::VF00()
 
 void LetterDragWindowBase::VF01() {}
 
-// was FUN_00320490
+// TODO: verify FUN_00320490
 void LetterDragWindowBase::LetterDragWindowBase_VF02()
 {
   int param_1 = (int)this;

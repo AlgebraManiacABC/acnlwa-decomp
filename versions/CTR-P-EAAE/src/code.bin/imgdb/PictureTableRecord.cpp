@@ -5,7 +5,7 @@
 
 namespace imgdb {
 
-// was FUN_005aa848
+// TODO: verify FUN_005aa848
 void PictureTableRecord::Initialize()
 {
   int param_1 = (int)this;

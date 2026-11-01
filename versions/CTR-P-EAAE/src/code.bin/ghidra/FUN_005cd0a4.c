@@ -1,8 +1,3 @@
-/**
- * FUN_005cd0a4.c
- * Source line: 879856
- * Body lines: 4
- */
 void FUN_005cd0a4(void)
 
 {

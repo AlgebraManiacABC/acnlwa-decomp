@@ -1,8 +1,3 @@
-/**
- * FUN_0020afb8.c
- * Source line: 267575
- * Body lines: 9
- */
 #include "../../../include/types.h"
 
 void FUN_0020afb8(int param_1)

@@ -1,8 +1,3 @@
-/**
- * FUN_00436aac.c
- * Source line: 601023
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 uint FUN_00436aac(int *param_1,undefined4 param_2,uint param_3)

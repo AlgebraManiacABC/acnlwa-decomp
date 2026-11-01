@@ -1,8 +1,3 @@
-/**
- * FUN_004deaec.c
- * Source line: 724127
- * Body lines: 11
- */
 int FUN_004deaec(void)
 
 {

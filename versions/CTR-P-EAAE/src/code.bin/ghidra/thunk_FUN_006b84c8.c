@@ -1,8 +1,3 @@
-/**
- * thunk_FUN_006b84c8.c
- * Source line: 403484
- * Body lines: 11
- */
 void thunk_FUN_006b84c8(int param_1,int param_2,int param_3)
 
 {

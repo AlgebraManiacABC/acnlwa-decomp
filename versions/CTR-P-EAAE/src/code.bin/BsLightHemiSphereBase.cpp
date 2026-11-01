@@ -12,7 +12,7 @@ BsLightHemiSphereBase::~BsLightHemiSphereBase() {}
 
 unsigned int BsLightHemiSphereBase::Process_VF03() {}
 
-// was FUN_00325578
+// TODO: verify FUN_00325578
 unsigned int BsLightHemiSphereBase::Process_VF06()
 {
   int param_1 = (int)this;

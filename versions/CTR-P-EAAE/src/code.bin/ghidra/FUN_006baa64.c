@@ -1,8 +1,3 @@
-/**
- * FUN_006baa64.c
- * Source line: 1017304
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 bool FUN_006baa64(ushort *param_1)

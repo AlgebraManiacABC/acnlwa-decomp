@@ -20,7 +20,7 @@ unsigned int BsSeadParticleDrawBase::Process_VF12() {}
 
 void BsSeadParticleDrawBase::VF16() {}
 
-// was FUN_007254ec
+// TODO: verify FUN_007254ec
 unsigned char BsSeadParticleDrawBase::VF17()
 {
   int iVar1;
@@ -30,7 +30,7 @@ unsigned char BsSeadParticleDrawBase::VF17()
   return *(undefined1 *)(iVar1 + 0x1a);
 }
 
-// was FUN_007254d4
+// TODO: verify FUN_007254d4
 unsigned char BsSeadParticleDrawBase::VF18()
 {
   int iVar1;
@@ -40,7 +40,7 @@ unsigned char BsSeadParticleDrawBase::VF18()
   return *(undefined1 *)(iVar1 + 0x19);
 }
 
-// was FUN_00725510
+// TODO: verify FUN_00725510
 unsigned char BsSeadParticleDrawBase::VF19()
 {
   int iVar1;

@@ -1,8 +1,3 @@
-/**
- * thunk_FUN_007ca550.c
- * Source line: 411935
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 int thunk_FUN_007ca550(void)

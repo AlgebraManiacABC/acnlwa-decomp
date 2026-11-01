@@ -1,8 +1,3 @@
-/**
- * FUN_002bed24.c
- * Source line: 359297
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_002bed24(int param_1)

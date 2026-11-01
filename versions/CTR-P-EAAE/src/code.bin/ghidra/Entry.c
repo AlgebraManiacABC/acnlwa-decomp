@@ -1,8 +1,3 @@
-/**
- * Entry.c
- * Source line: 103215
- * Body lines: 11
- */
 void Entry(void)
 
 {

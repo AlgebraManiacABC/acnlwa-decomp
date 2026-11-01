@@ -17,7 +17,7 @@ void StageOpusPlantDemo::VF06() {}
 
 void StageOpusPlantDemo::VF11() {}
 
-// was FUN_0058779c
+// TODO: verify FUN_0058779c
 void StageOpusPlantDemo::VF12()
 {
   undefined4 uVar1;

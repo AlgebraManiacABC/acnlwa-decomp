@@ -1,8 +1,3 @@
-/**
- * FUN_0051dab4.c
- * Source line: 762606
- * Body lines: 3
- */
 #include "../../../include/types.h"
 
 void FUN_0051dab4(int param_1)

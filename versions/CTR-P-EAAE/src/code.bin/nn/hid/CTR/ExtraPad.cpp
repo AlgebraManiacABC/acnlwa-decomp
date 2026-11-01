@@ -9,7 +9,7 @@ namespace nn {
 namespace hid {
 namespace CTR {
 
-// was FUN_00354090
+// TODO: verify FUN_00354090
 bool ExtraPad::IsSampling()
 {
   int iVar1;

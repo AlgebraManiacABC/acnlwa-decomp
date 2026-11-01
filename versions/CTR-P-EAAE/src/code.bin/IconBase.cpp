@@ -12,7 +12,7 @@ void IconBase::VF02() {}
 
 void IconBase::VF03() {}
 
-// was FUN_006a8d7c
+// TODO: verify FUN_006a8d7c
 void IconBase::VF04()
 {
   int param_1 = (int)this;

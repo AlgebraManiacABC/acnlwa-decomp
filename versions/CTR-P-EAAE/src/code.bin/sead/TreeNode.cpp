@@ -3,7 +3,7 @@
 
 namespace sead {
 
-// was FUN_0012c528
+// TODO: verify FUN_0012c528
 TreeNode::TreeNode()
 {
   undefined4 *param_1 = (undefined4 *)this;

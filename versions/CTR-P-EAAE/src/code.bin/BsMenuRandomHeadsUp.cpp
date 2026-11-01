@@ -14,7 +14,7 @@ unsigned int BsMenuRandomHeadsUp::Process_VF06() {}
 
 unsigned int BsMenuRandomHeadsUp::Process_VF09() {}
 
-// was FUN_002f2f2c
+// TODO: verify FUN_002f2f2c
 unsigned int BsMenuRandomHeadsUp::Process_VF12()
 {
   int param_1 = (int)this;

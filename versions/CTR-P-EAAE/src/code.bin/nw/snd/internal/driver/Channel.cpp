@@ -12,7 +12,7 @@ namespace snd {
 namespace internal {
 namespace driver {
 
-// was FUN_004d3e8c
+// TODO: verify FUN_004d3e8c
 void Channel::Release()
 {
   int param_1 = (int)this;
@@ -26,7 +26,7 @@ void Channel::Release()
   return;
 }
 
-// was FUN_004d4214
+// TODO: verify FUN_004d4214
 Channel::~Channel()
 {
   int param_1 = (int)this;

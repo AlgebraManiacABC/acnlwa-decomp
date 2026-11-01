@@ -1,8 +1,3 @@
-/**
- * FUN_0011e6f4.c
- * Source line: 121481
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 uint FUN_0011e6f4(int param_1,uint param_2,undefined4 param_3,undefined4 param_4,undefined4 param_5,

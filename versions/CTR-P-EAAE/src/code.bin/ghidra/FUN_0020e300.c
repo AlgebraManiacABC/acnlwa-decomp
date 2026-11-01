@@ -1,8 +1,3 @@
-/**
- * FUN_0020e300.c
- * Source line: 269717
- * Body lines: 6
- */
 void FUN_0020e300(void)
 
 {

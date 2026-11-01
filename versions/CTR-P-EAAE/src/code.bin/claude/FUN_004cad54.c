@@ -1,8 +1,3 @@
-/**
- * FUN_004cad54.c
- * Source line: 710286
- * Body lines: 2
- */
 void FUN_004cad54(int param_1)
 
 {

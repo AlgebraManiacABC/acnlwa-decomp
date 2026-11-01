@@ -1,8 +1,3 @@
-/**
- * FUN_00309864.c
- * Source line: 407704
- * Body lines: 5
- */
 int FUN_00309864(astruct_6 *param_1,int param_2)
 
 {

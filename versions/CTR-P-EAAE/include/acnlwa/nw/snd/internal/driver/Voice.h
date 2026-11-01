@@ -1,9 +1,6 @@
 #ifndef ACNLWA_NW_SND_INTERNAL_DRIVER_VOICE_H
 #define ACNLWA_NW_SND_INTERNAL_DRIVER_VOICE_H
 
-// Written by hand: this class has no RTTI, so it is not part of the
-// generated scaffold. Only the members used so far are declared.
-
 #include "acnlwa/nn/snd/CTR/WaveBuffer.h"
 
 namespace nw {

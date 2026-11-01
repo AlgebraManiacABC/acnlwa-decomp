@@ -10,7 +10,6 @@ typedef unsigned char undefined;
 typedef unsigned char byte;
 typedef unsigned char undefined1;
 #ifdef __cplusplus
-/* bool, true and false are keywords in C++, and NULL must be a plain 0 there. */
 #ifndef NULL
 #define NULL 0
 #endif

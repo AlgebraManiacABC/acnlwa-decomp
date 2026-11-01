@@ -1,8 +1,3 @@
-/**
- * FUN_0081ecbc.c
- * Source line: 1230189
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 undefined4 * FUN_0081ecbc(int param_1)

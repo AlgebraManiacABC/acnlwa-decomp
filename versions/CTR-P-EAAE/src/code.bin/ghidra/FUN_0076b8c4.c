@@ -1,8 +1,3 @@
-/**
- * FUN_0076b8c4.c
- * Source line: 1129008
- * Body lines: 14
- */
 void FUN_0076b8c4(ItemID_2 *param_1,Item_t *param_2)
 
 {

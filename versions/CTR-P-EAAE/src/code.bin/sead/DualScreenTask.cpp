@@ -27,7 +27,7 @@ void DualScreenTask::VF16() {}
 
 void DualScreenTask::VF17() {}
 
-// was FUN_00544110
+// TODO: verify FUN_00544110
 void DualScreenTask::VF18()
 {
   int param_1 = (int)this;

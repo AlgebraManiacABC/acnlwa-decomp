@@ -1,8 +1,3 @@
-/**
- * FUN_0029c230.c
- * Source line: 340878
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 void FUN_0029c230(int param_1)
@@ -18,8 +13,6 @@ void FUN_0029c230(int param_1)
   }
   if (*(byte *)(param_1 + 0x294) < 0x10) {
     *(undefined1 *)(param_1 + 0x294) = 0xc;
-          // WARNING: Could not recover jumptable at 0x0029c790. Too many branches
-          // WARNING: Treating indirect jump as call
     (*(code *)&UNK_002e43b8)();
     return;
   }

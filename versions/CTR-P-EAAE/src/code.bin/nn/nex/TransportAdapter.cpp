@@ -28,7 +28,7 @@ void TransportAdapter::VF09() {}
 
 void TransportAdapter::VF10() {}
 
-// was FUN_003837f0
+// TODO: verify FUN_003837f0
 unsigned int TransportAdapter::VF11(int param_2)
 {
   int param_1 = (int)this;

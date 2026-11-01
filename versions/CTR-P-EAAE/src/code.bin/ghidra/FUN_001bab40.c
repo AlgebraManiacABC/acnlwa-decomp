@@ -1,8 +1,3 @@
-/**
- * FUN_001bab40.c
- * Source line: 224451
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 void FUN_001bab40(uint *param_1,undefined4 param_2)

@@ -1,8 +1,3 @@
-/**
- * FUN_001cad7c.c
- * Source line: 232797
- * Body lines: 4
- */
 void FUN_001cad7c(int param_1)
 
 {

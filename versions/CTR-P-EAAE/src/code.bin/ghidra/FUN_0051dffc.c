@@ -1,8 +1,3 @@
-/**
- * FUN_0051dffc.c
- * Source line: 762921
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_0051dffc(undefined4 *param_1)

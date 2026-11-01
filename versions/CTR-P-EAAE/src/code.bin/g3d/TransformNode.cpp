@@ -9,7 +9,7 @@ namespace g3d {
 
 TransformNode::~TransformNode() {}
 
-// was FUN_004ee4b8
+// TODO: verify FUN_004ee4b8
 void TransformNode::VF02()
 {
   int param_1 = (int)this;

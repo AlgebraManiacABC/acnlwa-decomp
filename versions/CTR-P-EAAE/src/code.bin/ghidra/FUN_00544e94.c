@@ -1,8 +1,3 @@
-/**
- * FUN_00544e94.c
- * Source line: 787875
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 void FUN_00544e94(ushort *param_1,char *param_2,int *param_3)

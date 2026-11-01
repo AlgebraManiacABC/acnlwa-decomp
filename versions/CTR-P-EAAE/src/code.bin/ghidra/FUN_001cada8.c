@@ -1,8 +1,3 @@
-/**
- * FUN_001cada8.c
- * Source line: 232808
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 void FUN_001cada8(int param_1)

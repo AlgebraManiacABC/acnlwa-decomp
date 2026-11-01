@@ -1,8 +1,3 @@
-/**
- * FUN_00451cac.c
- * Source line: 617397
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 void FUN_00451cac(int param_1,undefined4 param_2,undefined1 param_3)

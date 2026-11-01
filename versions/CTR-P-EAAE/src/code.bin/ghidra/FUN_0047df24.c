@@ -1,8 +1,3 @@
-/**
- * FUN_0047df24.c
- * Source line: 650657
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 float FUN_0047df24(uint param_1)

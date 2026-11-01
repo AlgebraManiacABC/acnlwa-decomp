@@ -21,7 +21,7 @@ void StageOpusLobbyIsland::VF08() {}
 
 void StageOpusLobbyIsland::VF11() {}
 
-// was FUN_005882f4
+// TODO: verify FUN_005882f4
 void StageOpusLobbyIsland::VF12()
 {
   int param_1 = (int)this;

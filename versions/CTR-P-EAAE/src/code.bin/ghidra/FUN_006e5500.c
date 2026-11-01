@@ -1,8 +1,3 @@
-/**
- * FUN_006e5500.c
- * Source line: 1043218
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 ushort FUN_006e5500(void)

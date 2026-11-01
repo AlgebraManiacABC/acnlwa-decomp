@@ -1,8 +1,3 @@
-/**
- * FUN_002dead8.c
- * Source line: 376962
- * Body lines: 7
- */
 #include "../../../include/types.h"
 
 void FUN_002dead8(int param_1)

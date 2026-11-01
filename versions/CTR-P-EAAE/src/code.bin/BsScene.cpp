@@ -19,7 +19,7 @@ bool BsScene::Process_VF08() {}
 
 void BsScene::Process_VF10() {}
 
-// was FUN_00606dc0
+// TODO: verify FUN_00606dc0
 int BsScene::Process_VF11()
 {
   int iVar1;

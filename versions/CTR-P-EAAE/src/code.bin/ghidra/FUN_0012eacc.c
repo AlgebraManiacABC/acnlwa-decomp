@@ -1,8 +1,3 @@
-/**
- * FUN_0012eacc.c
- * Source line: 135342
- * Body lines: 4
- */
 int FUN_0012eacc(int param_1)
 
 {

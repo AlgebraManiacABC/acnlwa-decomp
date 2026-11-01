@@ -1,8 +1,3 @@
-/**
- * FUN_006deb4c.c
- * Source line: 1038575
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 int FUN_006deb4c(int param_1)

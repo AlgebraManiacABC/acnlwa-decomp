@@ -13,7 +13,7 @@ unsigned int BsCfl::Process_VF06() {}
 
 unsigned int BsCfl::Process_VF09() {}
 
-// was FUN_0057bdc4
+// TODO: verify FUN_0057bdc4
 unsigned int BsCfl::Process_VF12()
 {
   FUN_004e0a48();

@@ -1,8 +1,3 @@
-/**
- * FUN_001cdf44.c
- * Source line: 234738
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 uint FUN_001cdf44(int param_1,int param_2)

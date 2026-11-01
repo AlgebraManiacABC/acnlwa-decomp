@@ -1,8 +1,3 @@
-/**
- * FUN_004e6c00.c
- * Source line: 729488
- * Body lines: 9
- */
 #include "../../../include/types.h"
 
 Item_t * FUN_004e6c00(undefined4 param_1,ushort *param_2)

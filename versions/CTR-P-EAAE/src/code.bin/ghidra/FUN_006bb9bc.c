@@ -1,8 +1,3 @@
-/**
- * FUN_006bb9bc.c
- * Source line: 1018135
- * Body lines: 7
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_006bb9bc(Item_t *param_1,uint param_2)

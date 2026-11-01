@@ -1,8 +1,3 @@
-/**
- * FUN_0074faec.c
- * Source line: 1106417
- * Body lines: 9
- */
 int FUN_0074faec(int param_1)
 
 {

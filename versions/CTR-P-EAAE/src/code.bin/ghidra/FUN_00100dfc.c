@@ -1,8 +1,3 @@
-/**
- * FUN_00100dfc.c
- * Source line: 104269
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_00100dfc(int param_1,int param_2,char *param_3,undefined4 param_4)

@@ -1,8 +1,3 @@
-/**
- * ranqd1.c
- * Source line: 808166
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 uint ranqd1(uint *seed_ptr)

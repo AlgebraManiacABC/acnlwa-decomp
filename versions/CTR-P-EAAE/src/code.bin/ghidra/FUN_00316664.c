@@ -1,8 +1,3 @@
-/**
- * FUN_00316664.c
- * Source line: 417926
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 byte * FUN_00316664(astruct_5 *param_1,char *param_2,undefined4 param_3,undefined4 param_4)

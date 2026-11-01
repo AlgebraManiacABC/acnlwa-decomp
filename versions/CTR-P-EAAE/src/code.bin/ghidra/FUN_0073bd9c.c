@@ -1,8 +1,3 @@
-/**
- * FUN_0073bd9c.c
- * Source line: 1095341
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_0073bd9c(int param_1)
@@ -12,8 +7,6 @@ undefined4 FUN_0073bd9c(int param_1)
   int iVar2;
   
   if (*(int **)(param_1 + 0xc) != NULL) {
-          // WARNING: Could not recover jumptable at 0x0073bdb8. Too many branches
-          // WARNING: Treating indirect jump as call
     uVar1 = (**(code **)(**(int **)(param_1 + 0xc) + 0x18))();
     return uVar1;
   }

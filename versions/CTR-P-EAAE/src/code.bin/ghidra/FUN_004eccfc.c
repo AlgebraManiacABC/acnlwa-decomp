@@ -1,8 +1,3 @@
-/**
- * FUN_004eccfc.c
- * Source line: 734215
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 uint FUN_004eccfc(int param_1)

@@ -1,8 +1,3 @@
-/**
- * FUN_004bf264.c
- * Source line: 701345
- * Body lines: 7
- */
 int FUN_004bf264(int param_1)
 
 {

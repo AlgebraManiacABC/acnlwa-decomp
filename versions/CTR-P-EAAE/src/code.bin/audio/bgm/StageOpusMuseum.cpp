@@ -16,7 +16,7 @@ void StageOpusMuseum::VF06() {}
 
 void StageOpusMuseum::VF07() {}
 
-// was FUN_00586824
+// TODO: verify FUN_00586824
 void StageOpusMuseum::VF10()
 {
   int iVar1;

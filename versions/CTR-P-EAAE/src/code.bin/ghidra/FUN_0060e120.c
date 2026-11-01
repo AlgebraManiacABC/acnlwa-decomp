@@ -1,8 +1,3 @@
-/**
- * FUN_0060e120.c
- * Source line: 924799
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 void FUN_0060e120(int param_1,int param_2)

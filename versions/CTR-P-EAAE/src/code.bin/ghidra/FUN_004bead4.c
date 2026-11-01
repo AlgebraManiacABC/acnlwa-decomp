@@ -1,8 +1,3 @@
-/**
- * FUN_004bead4.c
- * Source line: 700743
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 void FUN_004bead4(int param_1,int param_2,byte *param_3,int param_4)

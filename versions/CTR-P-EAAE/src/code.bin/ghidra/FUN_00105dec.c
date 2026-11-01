@@ -1,8 +1,3 @@
-/**
- * FUN_00105dec.c
- * Source line: 107405
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 bool FUN_00105dec(Item_t *param_1,undefined4 param_2,undefined4 param_3,undefined4 param_4,

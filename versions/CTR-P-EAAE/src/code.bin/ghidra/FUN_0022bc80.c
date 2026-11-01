@@ -1,8 +1,3 @@
-/**
- * FUN_0022bc80.c
- * Source line: 282531
- * Body lines: 9
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_0022bc80(int param_1,int param_2)

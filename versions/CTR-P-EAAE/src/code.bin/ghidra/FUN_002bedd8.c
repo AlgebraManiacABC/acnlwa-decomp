@@ -1,8 +1,3 @@
-/**
- * FUN_002bedd8.c
- * Source line: 359336
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 int FUN_002bedd8(int param_1,uint param_2)

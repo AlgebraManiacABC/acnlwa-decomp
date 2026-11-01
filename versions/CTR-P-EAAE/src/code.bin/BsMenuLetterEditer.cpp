@@ -14,7 +14,7 @@ unsigned int BsMenuLetterEditer::Process_VF06() {}
 
 unsigned int BsMenuLetterEditer::Process_VF09() {}
 
-// was FUN_002da74c
+// TODO: verify FUN_002da74c
 unsigned int BsMenuLetterEditer::Process_VF12()
 {
   int param_1 = (int)this;

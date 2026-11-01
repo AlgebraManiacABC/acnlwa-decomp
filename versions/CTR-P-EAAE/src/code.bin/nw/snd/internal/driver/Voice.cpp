@@ -10,7 +10,7 @@ namespace snd {
 namespace internal {
 namespace driver {
 
-// was FUN_004cacf8
+// TODO: verify FUN_004cacf8
 Voice::Voice()
 {
   undefined4 *param_1 = (undefined4 *)this;
@@ -27,7 +27,7 @@ Voice::Voice()
   return;
 }
 
-// was FUN_004ca1f0
+// TODO: verify FUN_004ca1f0
 void Voice::AppendWaveBuffer(int param_2, ::nn::snd::CTR::WaveBuffer *param_3, bool param_4)
 {
   int param_1 = (int)this;

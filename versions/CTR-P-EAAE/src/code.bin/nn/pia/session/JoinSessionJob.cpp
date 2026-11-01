@@ -18,7 +18,7 @@ void JoinSessionJob::VF06() {}
 
 void JoinSessionJob::VF07() {}
 
-// was FUN_004316ec
+// TODO: verify FUN_004316ec
 void JoinSessionJob::VF08()
 {
   int param_1 = (int)this;

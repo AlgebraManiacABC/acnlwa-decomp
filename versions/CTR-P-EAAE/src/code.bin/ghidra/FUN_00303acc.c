@@ -1,8 +1,3 @@
-/**
- * FUN_00303acc.c
- * Source line: 400806
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_00303acc(Item_t *param_1)

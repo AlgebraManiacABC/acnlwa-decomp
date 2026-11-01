@@ -1,8 +1,3 @@
-/**
- * FUN_006ccc78.c
- * Source line: 1029124
- * Body lines: 1
- */
 int FUN_006ccc78(int param_1,int param_2,int param_3,int param_4)
 
 {

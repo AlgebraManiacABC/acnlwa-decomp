@@ -11,7 +11,7 @@ namespace transport {
 
 StationConnectionInfo::~StationConnectionInfo() {}
 
-// was FUN_00735570
+// TODO: verify FUN_00735570
 int StationConnectionInfo::VF02()
 {
   int param_1 = (int)this;

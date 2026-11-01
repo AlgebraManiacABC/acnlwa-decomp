@@ -1,8 +1,3 @@
-/**
- * FUN_001511dc.c
- * Source line: 165491
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 void FUN_001511dc(uint *param_1,uint *param_2)

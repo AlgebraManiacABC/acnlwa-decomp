@@ -39,7 +39,7 @@ void BsGeneralObj::DemoActor_VF17() {}
 
 unsigned char BsGeneralObj::DemoActor_VF18() {}
 
-// was FUN_001f8e40
+// TODO: verify FUN_001f8e40
 unsigned int BsGeneralObj::DemoActor_VF19()
 {
   int param_1 = (int)this;

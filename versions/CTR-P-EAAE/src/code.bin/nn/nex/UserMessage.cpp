@@ -12,7 +12,7 @@ namespace nex {
 
 UserMessage::~UserMessage() {}
 
-// was FUN_0035bdd0
+// TODO: verify FUN_0035bdd0
 void UserMessage::VF08()
 {
   undefined4 param_1 = (undefined4)this;

@@ -1,8 +1,3 @@
-/**
- * FUN_00419e14.c
- * Source line: 583951
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 void FUN_00419e14(int param_1,int param_2,int param_3)

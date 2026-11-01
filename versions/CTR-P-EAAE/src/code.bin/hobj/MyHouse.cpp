@@ -20,7 +20,7 @@ void MyHouse::VF05() {}
 
 void MyHouse::VF06() {}
 
-// was FUN_005342fc
+// TODO: verify FUN_005342fc
 void MyHouse::VF07()
 {
   int param_1 = (int)this;

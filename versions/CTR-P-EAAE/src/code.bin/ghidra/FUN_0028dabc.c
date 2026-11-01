@@ -1,8 +1,3 @@
-/**
- * FUN_0028dabc.c
- * Source line: 333340
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 undefined4 FUN_0028dabc(int param_1)

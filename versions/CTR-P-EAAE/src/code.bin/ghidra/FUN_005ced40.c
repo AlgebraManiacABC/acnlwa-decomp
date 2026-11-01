@@ -1,8 +1,3 @@
-/**
- * FUN_005ced40.c
- * Source line: 881008
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_005ced40(uint param_1)

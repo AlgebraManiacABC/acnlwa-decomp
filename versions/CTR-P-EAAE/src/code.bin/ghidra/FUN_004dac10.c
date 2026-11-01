@@ -1,8 +1,3 @@
-/**
- * FUN_004dac10.c
- * Source line: 721667
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 float FUN_004dac10(int param_1)

@@ -1,8 +1,3 @@
-/**
- * FUN_0058a5b0.c
- * Source line: 834872
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 void FUN_0058a5b0(void)

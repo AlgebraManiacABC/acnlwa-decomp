@@ -12,7 +12,7 @@ BsLightDiffuseBase::~BsLightDiffuseBase() {}
 
 unsigned int BsLightDiffuseBase::Process_VF03() {}
 
-// was FUN_002d6fc0
+// TODO: verify FUN_002d6fc0
 unsigned int BsLightDiffuseBase::Process_VF06()
 {
   int param_1 = (int)this;
@@ -33,7 +33,7 @@ void BsLightDiffuseBase::VF19() {}
 
 void BsLightDiffuseBase::VF20() {}
 
-// was FUN_002d6cc0
+// TODO: verify FUN_002d6cc0
 void BsLightDiffuseBase::VF21()
 {}
 

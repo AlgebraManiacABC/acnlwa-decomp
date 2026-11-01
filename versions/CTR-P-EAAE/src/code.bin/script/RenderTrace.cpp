@@ -9,7 +9,7 @@ namespace script {
 
 RenderTrace::~RenderTrace() {}
 
-// was FUN_005df350
+// TODO: verify FUN_005df350
 void RenderTrace::VF02()
 {
   int param_1 = (int)this;

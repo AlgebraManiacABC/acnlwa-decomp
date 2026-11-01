@@ -9,7 +9,7 @@ namespace nn {
 namespace snd {
 namespace CTR {
 
-// was FUN_0046240c
+// TODO: verify FUN_0046240c
 void LockSoundThread()
 {
   int iVar1;

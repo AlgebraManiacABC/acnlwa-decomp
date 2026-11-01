@@ -15,7 +15,7 @@ void StageOpusEntryDemo::VF06() {}
 
 void StageOpusEntryDemo::VF11() {}
 
-// was FUN_00587750
+// TODO: verify FUN_00587750
 void StageOpusEntryDemo::VF12()
 {
   undefined4 uVar1;

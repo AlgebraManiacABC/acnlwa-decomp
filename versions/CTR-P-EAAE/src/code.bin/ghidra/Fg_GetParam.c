@@ -1,8 +1,3 @@
-/**
- * Fg_GetParam.c
- * Source line: 395513
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 FgParam_t * Fg_GetParam(Fg_t *param_1)

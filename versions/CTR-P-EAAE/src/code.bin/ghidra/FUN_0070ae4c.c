@@ -1,8 +1,3 @@
-/**
- * FUN_0070ae4c.c
- * Source line: 1062681
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 uint FUN_0070ae4c(int param_1,uint param_2)

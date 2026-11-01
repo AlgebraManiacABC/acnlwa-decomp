@@ -12,7 +12,7 @@ FragmentLight::~FragmentLight() {}
 
 void FragmentLight::VF02() {}
 
-// was FUN_004ed3dc
+// TODO: verify FUN_004ed3dc
 void FragmentLight::VF03()
 {
   int param_1 = (int)this;

@@ -1,8 +1,3 @@
-/**
- * FUN_00565f74.c
- * Source line: 808229
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 int FUN_00565f74(int param_1)
@@ -22,8 +17,6 @@ int FUN_00565f74(int param_1)
     return iVar1;
   }
   _DAT_009753e4[2] = param_1;
-          // WARNING: Could not recover jumptable at 0x00565fdc. Too many branches
-          // WARNING: Treating indirect jump as call
   iVar1 = (**(code **)(*_DAT_009753e4 + 0x14))();
   return iVar1;
 }

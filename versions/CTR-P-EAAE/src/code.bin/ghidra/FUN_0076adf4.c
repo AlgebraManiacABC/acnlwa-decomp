@@ -1,8 +1,3 @@
-/**
- * FUN_0076adf4.c
- * Source line: 1128408
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 ushort FUN_0076adf4(ushort *param_1)

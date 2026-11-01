@@ -1,8 +1,3 @@
-/**
- * FUN_001cad34.c
- * Source line: 232780
- * Body lines: 9
- */
 void FUN_001cad34(int param_1)
 
 {

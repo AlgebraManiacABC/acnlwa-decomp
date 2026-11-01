@@ -1,8 +1,3 @@
-/**
- * FUN_005eafec.c
- * Source line: 899632
- * Body lines: 7
- */
 #include "../../../include/types.h"
 
 void FUN_005eafec(int param_1)

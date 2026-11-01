@@ -1,8 +1,3 @@
-/**
- * FUN_0016cb20.c
- * Source line: 184567
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 uint FUN_0016cb20(uint param_1)

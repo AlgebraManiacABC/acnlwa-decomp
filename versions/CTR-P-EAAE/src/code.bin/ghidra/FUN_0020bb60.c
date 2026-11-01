@@ -1,8 +1,3 @@
-/**
- * FUN_0020bb60.c
- * Source line: 268170
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 int FUN_0020bb60(undefined4 param_1,int param_2)

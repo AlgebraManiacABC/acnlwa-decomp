@@ -1,8 +1,3 @@
-/**
- * FUN_006dab64.c
- * Source line: 1036676
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 int FUN_006dab64(int param_1)

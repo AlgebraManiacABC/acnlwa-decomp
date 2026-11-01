@@ -1,8 +1,3 @@
-/**
- * FUN_0027ab7c.c
- * Source line: 324127
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 void FUN_0027ab7c(Item_t *param_1)

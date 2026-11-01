@@ -3,7 +3,7 @@
 
 namespace imgdb {
 
-// was FUN_005afe90
+// TODO: verify FUN_005afe90
 void FaceInfo::Initialize()
 {
   undefined4 *param_1 = (undefined4 *)this;

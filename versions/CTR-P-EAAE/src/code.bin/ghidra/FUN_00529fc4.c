@@ -1,8 +1,3 @@
-/**
- * FUN_00529fc4.c
- * Source line: 769994
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 void FUN_00529fc4(int param_1)
@@ -22,6 +17,5 @@ void FUN_00529fc4(int param_1)
   uVar2 = FUN_004b4fc0(param_1 + 0x24,"A00_Fade",1);
   FUN_00568630(param_1 + 0x24,param_1 + 0x3e0,uVar2,0);
   FUN_005697e0(0,param_1 + 0x3e0);
-          // WARNING: Subroutine does not return
   FUN_00568c10(param_1 + 0x24);
 }

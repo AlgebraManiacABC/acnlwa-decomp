@@ -3,7 +3,7 @@
 
 namespace script {
 
-// was FUN_005e4858
+// TODO: verify FUN_005e4858
 void ChoiceStandard::VF02(unsigned int param_2, unsigned int param_3, unsigned int param_4)
 {
   int param_1 = (int)this;
@@ -14,7 +14,7 @@ void ChoiceStandard::VF02(unsigned int param_2, unsigned int param_3, unsigned i
   return;
 }
 
-// was FUN_0075b008
+// TODO: verify FUN_0075b008
 bool ChoiceStandard::VF03()
 {
   int param_1 = (int)this;
@@ -27,7 +27,7 @@ ChoiceStandard::~ChoiceStandard() {}
 
 void ChoiceStandard::VF10() {}
 
-// was FUN_005e4850
+// TODO: verify FUN_005e4850
 void ChoiceStandard::VF11(unsigned char param_2)
 {
   int param_1 = (int)this;

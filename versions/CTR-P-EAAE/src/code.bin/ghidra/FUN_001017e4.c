@@ -1,8 +1,3 @@
-/**
- * FUN_001017e4.c
- * Source line: 105176
- * Body lines: 10
- */
 short * FUN_001017e4(short *param_1,short *param_2)
 
 {

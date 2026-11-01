@@ -1,8 +1,3 @@
-/**
- * FUN_0010ac50.c
- * Source line: 109208
- * Body lines: 10
- */
 Item_t * FUN_0010ac50(Item_t *param_1,Item_t *param_2)
 
 {

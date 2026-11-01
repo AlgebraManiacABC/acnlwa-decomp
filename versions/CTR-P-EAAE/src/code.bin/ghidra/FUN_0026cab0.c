@@ -1,8 +1,3 @@
-/**
- * FUN_0026cab0.c
- * Source line: 316527
- * Body lines: 7
- */
 #include "../../../include/types.h"
 
 void FUN_0026cab0(void)

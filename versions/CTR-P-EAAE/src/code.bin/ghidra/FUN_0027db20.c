@@ -1,8 +1,3 @@
-/**
- * FUN_0027db20.c
- * Source line: 325833
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 void FUN_0027db20(int param_1)

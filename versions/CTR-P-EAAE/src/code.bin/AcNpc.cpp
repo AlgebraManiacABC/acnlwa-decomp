@@ -31,7 +31,7 @@ unsigned int AcNpc::DemoActor_VF24() {}
 
 unsigned int AcNpc::DemoActor_VF26() {}
 
-// was FUN_0057813c
+// TODO: verify FUN_0057813c
 bool AcNpc::DemoActor_VF27()
 {
     return this->unk_0x660[0x3e] != 0;

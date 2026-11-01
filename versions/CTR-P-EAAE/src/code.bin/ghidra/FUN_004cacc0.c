@@ -1,8 +1,3 @@
-/**
- * FUN_004cacc0.c
- * Source line: 710236
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 void FUN_004cacc0(float param_1,int param_2)

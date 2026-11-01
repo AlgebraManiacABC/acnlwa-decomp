@@ -1,8 +1,3 @@
-/**
- * FUN_006cb968.c
- * Source line: 1028331
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 void FUN_006cb968(float *param_1,undefined4 param_2,undefined4 param_3,uint param_4)

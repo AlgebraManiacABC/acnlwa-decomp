@@ -1,8 +1,3 @@
-/**
- * FUN_001df650.c
- * Source line: 245863
- * Body lines: 9
- */
 #include "../../../include/types.h"
 
 void FUN_001df650(int param_1,int param_2)

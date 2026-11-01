@@ -1,8 +1,3 @@
-/**
- * FUN_00409adc.c
- * Source line: 575160
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 void FUN_00409adc(void)

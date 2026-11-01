@@ -11,7 +11,7 @@ void LetterDragStockWindow::VF01() {}
 
 void LetterDragStockWindow::LetterDragWindowBase_VF02() {}
 
-// was FUN_00328670
+// TODO: verify FUN_00328670
 void LetterDragStockWindow::VF03()
 {
   int param_1 = (int)this;

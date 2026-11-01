@@ -1,8 +1,3 @@
-/**
- * FUN_0060d0d0.c
- * Source line: 924181
- * Body lines: 5
- */
 void FUN_0060d0d0(short *param_1,short *param_2)
 
 {

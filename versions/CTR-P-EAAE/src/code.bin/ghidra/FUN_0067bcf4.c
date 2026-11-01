@@ -1,8 +1,3 @@
-/**
- * FUN_0067bcf4.c
- * Source line: 984413
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 byte FUN_0067bcf4(int param_1,undefined4 param_2,undefined2 param_3,undefined4 param_4,

@@ -1,8 +1,3 @@
-/**
- * FUN_0024bca4.c
- * Source line: 299874
- * Body lines: 14
- */
 #include "../../../include/types.h"
 
 void FUN_0024bca4(int param_1,uint param_2,Item_t *param_3)

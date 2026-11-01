@@ -1,8 +1,3 @@
-/**
- * FUN_0020ce80.c
- * Source line: 269059
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 void FUN_0020ce80(int param_1,uint param_2)

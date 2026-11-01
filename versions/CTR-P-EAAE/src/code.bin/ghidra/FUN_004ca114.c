@@ -1,8 +1,3 @@
-/**
- * FUN_004ca114.c
- * Source line: 709500
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 void FUN_004ca114(int param_1,int param_2,uint *param_3)

@@ -1,8 +1,3 @@
-/**
- * FUN_005faccc.c
- * Source line: 910914
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_005faccc(int param_1,undefined4 param_2)

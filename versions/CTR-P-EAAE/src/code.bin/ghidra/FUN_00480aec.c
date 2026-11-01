@@ -1,8 +1,3 @@
-/**
- * FUN_00480aec.c
- * Source line: 652910
- * Body lines: 15
- */
 #include "../../../include/types.h"
 
 uint FUN_00480aec(undefined4 param_1,int param_2,undefined4 param_3)

@@ -1,8 +1,3 @@
-/**
- * FUN_0076f38c.c
- * Source line: 1132401
- * Body lines: 9
- */
 #include "../../../include/types.h"
 
 void FUN_0076f38c(int param_1,uint param_2)
@@ -16,8 +11,6 @@ void FUN_0076f38c(int param_1,uint param_2)
   else {
     piVar1 = NULL;
   }
-          // WARNING: Could not recover jumptable at 0x0076f3b0. Too many branches
-          // WARNING: Treating indirect jump as call
   (**(code **)(*piVar1 + 0xa0))();
   return;
 }

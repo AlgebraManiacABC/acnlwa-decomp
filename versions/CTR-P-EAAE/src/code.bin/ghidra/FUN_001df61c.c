@@ -1,8 +1,3 @@
-/**
- * FUN_001df61c.c
- * Source line: 245843
- * Body lines: 12
- */
 #include "../../../include/types.h"
 
 void FUN_001df61c(byte *param_1,int param_2)

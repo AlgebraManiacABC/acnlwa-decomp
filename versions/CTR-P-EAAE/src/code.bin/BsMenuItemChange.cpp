@@ -13,7 +13,7 @@ BsMenuItemChange::~BsMenuItemChange() {}
 
 unsigned int BsMenuItemChange::Process_VF03() {}
 
-// was FUN_002af6a4
+// TODO: verify FUN_002af6a4
 unsigned int BsMenuItemChange::Process_VF06()
 {
   int param_1 = (int)this;

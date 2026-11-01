@@ -1,8 +1,3 @@
-/**
- * FUN_003df780.c
- * Source line: 554652
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 void FUN_003df780(int *param_1,int param_2,int param_3)

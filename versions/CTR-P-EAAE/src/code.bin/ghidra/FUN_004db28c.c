@@ -1,8 +1,3 @@
-/**
- * FUN_004db28c.c
- * Source line: 721995
- * Body lines: 6
- */
 #include "../../../include/types.h"
 
 void FUN_004db28c(sbyte *param_1)

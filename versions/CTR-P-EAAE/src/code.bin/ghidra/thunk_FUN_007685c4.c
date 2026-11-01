@@ -1,8 +1,3 @@
-/**
- * thunk_FUN_007685c4.c
- * Source line: 409205
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 uint thunk_FUN_007685c4(int param_1)

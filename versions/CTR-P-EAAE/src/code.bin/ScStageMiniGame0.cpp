@@ -43,7 +43,7 @@ unsigned int ScStageMiniGame0::DemoActor_VF19() {}
 
 unsigned int ScStageMiniGame0::DemoActor_VF20() {}
 
-// was FUN_002bc584
+// TODO: verify FUN_002bc584
 unsigned int ScStageMiniGame0::DemoActor_VF21()
 {
   int iVar1;

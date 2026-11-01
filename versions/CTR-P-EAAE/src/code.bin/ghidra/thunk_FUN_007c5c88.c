@@ -1,8 +1,3 @@
-/**
- * thunk_FUN_007c5c88.c
- * Source line: 568741
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 undefined * thunk_FUN_007c5c88(undefined4 param_1,char *param_2)

@@ -1,8 +1,3 @@
-/**
- * FUN_007685e8.c
- * Source line: 1126053
- * Body lines: 11
- */
 #include "../../../include/types.h"
 
 ushort FUN_007685e8(Item_t *param_1)

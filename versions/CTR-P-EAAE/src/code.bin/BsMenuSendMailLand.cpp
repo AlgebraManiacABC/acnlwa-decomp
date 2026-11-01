@@ -17,7 +17,7 @@ unsigned int BsMenuSendMailLand::Process_VF06() {}
 
 unsigned int BsMenuSendMailLand::Process_VF09() {}
 
-// was FUN_002deecc
+// TODO: verify FUN_002deecc
 unsigned int BsMenuSendMailLand::Process_VF12()
 {
   int param_1 = (int)this;

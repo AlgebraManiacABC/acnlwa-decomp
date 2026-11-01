@@ -5,7 +5,7 @@ namespace nw {
 namespace snd {
 namespace internal {
 
-// was FUN_0073f13c
+// TODO: verify FUN_0073f13c
 undefined4 SoundArchiveFile::FileHeader::GetStringBlockSize() const
 {
   int param_1 = (int)this;
@@ -24,7 +24,7 @@ undefined4 SoundArchiveFile::FileHeader::GetStringBlockSize() const
   return *(undefined4 *)(param_1 + 8);
 }
 
-// was FUN_0073f174
+// TODO: verify FUN_0073f174
 undefined4 SoundArchiveFile::FileHeader::GetStringBlockOffset() const
 {
   int param_1 = (int)this;

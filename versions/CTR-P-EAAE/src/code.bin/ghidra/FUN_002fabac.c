@@ -1,8 +1,3 @@
-/**
- * FUN_002fabac.c
- * Source line: 393529
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 void FUN_002fabac(int param_1,undefined4 *param_2)

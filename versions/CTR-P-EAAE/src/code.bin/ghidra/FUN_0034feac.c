@@ -1,8 +1,3 @@
-/**
- * FUN_0034feac.c
- * Source line: 451778
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 void FUN_0034feac(undefined4 param_1)

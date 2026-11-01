@@ -12,7 +12,7 @@ BsLightFixBase::~BsLightFixBase() {}
 
 unsigned int BsLightFixBase::Process_VF03() {}
 
-// was FUN_0025654c
+// TODO: verify FUN_0025654c
 unsigned int BsLightFixBase::Process_VF06()
 {
   int param_1 = (int)this;

@@ -1,8 +1,3 @@
-/**
- * FUN_0021f200.c
- * Source line: 276457
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 void FUN_0021f200(int param_1)

@@ -7,7 +7,7 @@ namespace session {
 
 CommonMatchmakeSession::~CommonMatchmakeSession() {}
 
-// was FUN_004409ac
+// TODO: verify FUN_004409ac
 void CommonMatchmakeSession::VF02()
 {
   int param_1 = (int)this;

@@ -1,8 +1,3 @@
-/**
- * FUN_0031e594.c
- * Source line: 422847
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 void FUN_0031e594(int param_1,undefined4 param_2,undefined4 param_3,undefined4 *param_4)
@@ -17,7 +12,6 @@ void FUN_0031e594(int param_1,undefined4 param_2,undefined4 param_3,undefined4 *
   if (*(char *)(param_1 + 0x4ec) != '\0') {
     FUN_0031e228(param_1);
     FUN_0031e314(param_1);
-          // WARNING: Subroutine does not return
     FUN_00568c10(param_1 + 0x270);
   }
   FUN_00819f50(param_1,FUN_0031e610,0);

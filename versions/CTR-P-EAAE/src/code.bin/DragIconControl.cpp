@@ -21,7 +21,7 @@ void DragIconControl::VF09() {}
 
 void DragIconControl::VF11() {}
 
-// was FUN_0029b004
+// TODO: verify FUN_0029b004
 void DragIconControl::VF13()
 {
   int param_1 = (int)this;

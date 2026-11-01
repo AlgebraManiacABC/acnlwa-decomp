@@ -1,8 +1,3 @@
-/**
- * FUN_0032cb30.c
- * Source line: 432113
- * Body lines: 8
- */
 #include "../../../include/types.h"
 
 void FUN_0032cb30(int param_1,Item_t *param_2)

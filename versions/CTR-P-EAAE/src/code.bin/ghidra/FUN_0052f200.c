@@ -1,8 +1,3 @@
-/**
- * FUN_0052f200.c
- * Source line: 773595
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 void FUN_0052f200(undefined4 *param_1,undefined4 *param_2,undefined4 *param_3)

@@ -3,14 +3,14 @@
 
 namespace imgdb {
 
-// was FUN_00754978
+// TODO: verify FUN_00754978
 bool PictureDatabase::IsInitialized() const
 {
   int *param_1 = (int *)this;
   return *param_1 != 0;
 }
 
-// was FUN_00754a3c
+// TODO: verify FUN_00754a3c
 int PictureDatabase::GetRecord(int param_2) const
 {
   int param_1 = (int)this;

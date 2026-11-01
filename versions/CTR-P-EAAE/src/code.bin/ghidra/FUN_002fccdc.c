@@ -1,8 +1,3 @@
-/**
- * FUN_002fccdc.c
- * Source line: 395249
- * Body lines: 13
- */
 #include "../../../include/types.h"
 
 byte FUN_002fccdc(Fg_t *param_1)

@@ -1,8 +1,3 @@
-/**
- * FUN_0020bf24.c
- * Source line: 268448
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 bool FUN_0020bf24(int param_1,uint param_2,undefined4 param_3)

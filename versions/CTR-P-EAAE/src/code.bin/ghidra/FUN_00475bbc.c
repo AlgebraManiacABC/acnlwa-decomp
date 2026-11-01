@@ -1,8 +1,3 @@
-/**
- * FUN_00475bbc.c
- * Source line: 645352
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 int FUN_00475bbc(int param_1)

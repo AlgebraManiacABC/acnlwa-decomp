@@ -1,8 +1,3 @@
-/**
- * sqrtf.c
- * Source line: 1168537
- * Body lines: 5
- */
 float sqrtf(float __x)
 
 {

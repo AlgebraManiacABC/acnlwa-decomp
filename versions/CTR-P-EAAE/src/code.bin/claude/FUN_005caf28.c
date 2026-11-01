@@ -1,8 +1,3 @@
-/**
- * FUN_005caf28.c
- * Source line: 878943
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 void FUN_005caf28(undefined2 *param_1,undefined2 param_2,undefined1 param_3,undefined1 param_4)

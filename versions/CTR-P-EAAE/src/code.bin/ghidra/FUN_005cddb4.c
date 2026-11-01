@@ -1,8 +1,3 @@
-/**
- * FUN_005cddb4.c
- * Source line: 880193
- * Body lines: 5
- */
 #include "../../../include/types.h"
 
 void FUN_005cddb4(undefined4 param_1,undefined4 param_2)

@@ -1,8 +1,3 @@
-/**
- * FUN_006b9b30.c
- * Source line: 1016526
- * Body lines: 10
- */
 #include "../../../include/types.h"
 
 uint FUN_006b9b30(uint param_1,ItemID param_2)

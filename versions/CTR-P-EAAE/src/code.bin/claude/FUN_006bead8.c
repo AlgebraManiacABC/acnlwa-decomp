@@ -1,8 +1,3 @@
-/**
- * FUN_006bead8.c
- * Source line: 1020212
- * Body lines: 4
- */
 #include "../../../include/types.h"
 
 void FUN_006bead8(int param_1,undefined4 *param_2)

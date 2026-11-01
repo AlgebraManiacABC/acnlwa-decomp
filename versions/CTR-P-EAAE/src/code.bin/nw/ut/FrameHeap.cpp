@@ -5,7 +5,7 @@ namespace ut {
 
 FrameHeap::~FrameHeap() {}
 
-// was FUN_00140900
+// TODO: verify FUN_00140900
 void *FrameHeap::Destroy()
 {
   Finalize();
