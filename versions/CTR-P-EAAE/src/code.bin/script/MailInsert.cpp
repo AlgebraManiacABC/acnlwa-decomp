@@ -44,7 +44,10 @@ void MailInsert::VF123() {}
 
 void MailInsert::VF124() {}
 
-void MailInsert::VF134() {}
+HasVF07 * MailInsert::VF134()
+{
+	return 0;
+}
 
 void MailInsert::VF135() {}
 

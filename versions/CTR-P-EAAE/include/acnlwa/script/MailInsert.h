@@ -28,7 +28,7 @@ public:
     virtual void VF122();
     virtual void VF123();
     virtual void VF124();
-    virtual void VF134();
+    virtual HasVF07 * VF134();
     virtual void VF135();
     virtual void VF143();
     virtual void VF155();

@@ -36,7 +36,7 @@ public:
     virtual void VF172();
     virtual void VF189();
     virtual void VF190();
-    virtual void VF191();
+    virtual uint VF191() { return 1; }
 };
 
 }  // namespace script

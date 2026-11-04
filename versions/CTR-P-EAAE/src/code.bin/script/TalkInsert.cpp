@@ -60,6 +60,4 @@ void TalkInsert::VF189() {}
 
 void TalkInsert::VF190() {}
 
-void TalkInsert::VF191() {}
-
 }  // namespace script
