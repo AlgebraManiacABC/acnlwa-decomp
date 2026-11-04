@@ -3,7 +3,7 @@ compilers:
 
 default:
   cc: armcc_4.1_1049
-  flags: [--split-sections]
+  flags: [--cpu=MPCore, --fpmode=fast, --apcs=/interwork, --split-sections, -O3, -Otime]
 
 presets:
   thumb:
@@ -82,9 +82,13 @@ code.bin:
       - FUN_001e7e00.c
       - FUN_001e7e34.c
   
+  nninitRegion.c:
+    cc: armcc_4.1_1049
+    flags: [--cpu=MPCore, --fpmode=fast, --apcs=/interwork, --split-sections, -O3, -Otime, -Ospace]
+
   "*.cpp":
     cc: armcc_4.1_1049
-    flags: [--cpp, --split-sections]
+    flags: [--cpp, --cpu=MPCore, --fpmode=fast, --apcs=/interwork, --split-sections, -O3, -Otime]
 
   Item/Item*.c:
     cc: armcc_4.1_1049

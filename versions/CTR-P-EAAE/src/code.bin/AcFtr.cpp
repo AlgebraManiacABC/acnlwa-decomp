@@ -39,11 +39,10 @@ void AcFtr::AcFtr_VF36() {}
 
 void AcFtr::AcFtr_VF37() {}
 
-unsigned int AcFtr::AcFtr_VF38(unsigned int param_1, unsigned int param_2, unsigned int param_3)
+unsigned int AcFtr::AcFtr_VF38(unsigned int param_1, unsigned long long param_2)
 {
     this->unk_0x7a4 = 0;
     this->unk_0x2f8 = param_2;
-    this->unk_0x2fc = param_3;
     return 0;
 }
 

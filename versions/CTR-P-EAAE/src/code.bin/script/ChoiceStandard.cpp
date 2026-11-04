@@ -4,15 +4,7 @@
 namespace script {
 
 // TODO: verify FUN_005e4858
-void ChoiceStandard::VF02(unsigned int param_2, unsigned int param_3, unsigned int param_4)
-{
-  int param_1 = (int)this;
-  *(undefined4 *)(param_1 + 0xcc) = param_2;
-  *(undefined4 *)(param_1 + 0xd0) = param_3;
-  *(undefined4 *)(param_1 + 0xd4) = param_4;
-  *(undefined1 *)(param_1 + 5) = 1;
-  return;
-}
+void ChoiceStandard::VF02(unsigned int param_2, unsigned int param_3, unsigned int param_4) {}
 
 // TODO: verify FUN_0075b008
 bool ChoiceStandard::VF03()

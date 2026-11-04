@@ -1,8 +1,0 @@
-#include "../../../include/types.h"
-
-void FUN_00603a18(int param_1)
-
-{
-  *(undefined1 *)(*(int *)(param_1 + 0x34c) + 4) = 0;
-  return;
-}

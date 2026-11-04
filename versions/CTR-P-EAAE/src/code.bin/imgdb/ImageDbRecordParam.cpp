@@ -13,8 +13,7 @@ void ImageDbRecordParam::Initialize()
     __rt_memclr_w(this,0x6c);
     unk_0x00.Initialize();
     unk_0x0d = 4;
-    unk_0x20 = 0;
-    return;
+    unk_0x20 = unk_0x0d == 0;
 }
 
 bool ImageDbRecordParam::IsValidBodyId(BodyIdType type) const

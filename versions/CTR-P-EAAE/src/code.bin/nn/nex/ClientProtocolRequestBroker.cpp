@@ -11,14 +11,7 @@ namespace nex {
 ClientProtocolRequestBroker::~ClientProtocolRequestBroker() {}
 
 // TODO: verify FUN_003bbd78
-void ClientProtocolRequestBroker::VF02(unsigned int param_2, unsigned int param_3)
-{
-  int param_1 = (int)this;
-  *(undefined4 *)(param_1 + 0x7c) = param_3;
-  FUN_003bc044();
-  *(undefined4 *)(param_1 + 0x7c) = 0;
-  return;
-}
+void ClientProtocolRequestBroker::VF02(unsigned int param_2, unsigned int param_3) {}
 
 void ClientProtocolRequestBroker::VF03() {}
 

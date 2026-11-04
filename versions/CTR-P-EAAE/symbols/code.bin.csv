@@ -40619,7 +40619,7 @@ Location,Name,Namespace,Mode,Size,Segment,Provenance,Placeholder
 "005731e0","$d","Global",$d,00000008,".text","Mapping",false
 "005731e8","FUN_005731e8","Global",$a,00000028,".text","Ghidra",true
 "00573210","$d","Global",$d,00000004,".text","Mapping",false
-"00573214","_ZN5AcFtr10AcFtr_VF38Ejjj","AcFtr",$a,00000018,".text","RTTI",true
+"00573214","_ZN5AcFtr10AcFtr_VF38Ejy","AcFtr",$a,00000018,".text","RTTI",true
 "0057322c","FUN_0057322c","Global",$a,0000017c,".text","Ghidra",true
 "005733a8","$d","Global",$d,0000000c,".text","Mapping",false
 "005733b4","FUN_005733b4","Global",$a,00000104,".text","Ghidra",true

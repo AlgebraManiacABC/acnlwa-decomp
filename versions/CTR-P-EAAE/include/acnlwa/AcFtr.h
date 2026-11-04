@@ -24,7 +24,7 @@ public:
     virtual unsigned int UtlBase_VF35();
     virtual void AcFtr_VF36();
     virtual void AcFtr_VF37();
-    virtual unsigned int AcFtr_VF38(unsigned int, unsigned int, unsigned int);
+    virtual unsigned int AcFtr_VF38(unsigned int, unsigned long long);
     virtual unsigned int AcFtr_VF39();
     virtual void AcFtr_VF40();
     virtual void AcFtr_VF41();
@@ -56,8 +56,7 @@ public:
 
     private:
     char unk_0x010[0x2e8];
-    unsigned int unk_0x2f8;
-    unsigned int unk_0x2fc;
+    unsigned long long unk_0x2f8;
     char unk_0x300[0x464];
     unsigned short unk_0x764;
     char unk_0x768[0x3e];
